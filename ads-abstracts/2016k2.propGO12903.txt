@@ -1,0 +1,7 @@
+%R 2016k2.propGO12903
+%T Monitoring Engineering Test overlap targets during Campaign 12
+%A GO Office, K2 
+%J Kepler/K2 Campaign 12 Guest Observer Proposal GO12903
+%D 03/2016
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO12903
+%B K2 DDT Program.

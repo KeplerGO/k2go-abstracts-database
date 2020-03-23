@@ -1,0 +1,7 @@
+%R 2014k2.propGO2056
+%T A K2 Study of Young Stars in Upper Scorpius: Disk Effects, Stellar Activity, and Planets at 3-5 Myr
+%A Hillenbrand, Lynne 
+%J Kepler/K2 Campaign 2 Guest Observer Proposal GO2056
+%D 05/2014
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO2056
+%B K2 Campaign 2 program.

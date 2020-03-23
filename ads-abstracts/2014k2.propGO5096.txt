@@ -1,0 +1,9 @@
+%R 2014k2.propGO5096
+%T The K2 Extra-Galactic Survey (KEGS)
+
+Transient Survey; Cycle 1
+%A Olling, Robert P; Rest, Armin; Tucker, Brad E; Mushotzky, Richard; Shaya, Ed; Garnavich, Peter M.; Kasen, Daniel Nathan 
+%J Kepler/K2 Campaign 5 Guest Observer Proposal GO5096
+%D 09/2014
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO5096
+%B We propose to monitor up to 8,500 bright (g'<~ 18.8) galaxies in the combined campaigns 4 and 5 (K2-GO Cycle 1),  which should yield 5 - 50 extremely well-sampled light curves (LCs) of supernovae and ~350 new AGN. To date, we have identified 5 supernova events in our Kepler GO programs. K2 offers a unique opportunity to observe the early LCs of supernovae in unprecedented detail.  We also have found that ~4% of galaxies observed by Kepler show AGN-like activity  (Shaya et al, 2014) and Kepler data can provide spectacular power density functions.  Based on our Kepler GO2, GO3 and GO4 data, we have developed techniques to obtain high quality long-term LCs from Kepler data: these methods will be applied to the K2 data.  Concurrent with the K2 observations, we will observe our K2 targets with ground-based facilities. When a SN appears in the field, we will issue a trigger to a large community of SN observers to obtain additional spectra and multi-color data sets. In combination with the K2 data, these SNe will be some of the best observed SN events, and these data will lead to: 1) a significant improvement in our understanding of the explosion mechanism of supernovae, 2) better calibration of SNe and therefore better luminosity distances for cosmological studies and 3) better constraints on the equation of state of dark energy.

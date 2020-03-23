@@ -1,0 +1,7 @@
+%R 2016k2.propGO14901
+%T Targets with Tycho-Gaia DR1 (TGAS) parallaxes known to better than 5%
+%A GO Office, K2 
+%J Kepler/K2 Campaign 14 Guest Observer Proposal GO14901
+%D 12/2016
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO14901
+%B K2 DDT Program.

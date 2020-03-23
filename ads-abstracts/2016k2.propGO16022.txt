@@ -1,0 +1,11 @@
+%R 2016k2.propGO16022
+%T Revisiting Praesepe:  Spot Evolution at 650 Myr on 2-3 Year Timescales
+%A Rebull, Luisa; Cameron, Andrew Collier; Cody, Ann Marie; hillenbrand, lynne a; Stauffer, John R. 
+%J Kepler/K2 Campaign 16 Guest Observer Proposal GO16022
+%D 12/2016
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO16022
+%B We propose to obtain light curves for ~560 low mass stars in the Praesepe open cluster during the K2 Cycle 16 campaign. Our primary goal will be to compare the phased light curves for a set of about about 400 stars which were previously observed by K2 in Campaign 5, in order to obtain the best ever measurement of the quantitative evolution in the population statistics for spots in a large sample of young stars with a range in mass from 0.1 to 1.4 Msun.
+
+We will also observe a small sample of other stars to complete our census and characterization of the rotational properties of Praesepe members, primarily including members that fell off the K2 FOV in Campaign 5, but also including stars whose Campaign 5 light curves were either suspect for some reason or were very interesting (and where we want to confirm the unusual nature and see how it varies with time).
+
+Our team includes specialists in detrending K2 light curves, in spot modelling and spot evolution, and in the rotational evolution of low mass stars.

@@ -1,0 +1,7 @@
+%R 2015k2.propGO9926
+%T Lagoon Nebula superstamp
+%A GO Office, K2 
+%J Kepler/K2 Campaign 9 Guest Observer Proposal GO9926
+%D 07/2015
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO9926
+%B A superstamp was placed over the Lagoon Nebula to capture a large number of targets from proposal GO9921.  This avoids the need for a large number of overlapping individual target masks in the core of the cluster.

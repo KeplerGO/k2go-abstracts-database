@@ -1,0 +1,7 @@
+%R 2014k2.propGO0008
+%T The Nearby Brown Dwarf WISEP J060738.65+242953.4
+%A Gizis, John 
+%J Kepler/K2 Campaign 0 Guest Observer Proposal GO0008
+%D 02/2014
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO0008
+%B K2 Campaign 0 program.

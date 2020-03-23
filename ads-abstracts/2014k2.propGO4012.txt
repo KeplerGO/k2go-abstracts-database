@@ -1,0 +1,7 @@
+%R 2014k2.propGO4012
+%T Origins and Predictions of Radial Velocity Jitter from K2 Light Curves
+%A Wright, Jason T; Bastien, Fabienne Anne; Covey, Kevin; Stassun, Keivan Guadalupe; Douglas, Stephanie T; Johnson, John Asher; Agueros, Marcel 
+%J Kepler/K2 Campaign 4 Guest Observer Proposal GO4012
+%D 09/2014
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO4012
+%B We seek to use high precision, long time-baseline light curves from NASA's K2 mission, together with radial velocity (RV) and magnetic activity measurements to (1) develop an empirical predictor of stellar RV variations from light curves, following the methodology developed by Bastien et al. (2014), and (2) examine the age, magnetic activity, and spectral type dependence of RV-photometric variability relations. The relations we derive will be immediately useful to the transiting extrasolar planet community as they will permit the use the already available discovery light curves to assess which stars will are the most promising candidates for RV follow-up studies.

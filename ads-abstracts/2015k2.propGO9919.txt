@@ -1,0 +1,7 @@
+%R 2015k2.propGO9919
+%T Dating the oldest stars: Asteroseismology of Milky Way bulge stars from redshifts z>10
+%A Asplund, Martin 
+%J Kepler/K2 Campaign 9 Guest Observer Proposal GO9919
+%D 07/2015
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO9919
+%B The first stars and their immediate successors are predicted to have formed within the first 300 million years after the Big Bang, corresponding to redshifts z>15, with any survivors now preferentially residing in central regions of galaxies like the Milky Way. We have recently discovered for the first time a large number of extremely metal-poor stars in the Milky Way bulge, which are prime candidates for being the oldest known objects in the Universe (Howes et al., 2015, Nature, 527, 484). We propose to use the unique opportunity offered by K2 campaign 9 to obtain asteroseismic ages for some of these stars, the only way ages for these truly ancient red giant stars can be determined.

@@ -1,0 +1,9 @@
+%R 2014k2.propGO5074
+%T An asteroseismic study with K2 of solar-like oscillators in four open clusters
+%A Basu, Sarbani 
+%J Kepler/K2 Campaign 5 Guest Observer Proposal GO5074
+%D 09/2014
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO5074
+%B K2 fields 4 and 5 offer us the unprecedented opportunity to study four very interesting open clusters: Pleiades, Hyades, M44 and M67. We propose to do an asteroseismic study of stars in these clusters using solar-type oscillators.
+ While all four clusters have been well studied, most depend on isochrone fitting to determine cluster properties. The properties therefore depend on the assumed distance to the cluster and the extinction too. Asteroseismic studies will allow us to determine properties of the cluster that do not depend on the distances and are only indirectly dependent on the extinction.  Since these stars in each cluster should have a very small spread of ages and metallicities, an ensemble study of these stars will also allow us to test different aspects of the theory of stellar structure and evolution.
+ The targets of our study are predominantly main-sequence and subgiant stars. Consequently, all our targets need to be observed in the short cadence.  The proposal team covers all the expertise needed: time series analysis, peak-bagging to determine frequencies, asteroseismic analyses of the frequencies, expertise on rotation and stellar activities which might make interpretation difficult as well as abundance analyses needed for the complete analysis of the asteroseismic data.

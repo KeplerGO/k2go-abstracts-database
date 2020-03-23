@@ -1,0 +1,7 @@
+%R 2014k2.propGO1013
+%T Kepler light curves of hot subdwarf binaries
+%A Geier, S. 
+%J Kepler/K2 Campaign 1 Guest Observer Proposal GO1013
+%D 03/2014
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO1013
+%B K2 Campaign 1 program.

@@ -1,0 +1,7 @@
+%R 2018k2.propGO19069
+%T Neptune and Triton Atmospheric Dynamics
+%A Smith, Heather 
+%J Kepler/K2 Campaign 19 Guest Observer Proposal GO19069
+%D 04/2018
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO19069
+%B The scientific goals are to determine if the atmosphere/ surface irregular interactions on Neptune can be extrapolated from images taken by K2. If Triton is also in the image then we would also like to investigate the detection of and changes in the N2 atmosphere.

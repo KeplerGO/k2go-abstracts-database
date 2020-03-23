@@ -1,0 +1,11 @@
+%R 2016k2.propGO12036
+%T Searching For Planets In Binary Stars
+%A Wang, Ji; Riddle, Reed L; Baranec, Christoph; Law, Nicholas M; Jensen-Clem, Rebecca; Salama, Maissa; Mawet, Dimitri Paul Quentin; Huang, Xu; Duev, Dmitry 
+%J Kepler/K2 Campaign 12 Guest Observer Proposal GO12036
+%D 03/2016
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO12036
+%B Prior to the launch of the Kepler mission, we already knew that there are hundreds of binary stars in its field of view. For these binary stars, we find a striking deficiency of small planets. We propose to observe more known binary stars to confirm the deficiency. We consider only S-type circumstellar planet system, in which a planet orbits one of the binary stars, NOT circumbinary planets (P-type).
+
+Our sample consists of 1208 binary stars, which represents the largest sample of binary stars for planet search. This sample will allow us to study small and large planets in binary stars. The former can be uniquely probed by the K2 mission. We will reduce the measurement uncertainty by a factor of 2-3, which will place better constraints on the occurrence rate of planets in binary stars
+
+Targeting binary stars with no prior information of planet helps to unambiguously address the planet occurrence rate in binary stars. Increasing the sample size helps not only to confirm the deficiency of planets in binary stars but also study the influence of stellar companions on planets with different sizes and orbital separations. Future NASA mission in search of habitable worlds will inevitably encounter with this question: to select binary stars or not, which account for 33% of stars in the solar neighborhood. This proposal will pave the way to solve this question.

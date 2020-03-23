@@ -1,0 +1,7 @@
+%R 2016k2.propGO16901
+%T A Transit Search Around New Candidate White Dwarfs
+%A Lewis, John Arban 
+%J Kepler/K2 Campaign 16 Guest Observer Proposal GO16901
+%D 12/2016
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO16901
+%B We propose observations of about 100 newly identified candidate white dwarfs in K2 Campaigns 15 and 16, with the primary scientific goal of detecting planetary transits. We identified these white dwarfs from their large reduced-proper-motion (RPM) cuts using a new proper motion catalog that incorporates positions from the first Gaia data release. These new white dwarf candidates will supplement previously proposed white dwarfs and increase the likelihood that new highly valuable transiting objects will be found by K2.

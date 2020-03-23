@@ -1,0 +1,7 @@
+%R 2015k2.propGO7086
+%T Discovery and Vetting of K2 Exoplanets
+%A Thompson, Susan E; Caldwell, Douglas A.; Coughlin, Jeffrey Langer; Mullally, Fergal; Quintana, Elisa Victoria; Rowe, Jason Frank 
+%J Kepler/K2 Campaign 7 Guest Observer Proposal GO7086
+%D 02/2015
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO7086
+%B We seek to create a catalog of well-vetted exoplanets discovered by the K2 mission, suitable for follow-up by JWST and other facilities. We propose the observation of 10,000 bright stars, over campaigns 6 and 7, which is expected to yield at least 100 transiting exoplanets. We will thoroughly vet these planets to eliminate many different types of false positives, utilizing our group's vast experience in vetting exoplanets discovered by the main Kepler mission. We will create a publicly available catalog of all planet candidates for use in exoplanet occurrence rate and other studies. This proposal utilizes the unique capabilities of the K2 mission, including its extreme photometric precision and continuous 75-day observing range. This proposal directly contributes towards NASA's Astrophysics Divisions science goal to "Discover and study planets around other stars, and explore whether they could harbor life."

@@ -1,0 +1,24 @@
+%R 2015k2.propGO8010
+%T Lightcurves of  Hilda asteroids: Tracing migrations in the early solar system
+%A Ryan, Erin Lee; Woodward, Charles E. 
+%J Kepler/K2 Campaign 8 Guest Observer Proposal GO8010
+%D 07/2015
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO8010
+%B Studies of the small bodies of the solar system reveal important clues about the condensation and formation of planetesimal bodies, and ultimately planets in planetary systems. Dynamics of small bodies have been utilized to model giant planet migration within our solar system [1-5], colors have been used to explore compositional gradients within the protoplanetary disk [6-7], and studies of the size-frequency distribution of main belt asteroids may reveal compositional dependences on planetesimal strength which may limit models of planetary growth from collisional aggregration of planetesimals. Studies of the optical lightcurves of asteroids also yield important information on shape and potential binarity of asteroidal bodies.
+
+Light curves of Hilda asteroids populations yield key information about the primordial shape and binary fraction of these small body populations. Milli-mag Kepler photometry will tightly constrain both of the latter characteristics. This population is in the stable 3:2 resonance with Jupiter at 4 AU and collisional frequencies within these populations are the lowest within inner solar system small body populations [8-9]. Results from the WISE survey suggest that  ~40% of Hilda asteroids are either extremely elongated objects, or are binaries[10]. Kepler optical light curves are required to confirm these controversial findings. Ground based optical surveys are not optimal for this type of photometric variability survey. Large amounts of observing time are required, and analysis of lightcurves obtained over a few nights is hampered by aliasing induced by limited photometric sampling over regularly spaced nightly intervals. Kepler however is ideal for this type of photometric survey of asteroid variability due to the photometric stability of the observing platform.
+
+We have identified ~12 objects for study in the Hilda asteroid populations to be studied with Kepler in Campaigns 8 & 10 with magnitudes of m_V < 20. These objects are not stationary within the Kepler fields, rather they move across the field, resulting in a mean time in the Kepler field of view on active silicon of 40 days for our targets. We will utilize data obtained with the 30 minute Kepler cadence to determine rotational periods for our selected targets. The ratio of lightcurve amplitudes will subsequently be utilized to determine body elongation and/or binarity to test the results reported by the WISE survey.
+
+References:
+
+[1] Franklin, F.A. et al. 2004, Astronomical Journal, 128, 1391
+[2] Gomes, R. et al. 2005, Nature, 435, 466
+[3] Tsiganis, K. et al. 2005, Nature, 435, 459
+[4] Morbidelli, A. et al. 2005, Nature, 435, 462
+[5] Levison, H. et al. 2009, Nature, 460, 364
+[6] Gradie, J. and Tedesco, E. 1982, Science, 216, 1405
+[7] Carvano, J. et al. 2010, Astronomy & Astrophysics, 510, A43
+[8] Dahlgren, M. 1998, Astronomy & Astrophysics, 336, 1056
+[9] Dell'Oro, A. et al. 2001, Astronomy & Astrophysics, 366, 1053
+[10] Sonnett, S. et al. 2014, astro-ph eprint arXiv:1412.1853

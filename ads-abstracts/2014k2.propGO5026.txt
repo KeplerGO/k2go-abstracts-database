@@ -1,0 +1,7 @@
+%R 2014k2.propGO5026
+%T Rotation periods of very low mass stars and brown dwarfs in open clusters
+%A Scholz, Aleks; Eisloeffel, Jochen; Peterson, Dawn E; Melnikov, Stanislav 
+%J Kepler/K2 Campaign 5 Guest Observer Proposal GO5026
+%D 09/2014
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO5026
+%B We propose to measure rotation periods for ~750 very low mass (VLM) stars (0.08<M<0.3 Msol) and brown dwarfs (M<0.08 Msol) in campaign 4 and 5 of the Kepler-2 mission. The field-of-view of these campaigns covers the three open clusters Hyades, Pleiades, and Praesepe, the only main-sequence clusters in the Kepler-2 fields for which VLM cluster members can be monitored with sufficient precision to measure rotation periods. At ages of 100 and 600 Myr, the Pleiades and the Hyades are the ideal targets to constrain spindown models. In contrast to solar-mass stars, the spindown of VLM objects, especially in the substellar domain, is very poorly understood, particularly due to a lack of empirical constraints.  Kepler-2 will help us to remedy this situation. We expect to derive hundreds of VLM periods, an improvement by a factor of ~4 compared with the existing literature. This will enable us to derive the spindown timescales for VLM objects as a function of mass and to provide critical constraints for wind models in this mass domain. The lightcurves will be useful for a variety of secondary science projects, including the search for benchmark eclipsing binaries and for the first close-in planets around brown dwarfs.

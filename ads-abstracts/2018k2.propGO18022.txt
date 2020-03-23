@@ -1,0 +1,7 @@
+%R 2018k2.propGO18022
+%T Phoenix From The Ashes: Coronal Activity In Old Dwarf Stars
+%A Whitehouse, Lewis; Farihi, Jay; Hermes, J. J. 
+%J Kepler/K2 Campaign 18 Guest Observer Proposal GO18022
+%D 04/2018
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO18022
+%B Carbon (giant) stars are identified by the presence of molecular carbon (C2) absorption bands in their optical spectra indicating that the C/O ratio has been tipped above unity, owing to core dredge-up of triple-α burning products. Intriguingly, a similar carbon enhancement is observed in dwarf stars, a strong indication of extrinsic carbon pollution. The prototype dwarf carbon (dC) star (G77-61; Dahn et al. 1977) exhibits clear halo kinematics, and is extremely metal poor ([Fe/H] = −4.03; Plez & Cohen 2005). This star is also a single lined spectroscopic binary, with a presumably cold white dwarf secondary (Dearborn et al. 1986). These data support efficient binary mass transfer, from a carbon-rich giant onto a solar-type main-sequence star. Among the growing number of dC stars discovered in the SDSS, there are more than a dozen that exhibit Hα emission, suggesting these stars are spun up due to mass transfer and subsequent accretion. We propose to observe all dC stars in the upcoming K2 campaign fields to measure and constrain rotation periods and flares. The overall goal is to constrain mass and angular momentum transfer, and our findings will be compared with established age-rotation-activity relations for isolated main-sequence stars.

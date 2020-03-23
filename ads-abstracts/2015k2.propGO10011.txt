@@ -1,0 +1,7 @@
+%R 2015k2.propGO10011
+%T Search for rotational modulation in precise photometry of white dwarf stars
+%A Kawaler, Steven 
+%J Kepler/K2 Campaign 10 Guest Observer Proposal GO10011
+%D 07/2015
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO10011
+%B This program will use very sensitive photometric observations of white dwarfs by Kepler/K2 during Campaigns 8 and 10 to search for rotational modulation of the flux from low-magnetic field white dwarf stars caused by magnetic phenomena (such as starspots and plages). On the expected white dwarf rotation periods (about 1 day, generalizing from nonradially pulsating white dwarfs), the low amplitude of the expected variations renders them extremely difficult to detect using ground-based photometry. K2 will be able to observe many well-studied field (and cluster) white dwarfs. Measurement of rotation modulation (or even upper limits to photometric amplitude variations) will further exploit those data to teach us about magnetic fields in these stars that are otherwise inaccessible observationally. In the nonradially pulsating white dwarfs, we can independently measure the rotation rate, providing a test of asteroseismic rotation periods.

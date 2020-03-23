@@ -1,0 +1,7 @@
+%R 2015k2.propGO6040
+%T Stellar population properties inferred from observations of eclipsing binary stars
+%A Prsa, Andrej; Maxted, Pierre F; Quarles, Billy L; Conroy, Kyle; Pepper, Joshua 
+%J Kepler/K2 Campaign 6 Guest Observer Proposal GO6040
+%D 02/2015
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO6040
+%B Eclipsing Binary Stars are the cornerstone of stellar astrophysics. They provide fundamental stellar parameters (masses, radii, temperatures and luminosities) for objects across the H-R diagram. The K2 mission will probe fields along the ecliptic, thus allowing us to study inherently different stellar populations and their distributions as a function of galactic latitude. Campaigns 6 and 7 focus on the most diverse populations, namely in the direction of the north galactic cap and the galactic center, including NGC 6717, a globular cluster in Sagittarius. Because stars in clusters are coeval, share a common evolutionary path and feature the same chemical abundances, eclipsing binaries found in clusters serve as distance calibrators and stellar population gauges. We collected all known eclipsing binary stars in fields 6 and 7 from available online catalogs (via Simbad and VizieR services), and performed a thorough search for binaries in the proprietary Kilodegree Extremely Little Telescope (KELT) and SuperWASP survey data to assemble a list of proposed targets for this solicitation. The reduction and analysis will be done by experienced members of the Kepler Eclipsing Binary Working Group.

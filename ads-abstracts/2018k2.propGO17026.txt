@@ -1,0 +1,7 @@
+%R 2018k2.propGO17026
+%T Searching For Extended Exoplanetary Atmospheres Around Active Stars
+%A Jensen, Adam; Ryan, Austin; Redfield, Seth; Endl, Michael; Cauley, P. Wilson 
+%J Kepler/K2 Campaign 17 Guest Observer Proposal GO17026
+%D 04/2018
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO17026
+%B We propose to observe a sample of chromospherically active stars in the K2 Campaign 17, 18, and 19 fields to expand upon a funded Cycle 3 program covering Campaign fields 8 and 10 (15-K2GO3 2-0040). Additional targets from follow-up proposals for this program were selected in Cycles 4 and 5 (Fields 11–15 as of this writing, Field 16 pending) for a total of 417 targets. The goal in observing these stars is to (1) search for planets around active stars that may show significant star-planet interaction (SPI) and be good transmission spectroscopy folllow-up candidates and (2) expand the active number of stars with detailed light curves to study their variability.

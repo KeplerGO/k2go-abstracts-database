@@ -1,0 +1,7 @@
+%R 2018k2.propGO17045
+%T Evolution of Spin States in Transneptunian Binaries
+%A Grundy, Will; Ryan, E.; Porter, S.; Ragozzine, D.; Thirouin, A. 
+%J Kepler/K2 Campaign 17 Guest Observer Proposal GO17045
+%D 04/2018
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO17045
+%B We propose long cadence K2 observations of 19 transneptunian binary and candidate binary systems to constrain the rotation states of their component bodies. This information is crucial to understanding their formation environment in the protoplanetary nebula as well as their subsequent evolution. K2’s ability to observe continuously is key to teasing apart the rotational modulations of both bodies if they are different, or being able to determine that they are not, in cases where they have become tidally locked like Pluto and Charon.

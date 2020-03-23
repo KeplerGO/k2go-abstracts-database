@@ -1,0 +1,7 @@
+%R 2015k2.propGO10902
+%T Continuing K2 Advances with White Dwarfs in Field 10
+%A Hermes, J J 
+%J Kepler/K2 Campaign 10 Guest Observer Proposal GO10902
+%D 07/2015
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO10902
+%B We propose short-cadence observations in K2 Field 10 of four candidate pulsating white dwarfs and two known remnant planetary systems. These DDT observations supplement our GO proposal; two of these targets have new spectroscopy putting the stars within 250 K of the empirical instability strip, and we now propose two faint targets having seen the success of K2 with Kp ∼19.0 stars.

@@ -1,0 +1,7 @@
+%R 2018k2.propGO19007
+%T K2 Cycle 6 Observations of Cataclysmic Variables
+%A Ramsay, Gavin; Wood, Matt; Howell, Steve; Cannizzo, John; Smale, Alan 
+%J Kepler/K2 Campaign 19 Guest Observer Proposal GO19007
+%D 04/2018
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO19007
+%B We propose to continue our highly successful and productive programme to study Cataclysmic Variables using Kepler and K2. Our primary goal is to obtain a better understanding of the physical processes occuring when an accretion disc goes into outburst and how the disc behaves during quiescence. We have identified four CVs in fields 17–19.

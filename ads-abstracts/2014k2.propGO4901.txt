@@ -1,0 +1,7 @@
+%R 2014k2.propGO4901
+%T K2 photometry of bright Pleiades and Hyades Stars
+%A White, Tim 
+%J Kepler/K2 Campaign 4 Guest Observer Proposal GO4901
+%D 09/2014
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO4901
+%B We propose a pilot study to perform K2 photometry on bright (Kp < 5.5) targets using a small number of unsaturated pixels. The test will be performed on nine 3–5 mag B-stars and red giants in the Pleiades and Hyades open clusters, at a pixel cost equivalent to ∼48 12th mag stars. If successful, this technique will open an unprecedented window for K2 to study the interiors of bright stars with exceptionally well determined fundamental properties.

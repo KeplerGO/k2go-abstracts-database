@@ -1,0 +1,7 @@
+%R 2018k2.propGO17037
+%T A Search For Transiting Objects Orbiting White Dwarf Stars
+%A Redfield, Seth; Cauley, P. Wilson; Farihi, Jay; Gaensicke, Boris; Veras, Dimitri 
+%J Kepler/K2 Campaign 17 Guest Observer Proposal GO17037
+%D 04/2018
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO17037
+%B Given their small size, approximately the size of a terrestrial planet, white dwarf stars present an intriguing sample to monitor for transiting objects. Several researchers have explored the possibility of detecting very small objects, even down to exoasteroids, around white dwarf stars (e.g., Di Stefano et al. 2010, Agol 2011, Loeb & Maoz 2013, Fulton et al. 2015). The detection of the first transit of planetary objects orbiting a white dwarf came in the first campaign of K2 (Vanderburg et al. 2015), and likely signals just the beginning of new detections of an exciting class of planetary systems. Follow-up photometry (Croll et al. 2015, Gaensicke et al. 2016) and spectroscopy (Xu et al. 2016) show that the system is dynamic and changing on short (days to weeks) timescales. Our team is involved in the immediate follow-up, both photometrically (Gaensicke et al. 2016) and spectroscopically (Redfield et al. 2016, see Fig. 1). The transit of an Earth-sized planet would cause a full eclipse of the host star, and therefore would be easy to detect. However, the transits are very short, on the order of seconds to minutes. This makes them good targets for a continuous, high-precision, short cadence K2 program.

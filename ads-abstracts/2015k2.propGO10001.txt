@@ -1,0 +1,7 @@
+%R 2015k2.propGO10001
+%T AGN Variability Studies with Kepler K2 Campaigns 8 and 10
+%A Edelson, Rick; Horne, Keith; Stern, Daniel K; Vaughan, Simon; Malkan, Matthew A; McHardy, Ian 
+%J Kepler/K2 Campaign 10 Guest Observer Proposal GO10001
+%D 07/2015
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO10001
+%B Kepler's unprecedented precision, sampling, and duty cycle is revolutionizing the study of AGN optical variability, providing the first observation of a break in the optical PSD of a Seyfert 1 galaxy and clarification of the nature of microvariability in blazars.  Campaign 10 includes two important AGN.  We propose to combine simultaneous SC and X-ray monitoring of the blazar 3C 273 to measure the interband correlation and test the standard synchrotron self-Compton model.  We will use simultaneous LC and Swift UVOT monitoring of the Seyfert 1 galaxy NGC 4593 to perform reverberation mapping of the accretion disk.  We also propose LC monitoring of 201 other AGN/AGN candidates in Campaigns 8 and 10 as part of our program to observe hundreds of AGN throughout the K2 mission.  This will vastly improve the statistical leverage for characterizing AGN optical variability.

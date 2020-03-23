@@ -1,0 +1,7 @@
+%R 2018k2.propGO17055
+%T K2 Ages of Thick-Disk K Dwarfs
+%A Peterson, Ruth 
+%J Kepler/K2 Campaign 17 Guest Observer Proposal GO17055
+%D 04/2018
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO17055
+%B The scientific goal of this proposal is to determine the diversity in age among K dwarfs located ~1kpc above the Galactic plane. Youthful members are revealed from semi-periodic brightness variations of up to 1% caused by sunspots rotating across the stellar disk. In open clusters aged 1 Gyr or less, single GK dwarfs have rotational periods of ≥10 days, but in open clusters several Gyr old, their periods exceed 20 days. The proposed K2 light curves are for field K dwarfs with Kepler magnitudes 16.5/17.0 < Kp < 18.6 in C17 and C19, both at galactic latitude b ~ 60°. They will show to what extent binaries and young stars are present among the main-sequence stars at the above heights, constraining scenarios of the formation of the disk populations of the Galaxy.

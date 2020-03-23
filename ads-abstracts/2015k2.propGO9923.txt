@@ -1,0 +1,9 @@
+%R 2015k2.propGO9923
+%T Asteroseismology of the Brightest K2 Stars
+%A White, Timothy 
+%J Kepler/K2 Campaign 9 Guest Observer Proposal GO9923
+%D 07/2015
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO9923
+%B Models describing the interior structure and atmospheres of stars are of fundamental importance across many areas of astrophysics, from the characterization of exoplanets to physical processes governing stellar interiors, stellar populations and galaxy dynamics. As our knowledge of stellar physics progresses, models must be anchored to empirically determined measurements to reliably predict properties of stars for which direct observations are difficult to obtain.
+
+The most powerful tests of stellar models come from the brightest stars, for which complementary observational techniques such as astrometry, asteroseismology, and interferometry can be combined. We propose long-cadence observations of the brightest K2 stars in Campaign 9. The key science goals are to use detections of oscillations in red giants to calibrate asteroseismic scaling relations, and to use pulsations in bright stars to provide insights into poorly understood physical processes such as convective core overshooting

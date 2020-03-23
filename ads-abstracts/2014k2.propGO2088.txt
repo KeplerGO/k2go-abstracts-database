@@ -1,0 +1,7 @@
+%R 2014k2.propGO2088
+%T Flares on Young Stellar Objects in the rho Oph Star Forming Region
+%A Valenti, J. 
+%J Kepler/K2 Campaign 2 Guest Observer Proposal GO2088
+%D 05/2014
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO2088
+%B K2 Campaign 2 program.

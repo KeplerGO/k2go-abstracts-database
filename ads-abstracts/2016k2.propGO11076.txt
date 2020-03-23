@@ -1,0 +1,31 @@
+%R 2016k2.propGO11076
+%T A Statistically Critical Sample of Planetary Nebula Central Stars to Assess Their Binary Frequency
+%A Jacoby, George H; Kronberger, Matthias; Long, Joseph D; De Marco, Orsola; Hillwig, Todd C 
+%J Kepler/K2 Campaign 11 Guest Observer Proposal GO11076
+%D 03/2016
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO11076
+%B It was believed until recently that all stars of 1 to 8 Msun enter a short (<50,000 yr) planetary nebula (PN) phase between the AGB and white dwarf phases. This textbook picture of stellar evolution is failing. Considerable evidence now exists to argue that PN formation requires unusual circumstances (e.g., binary interactions; De Marco 2009).
+
+The textbook model fails in several ways: (1) the number of PNe in galaxies is 5X too low, (2) PNe should not form in globular clusters but they do, (3) >80% of PNe are non-spherical yet their progenitor stars have spherical winds, and (4) the PN luminosity function (PNLF) method for measuring galaxy distances should place ellipticals 3X too far but doesn't. These anomalies can be explained if most PNe are a manifestation of binary interactions rather than a normal phase of evolution (Jacoby et al 1997; De Marco 2009). In terms of broader impact, resolving the PN formation mechanism can explain the success of the PNLF, improving confidence in its results, and change our expectations for the chemical composition of material returned to the ISM, which affects galactic chemical evolution. 
+
+We monitored all 6 PN central stars (PNCS) in Keplers original field. Ground-based data suggested that 15% (i.e., 1) PNCS would exhibit variability of sufficient amplitude (5%) to imply a close companion (Miszalski et al. 2009). With Keplers superior photometry, we detected periodic variability in 3 PNCS and quasiperiodic behavior in a fourth, at amplitudes up to 100X lower than ground-based data can measure. All 4 variables are very likely a consequence of binary interactions (De Marco et al 2015).
+
+Of the remaining 2 PNe, Kepler could not separate the PNCS from the nebula in one case. In the other  (Abell 61), the star didnt vary, but its spherical morphology is compatible with a single star origin having no photometric variation. Thus, all Kepler PNe are consistent with the binary hypothesis. 
+
+We have since examined data from K2 campaigns 0 (3 PNe) and 2 (4 PNe).  These PNe have fainter stars and more compact nebulae than those in the Kepler field. Also, the K2 sensitivity is degraded relative to Kepler; 2 of the 4 variables seen in the Kepler field would have been missed with K2. Still, we did find 1 excellent contact binary with a period of 0.6d. 
+
+We plan to develop a tuned reduction scheme that addresses our problem specifically, i.e. faint stars embedded in bright sky from the nebula. We will focus on that effort when data for campaign 7 targets (8 PNe) are released. The main issue is centroiding the PNCS in busy fields; methods exist (Lauer 1999) that can improve centroid measurement and photometry for undersampled data. 
+
+Due to the challenging targets in the K2 fields, our useful sample remains small despite a total of 22 objects. Campaign 11, though, covers an extremely PN-rich field with 195 PNe falling on silicon. Most of these suffer similar issues: faint stars, compact nebulae, crowded fields. We will include all targets for completeness and future analysis, noting that 36 PNe have quality comparable to those in the Kepler field.
+ 
+That will bring the Kepler binary central star search to a statistical level that is better than other binary PNCS detection methods (Miszalski et al 2009; Douchin et al 2015). We will again follow up photometric variables with radial velocity spectra from Gemini to validate binary periodicities (see De Marco et al 2015). 
+
+This is a continuing program from Kepler cycle 3 (6 objects), and the K2 Campaigns 0, 2, and 7 (15 objects). We will drastically improve the statistics of the sample to >50 PNe. Campaign 11 is essential, as it is the most populated field to study PNe with Kepler.
+
+References:
+De Marco, O., 2009. PASP, 121, 316
+De Marco, O. et al, 2015, MNRAS, 448, 3587
+Douchin, D. et al, 2015, MNRAS, 448, 3132
+Jacoby, G. et al, 1997, AJ, 114, 2611
+Lauer, T., 1999, PASP, 111, 1434
+Miszalski, B. et al, 2009, A&A 496, 813

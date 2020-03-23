@@ -1,0 +1,7 @@
+%R 2014k2.propGO1034
+%T Asteroseismology of Stars in Eclipsing-Binary Systems
+%A Gaulme, Patrick 
+%J Kepler/K2 Campaign 1 Guest Observer Proposal GO1034
+%D 03/2014
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO1034
+%B K2 Campaign 1 program.

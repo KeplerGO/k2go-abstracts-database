@@ -1,0 +1,7 @@
+%R 2014k2.propGO3034
+%T Preparing for TESS Planets in the Habitable Zone
+%A Chew, Y. 
+%J Kepler/K2 Campaign 3 Guest Observer Proposal GO3034
+%D 05/2014
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO3034
+%B K2 Campaign 3 program.

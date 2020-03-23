@@ -1,0 +1,7 @@
+%R 2014k2.propGO0047
+%T The Causes Of Variability Of O-type Stars: Pulsation And Rotation
+%A Balona, Luis 
+%J Kepler/K2 Campaign 0 Guest Observer Proposal GO0047
+%D 02/2014
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO0047
+%B K2 Campaign 0 program.

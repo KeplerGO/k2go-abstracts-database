@@ -1,0 +1,7 @@
+%R 2018k2.propGO19067
+%T Getting a Head Start on TESS
+%A Barclay, Thomas 
+%J Kepler/K2 Campaign 19 Guest Observer Proposal GO19067
+%D 04/2018
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO19067
+%B The Transiting Exoplanet Survey Satellite (TESS) will observe almost all stars below ecliptic latitude of -6 deg and above ecliptic latitude of +6 deg at a cadence of 30 mins or less. We propose to increase the TESS observing baseline by targeting stars with K2 that are visible to TESS. This will allow us to measure exoplanet transit times with baselines of months to years by combining TESS data with K2 data, which will enable us to find planets with long periods, and to measure planet masses using transit timing variations.

@@ -1,0 +1,7 @@
+%R 2018k2.propGO19032
+%T Solar Analogs: Rotation, Activity, Gyrochronology
+%A Buzasi, Derek; Preston, Heather 
+%J Kepler/K2 Campaign 19 Guest Observer Proposal GO19032
+%D 04/2018
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO19032
+%B This project has two mutually supportive goals. First, we will extract light curves and measure rotation periods and photometric activity levels for all bright (V < 10) solar analogs in the C17, C18, and C19 fields, a total of 242 targets. Only long-cadence (30-minute) observations are requred. This work expands on our existing Kepler and K2 analysis, and the use of new fields will allow us to compare different stellar populations and to provide a growing sample of test data for the study of stellar activity, rotation, and gyrochronology (Barnes 2003, Barnes 2007, Garcia et al. 2014, Barnes et al. 2016, Angus et al. 2015). Second, we will make use of our large and growing database of Kepler and K2 light curves to search for the best solar twin candidates and Maunder minimum candidates on which we can perform ground-based and space-based (Chandra, HST) follow-up observations. We have have proposed related versions of this project since K2 Campaign 4 and have been allocated nearly 2000 long-cadence targets but no funding.

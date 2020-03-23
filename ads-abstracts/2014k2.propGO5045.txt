@@ -1,0 +1,15 @@
+%R 2014k2.propGO5045
+%T The Am stars: peculiarities, pulsations and planets
+%A Smalley, Barry; Ripepi, Vincenzo; ABEDIGAMBA, OYIRWOTH PATRICK; Catanzaro, Gianni; Murphy, Simon James; Antoci, Victoria; Balona, Luis A 
+%J Kepler/K2 Campaign 5 Guest Observer Proposal GO5045
+%D 09/2014
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO5045
+%B The metallic-line Am stars are a slowly rotating chemically peculiar sub-class of the A-type stars. Their peculiarities are thought to arise from the interplay between gravitational settling and radiative acceleration. Stars need to be rotating slower than about 120 km/s in order for radiative diffusion to compete with meridional circulation. Most, but not all, Am stars appear to be members of binary systems with periods between 2_x005F_x005F10 days.
+
+Recent studies have found that a significant fraction of Am stars have low-level pulsations, which is at odds with the need for stability to produce the chemical peculiarities. In addition there is increasing evidence for planets orbiting around A-type stars.
+
+Using K2 we will collect a statistically-significant sample of  Am stars, in order to: 1. study the interaction between pulsations and radiative diffusion, 2. perform a statistical study of the incidence of pulsations and binarity within the Am stars, 3. search for additional transiting planetary systems around A-type stars.
+
+We will conduct in-depth periodogram analyses to search for stellar pulsations and low-level variability as we have previously applied to Kepler data. We will complement the photometric analyses with ground-based spectroscopy as necessary.
+
+In conclusion, the K2 mission provides a unique opportunity to investigate the photometric variability of Am stars at micro-magnitude precision. This will provide new insights into the competition between stellar pulsations and element separation processes, as well as the nature of the stellar (and sub-stellar) companions to these chemically peculiar A-type stars.

@@ -1,0 +1,7 @@
+%R 2016k2.propGO11063
+%T Pulsation in a Hot Pre-Planetary Nebula
+%A Hrivnak, Bruce J 
+%J Kepler/K2 Campaign 11 Guest Observer Proposal GO11063
+%D 03/2016
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO11063
+%B This research program deals with the structure and evolution of low and intermediate mass stars in the short-lived (~1000 years) but very important transitional stage between the AGB and the PN phases.  Ground-based studies of the cooler F-G spectral type objects have shown pulsation with amplitudes of a few 0.1 mags with dominant periods of 35 to 160 days and additional weaker periods of similar time scale.  Hotter (B type) objects are found to vary but on much shorter time scales (< few days), and we have not been able to observe these from the ground with a cadence that allows the periods to be determined.  Fortunately two pre-PN are available in the field for Campaign 11.  The K2 mission with the 30 min cadence provides an excellent means to accomplish this goal and for the first time determine the pulsation periods for a hot pre-PN.  These can be used to determine the structure and physical properties of the star, a task that has been accomplished in spectacular fashion with Kepler data for stars in many other phases of their evolution.

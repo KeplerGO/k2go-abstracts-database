@@ -1,0 +1,13 @@
+%R 2014k2.propGO4040
+%T Asteroseismology of delta Scuty stars in the Pleiades and Beehive clusters
+%A Barcelo Forteza, Sebastia 
+%J Kepler/K2 Campaign 4 Guest Observer Proposal GO4040
+%D 09/2014
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO4040
+%B The scientific goal of our proposal is to study the internal dynamics and structure of delta Scuti stars using the tools of asteroseismology.
+
+The structure and rotation of this kind of stars are very complex. In contrast to the well-known solar type oscillations, there are still many unknowns regarding the oscillations in delta Scuti stars: why are hundreds of modes needed to explain the oscillations observed in their light curves? Is there a real spacing as the one seen for solar type oscillations? Could we observe different kinds of modes depending on the rotation rate compared with the critical one? Our aim is to answer these and further questions.
+
+We want to observe up to twenty three stars in two different open clusters: the Pleiades and the Beehive clusters. We can retrieve more information from the study of stars that belong to open clusters than from isolated stars. The key assumption is that, because they have a common origin, these stars have the same characteristics and we can do an isochronal fit to estimate different parameters like age, distance or metalicity. These quantities can then be related to the oscillations observed in each one of these stars.
+
+Furthermore, thanks to the high quality of K2 data and the new techniques that the community has developed, we can improve our results from terrestrial observations made by STEPHI's network.

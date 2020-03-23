@@ -1,0 +1,7 @@
+%R 2015k2.propGO9916
+%T RR Lyrae Stars in the Galactic Bulge
+%A Smolec, Radoslaw 
+%J Kepler/K2 Campaign 9 Guest Observer Proposal GO9916
+%D 07/2015
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO9916
+%B RR Lyr stars populate the bulge in large numbers. The extensive OGLE and ASAS observations were used to select two hundred of the most promising stars, all with interesting or peculiar forms of pulsation. Thus, we have a great opportunity to significantly increase the Kepler+K2 sample of RR Lyr stars with all known forms of pulsation, also with members of classes that were never or scarcely observed from space. The 3-month K2 light curves will be extended by and will benefit from the synergy with the OGLE and ASAS projects, which provide several-year long multicolor photometry. This will allow the characterization of the long-term behavior of these stars, to put the three month long K2 observations into context. Conversely, the K2 observations provide high-precision snapshots, which complement the ground-based surveys. A simple procedure for computing [Fe/H] values has also been established for the Kp band (Nemec et al. 2013). K2 observations of the bulge targets will strongly increase the scientific outcome of our Guest Observer RR Lyr proposals. These observations allow us to study phenomena that have never been studied from space before. 

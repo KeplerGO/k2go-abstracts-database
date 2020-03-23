@@ -1,0 +1,7 @@
+%R 2015k2.propGO10905
+%T HW Vir: are the circumbinary planets really there?
+%A Bours, Madelon 
+%J Kepler/K2 Campaign 10 Guest Observer Proposal GO10905
+%D 07/2015
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO10905
+%B We propose short-cadence observations of the unique, hot-subdwarf post common envelope binary system HW Vir, a prototype of detached eclipsing binaries comprising of a hot subdwarf B primary and a cool M-dwarf, in order to pin down the current orbital period variations and confirm the presence of the proposed circumbinary planets.

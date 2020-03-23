@@ -1,0 +1,7 @@
+%R 2014k2.propGO0010
+%T A Search for Transiting Exoplanets around Cool White Dwarfs
+%A Alonso, R. 
+%J Kepler/K2 Campaign 0 Guest Observer Proposal GO0010
+%D 02/2014
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO0010
+%B K2 Campaign 0 program.

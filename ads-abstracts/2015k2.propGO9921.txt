@@ -1,0 +1,9 @@
+%R 2015k2.propGO9921
+%T K2 Campaign 9: Monitoring Massive Young Stars in the Lagoon Nebula
+%A Cody, Ann Marie 
+%J Kepler/K2 Campaign 9 Guest Observer Proposal GO9921
+%D 07/2015
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO9921
+%B The mechanisms of variability in young stars are intimately tied to their structure and environment. Decades of photometric monitoring have shown that T Tauri stars are highly variable, and that this variability is connected with starspot modulation, circumstellar extinction, and unsteady accretion. Yet only recently have space telescopes provided the high cadence, high precision, long baseline photometric monitoring necessary for discerning and categorizing light curve patterns. This exquisite data has come largely from two projects: the Coordinated Synoptic Investigation of NGC 2264 using the CoRoT telescope (CSI 2264; Cody et al. 2014), and K2’s Campaign 2 observations of the Upper Scorpius and ρ Ophiuchus regions. These efforts have shown that young, low-mass stars display at least eight different types of light curve morphologies.
+
+A key question that has emerged is how the observed light curve fluctuations are tied to physical mechanisms and circumstellar dust properties, as a function of stellar mass and age. The CSI 2264 and K2 C2 efforts that we are involved in focus mainly on 3-10 Myr old stars of K/M spectral types. Yet sparse ground-based monitoring of the higher mass Herbig stars (e.g., Herbst & Shevchenko 1999) has shown that nearly all earlier type accreting stars are variable as well. K2 has the chance to provide optical monitoring data on the relatively unexplored area of high mass star variability during its Campaign 9, which will include the ~1 Myr old high-mass star cluster NGC 6530 (i.e., Lagoon Nebula and its ~60 B stars).

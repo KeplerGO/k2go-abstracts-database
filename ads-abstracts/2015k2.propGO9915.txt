@@ -1,0 +1,9 @@
+%R 2015k2.propGO9915
+%T Classical and Type II Cepheids in the Galactic Bulge
+%A Plachy, Emese 
+%J Kepler/K2 Campaign 9 Guest Observer Proposal GO9915
+%D 07/2015
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO9915
+%B Cepheid stars are crucial objects for a variety of topics that range from stellar pulsation and the evolution of giant stars to the understanding the structure of the Galaxy and the Universe through the distance measurements they provide. Only a handful of them have been observed by photometric missions so far, but they already revealed new insights. Kepler showed that classical Cepheids may exhibit both period jitter and low­amplitude modulation (Derekas et al. 2012, Kanev et al. 2015). Early data from the K2 mission suggests that cycle­to­cycle variations and/or additional modes are also present in Type II Cepheids (Plachy et al., in prep.). 
+
+Most Cepheids reside within the disk and bulge of the Milky Way, therefore Campaign 9 is the best opportunity the mission can offer for us to observe these stars. The bulge population may provide the bulk of the K2 Cepheid light curves, and can greatly increase the science potential of our regular GO proposals. One proposal, in particular, focuses on the Cepheids in the dwarf galaxy IC1613. With a larger sample size, the planned comparison between the populations of the Milky Way and IC1613 will also be much more robust. 

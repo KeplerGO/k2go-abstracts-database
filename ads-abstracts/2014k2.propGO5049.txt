@@ -1,0 +1,7 @@
+%R 2014k2.propGO5049
+%T Continuous Monitoring of Cataclysmic Variables in the K2 Fields
+%A Garnavich, Peter M.; Szkody, Paula; Templeton, Matthew 
+%J Kepler/K2 Campaign 5 Guest Observer Proposal GO5049
+%D 09/2014
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO5049
+%B The original Kepler field contained 27 previously known and/or subsequently discovered cataclysmic variables (CVs) which are close binaries with mass transfer from a late main-sequence star to a white dwarf. Kepler monitored 15 of these systems with results currently published for 8. The detailed coverage enabled unique studies of quiescent orbital and sporadic variability as well as the changes in the disk and stream impact area during short and long dwarf nova outbursts. We propose to monitor a set of CVs in the K2 fields of Campaigns 4 and 5. These data will extend the range of CV types studied with Kepler's unprecedented continuous, fast-candence observations.

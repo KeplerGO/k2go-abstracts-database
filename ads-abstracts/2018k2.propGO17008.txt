@@ -1,0 +1,7 @@
+%R 2018k2.propGO17008
+%T Searching for Terrestrial Planets Orbiting Cool Stars and Brown Dwarfs with K2
+%A Demory, Brice-Olivier; Aigrain, Suzanne; Jenkins, Jon; Meibom, Soeren; Pinsonneault, Marc; Sandquist, Eric; Soderblom, David; Stello, Dennis; Vanderburg, Andrew 
+%J Kepler/K2 Campaign 17 Guest Observer Proposal GO17008
+%D 04/2018
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO17008
+%B Our primary goal is to find terrestrial planets orbiting nearby ultra-cool stars and brown dwarfs similar to the TRAPPIST-1 planets. Most proposed targets benefit from spectroscopic observations that will facilitate the characterisation of planets transiting them. None of the Earth-size planets found so far with Kepler will be amenable to detailed characterisation, even with JWST. Our K2 proposed observations represents an opportunity to find rocky planets that could be characterised with JWST or the ELTs. Our second goal focusses on the variability of stars straddling the hydrogen-burning minimum mass. High-precision monitoring of cool stars and brown dwarfs will prove to be particularly useful for understanding the variability nature of these objects in the visible, even if no transit is detected throughout the sample (see Demory et al. 2013b).

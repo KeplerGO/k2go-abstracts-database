@@ -1,0 +1,7 @@
+%R 2014k2.propGO3069
+%T Targeting M dwarfs with K2
+%A Montet, B. 
+%J Kepler/K2 Campaign 3 Guest Observer Proposal GO3069
+%D 05/2014
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO3069
+%B K2 Campaign 3 program.

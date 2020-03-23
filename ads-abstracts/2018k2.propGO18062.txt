@@ -1,0 +1,7 @@
+%R 2018k2.propGO18062
+%T A Decade On, Which Bees Are Still Buzzing? Monitoring Starspot Evolution In Praesepe From PTF To K2
+%A Agüeros, Marcel; Douglas, S.; Cargile, P.; Covey, K.; Kraus, A.; Law, N.; Mann, A. 
+%J Kepler/K2 Campaign 18 Guest Observer Proposal GO18062
+%D 04/2018
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO18062
+%B We propose to combine data from K2 ’s C5, C16, and C18 with ground-based light curves obtained by PTF and HATNet (Kovács et al. 2014) to examine activity cycles in >1100 Praesepe stars. To our knowledge, there has been no large-scale attempt to revisit P rot measurements for open-cluster stars, and our observations will provide valuable insight into the stability of starspot distributions and magnetic-field structures over baselines of weeks to a decade.

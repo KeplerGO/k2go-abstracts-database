@@ -1,0 +1,7 @@
+%R 2016k2.propGO15901
+%T Re-observations of the peculiar young-stellar object EPIC 204278916
+%A Scaringi, Simone 
+%J Kepler/K2 Campaign 15 Guest Observer Proposal GO15901
+%D 12/2016
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO15901
+%B K2 DDT Program.

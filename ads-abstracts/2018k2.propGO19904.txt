@@ -1,0 +1,7 @@
+%R 2018k2.propGO19904
+%T Monitoring a reference star in support of Hubble's observations of GJ 9827
+%A Hedges, Christina Louise 
+%J Kepler/K2 Campaign 19 Guest Observer Proposal GO19904
+%D 04/2018
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO19904
+%B K2 DDT Program.

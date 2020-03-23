@@ -1,0 +1,7 @@
+%R 2014k2.propGO2036
+%T K2 Observations of Short-Period, p-mode Pulsating Subdwarf B Stars during F2 and F3
+%A Reed, M. D. 
+%J Kepler/K2 Campaign 2 Guest Observer Proposal GO2036
+%D 05/2014
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO2036
+%B K2 Campaign 2 program.

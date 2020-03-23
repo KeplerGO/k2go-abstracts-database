@@ -1,0 +1,9 @@
+%R 2018k2.propGO18048
+%T There And Back Again: Revisiting K2 Targets For Long-Period And Multiplanet Systems
+%A Fabrycky, Daniel; Montet, Benjamin; Kruse, Ethan; Foreman-Mackey, Daniel; Luger, Rodrigo; Agol, Eric 
+%J Kepler/K2 Campaign 18 Guest Observer Proposal GO18048
+%D 04/2018
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO18048
+%B During its mission, K2 observes each field for approximately 75 days before beginning a new campaign. These observations have led to the detection of hundreds of new planet candidates and detailed characterization of bright, nearby, or otherwise remarkable planetary systems (e.g. Foreman-Mackey et al., 2015; Montet et al., 2015; Luger et al., 2016). As successful as K2 has been, it has limits. With observations lasting only 75 days, most detected planets have orbital periods shorter than ≈30 days, so they are outside the habitable zone for most host stars. Additionally, the short baseline can cause large uncertainties on the orbital period, meaning transits can be lost before detailed follow-up by telescopes like JWST can be performed (Fukui et al., 2016).
+
+We propose continued observations of the planet population discovered in previous K2 fields. These observations will enable us to detect and understand long-term transit timing variations (TTVs) in these systems. We will also improve our measurements of the transit times, enabling future atmospheric studies to be more effectively carried out without wasting resources. Given the small sizes of some of these planets and faintness of some host stars, many of these transits cannot be observed from the ground: K2 represents the only opportunity to follow up many of these systems for the next decade. Additionally, we will be able to secure three transits of longer-period planets in these systems, enabling the characterization of K2’s longest-period transiting planets.

@@ -1,0 +1,7 @@
+%R 2016k2.propGO16905
+%T K2 Observations of the Earth occulting the Moon
+%A Van Cleve, Jeff 
+%J Kepler/K2 Campaign 16 Guest Observer Proposal GO16905
+%D 12/2016
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO16905
+%B K2 DDT Program.

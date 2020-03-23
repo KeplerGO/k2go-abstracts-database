@@ -1,0 +1,7 @@
+%R 2018k2.propGO19052
+%T Cool Star Flares Through Time
+%A Barclay, Thomas; Quintana, Elisa; Schlieder, Joshua; Davenport, James 
+%J Kepler/K2 Campaign 19 Guest Observer Proposal GO19052
+%D 04/2018
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO19052
+%B Cool stars are abundant and frequently host small planets. In the coming decade, efforts to detect and characterize rocky planets will focus on M-dwarfs. However, these stars are known to be highly magnetically active, thus planets they host are subjected to significantly more radiation than we experience from the Sun; just how much this affects their habitability is unsettled. We are undertaking an ambitious multi-year, multi-instrument campaign to monitor M-dwarfs with ages from 10 Myr to 10 Gyr at X-ray, UV, optical, and radio wavelengths. The combined data will provide a complete picture of M dwarf activity, enabling us to identify environments conducive to habitable worlds. This proposal is to provide high cadence, long-baseline monitoring of young and field M-dwarfs from K2. The K2 data will reveal the frequency of low amplitude, short duration events. Furthermore, by selecting targets that have been observed previously, we will measure changes in activity on time-scales of years.

@@ -1,0 +1,7 @@
+%R 2014k2.propGO1054
+%T Using K2 to understand the rocky-gaseous transition
+%A Sanchis-Ojeda, Roberto 
+%J Kepler/K2 Campaign 1 Guest Observer Proposal GO1054
+%D 03/2014
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO1054
+%B K2 Campaign 1 program.

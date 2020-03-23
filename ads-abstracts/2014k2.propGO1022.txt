@@ -1,0 +1,7 @@
+%R 2014k2.propGO1022
+%T Observations of known blazars in the K2 F1 field
+%A Carini, Michael 
+%J Kepler/K2 Campaign 1 Guest Observer Proposal GO1022
+%D 03/2014
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO1022
+%B K2 Campaign 1 program.

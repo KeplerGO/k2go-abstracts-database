@@ -1,0 +1,7 @@
+%R 2014k2.propGO0031
+%T Observations of Very Low-Mass Dwarfs with Kepler-2
+%A Martin, Eduardo 
+%J Kepler/K2 Campaign 0 Guest Observer Proposal GO0031
+%D 02/2014
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO0031
+%B K2 Campaign 0 program.

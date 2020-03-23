@@ -1,0 +1,9 @@
+%R 2014k2.propGO4015
+%T Using K2 to probe variability in young stellar objects
+%A Akeson, Rachel L; Ciardi, David R; Turner, Neal; Carpenter, John M; Hartmann, Lee; Beichman, Charles A.; Stauffer, John R.; Rebull, Luisa; hillenbrand, lynne a; Cody, Ann Marie 
+%J Kepler/K2 Campaign 4 Guest Observer Proposal GO4015
+%D 09/2014
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO4015
+%B We propose to observe 17 objects in or near the Taurus star formation region.  Seven of these objects are known young stars in Taurus, five are likely to be younger than a few hundred Myr and five show some signatures of youth but need validation as young stellar objects. Our specific goals are to 1) Obtain the best possible light curve for T Tau, the original, defining member of the class of young stellar objects, as well as other young stellar objects, in order to quantitatively characterize the variability and to examine the physical origin of this variability, 2) determine the variability types, levels, and time scales for all objects, 3) correlate the measured variations with known properties of the objects such as infrared excess level, and 4) compare the variations of the Taurus objects to those previously observed for young stars in other star formation regions.
+
+This proposal addresses the NASA astrophysics strategic goal to explore the origin and evolution of stars.  New data with K2 is required to address these science goals as the original Kepler field did not contain any objects at this early evolutionary state in the formation of stars and planets.

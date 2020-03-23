@@ -1,0 +1,7 @@
+%R 2014k2.propGO1046
+%T Kepler2 Campaign 1 Proposed Targets
+%A Weiss, L. 
+%J Kepler/K2 Campaign 1 Guest Observer Proposal GO1046
+%D 03/2014
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO1046
+%B K2 Campaign 1 program.

@@ -1,0 +1,27 @@
+%R 2016k2.propGO12057
+%T Rotational properties of the active Centaur (2060) Chiron
+%A Kiss, Csaba; Pal, Andras; Mueller, Thomas G; Molnar, Laszlo; Kiss, Laszlo 
+%J Kepler/K2 Campaign 12 Guest Observer Proposal GO12057
+%D 03/2016
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO12057
+%B Scientific justification:
+
+(2060) Chiron is a large Centaur, the first minor planet discovered in the outer Solar System, beyond Jupiter, in 1977. Chiron is also known as a comet (95P/Chiron) as it showed cometary activity when it was close to perihelion on its ~51-year-long orbit in the early 1990's. Stellar occultation data obtained in 2011 indicated the presence of extended features around Chiron. These were interpreted as jets (Ruprecht et al., 2015), but also as a possible ring system (Ortiz et al., 2014), similar to that observed around Chariklo (Braga-Ribas et al., 2014). A good quality light curve with a high accuracy rotational period of 5.917813 h was obtained based on data from 1987 and 1991 (Marcialis & Buratti, 1993). A very similar period was found by Luu & Jewitt (1990). Fornasier et al. (2013) found a somewhat shorter rotation period of ~5.4h, but this was obtained by a sparse sampling of the light curve. Recent observations concentrated on single photometric and spectroscopic measurements, but no detailed light curve data has been published since 1993. Chirons lightcurve amplitude seems to correlate with its activity level. According to Luu & Jewitt (1990), the light curve amplitude is larger (dm = 0.09 mag) when no activity is seen, and it is small (dm = 0.03 mag) when Chiron's coma is in its brightest phase -- this may be explained by the dilution of the lightcurve by an optically thin coma and/or a ring system (the latest, December 2011 observations showed an intermediate amplitude of dm=0.060.07). 
+
+The Herschel Space Observatory observed Chiron in several bands from 70 to 500 um (Fornasier et al., 2013) in the "TNOs are Cool!" open time key program, resulting in the most reliable estimate of Chiron's size, ~210km diameter. A so far unpublished "Must Do" light curve observation was also performed with the PACS camera of Herschel at 70 and 160um, covering ~6.7h, longer than a full rotation period.    
+
+Here we propose to observe Chiron in Campaign 12 of the K2 mission. Campaign 12 offers the possibility to obtain a 79 day-long, uninterrupted photometry and a high quality light curve, not measured in the last ~20 years. We will see Chiron at a larger distance from the Sun and under a very different aspect angle than in 1990. With these observations we will be able to characterise Chiron itself, since no activity is expected at this heliocentric distance. We can also determine the orientation of its spin axis by the comparison of the light curves, as it was recently done e.g. for the Neptune moon Nereid, based on K2 data (Kiss et al., 2016). The new light curve and the constrained spin axis orientation will also be important in the interpretation of the extended emission observed earlier. The K2 light curve data will be combined with the "Must Do" thermal light curve observed by Herschel and provide a detailed description of the shape and thermal properties of the surface. There are very few objects in the outer Solar System that have such a complete dataset, therefore Chiron is a unique target for a benchmark study that will significantly improve our knowledge of the intermediate-sized icy bodies beyond Jupiter.
+
+Technical realisation: 
+
+We propose to observe Chiron during the entire length of Campaign 12 in long cadence mode. In addition, we also propose to define a short cadence pixel mask around Chiron's stationary point to cover a 20-day period around January 26, 2017. The latter would provide us with an unprecedented, high-resolution light curve with moderate pixel budget requirements.
+
+References:
+
+- Braga-Ribas, F., et al., 2014, Nature, 508, 72
+- Fornasier, S., et al., 2013, A&A, 555, A15
+- Kiss, C., et al., 2016, MNRAS, accepted (arXiv:1601.02395)
+- Luu, J.X., & Jewitt, D.C., 1990, AJ, 100, 913
+- Marcialis, R.L. & Buratti, B.J., 1993, Icarus, 104, 234
+- Ortiz, J.-L., et al., 2015, A&A, 576, A18
+- Ruprecht, J.D., et al., 2015, Icarus, 252, 271

@@ -1,0 +1,7 @@
+%R 2014k2.propGO0012
+%T M 35: A K2 Study of Stellar Rotation and Variability
+%A Giampapa, Mark 
+%J Kepler/K2 Campaign 0 Guest Observer Proposal GO0012
+%D 02/2014
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO0012
+%B K2 Campaign 0 program.

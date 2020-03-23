@@ -1,0 +1,7 @@
+%R 2018k2.propGO19901
+%T The 100 nearest stars brighter than 16th magnitude as revealed by Gaia DR2
+%A Hedges, Christina Louise 
+%J Kepler/K2 Campaign 19 Guest Observer Proposal GO19901
+%D 04/2018
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO19901
+%B K2 DDT Program.

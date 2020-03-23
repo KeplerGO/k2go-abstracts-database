@@ -1,0 +1,9 @@
+%R 2015k2.propGO9913
+%T K2 Asteroseismology of O-type Stars
+%A Buysschaert, Bram 
+%J Kepler/K2 Campaign 9 Guest Observer Proposal GO9913
+%D 07/2015
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO9913
+%B The most massive stars in the Universe have spectral type O and they evolve ultrafast. Their life is not only dominated by their bulk properties such as birth mass and initial metallicity. Rather, various physical processes alter their evolution significantly. This does not only concern their mass loss but also the unknown internal mixing of chemical species by, e.g., convective core overshooting, interior rotation, semi-convection, all of which can be strong effects or rather inhibited by magnetism. Unlike the mass loss, these internal mixing processes are ill constrained from data and imply huge uncertainties on the evolution of O-type stars and by implication on the chemical enrichment of galaxies.
+
+Asteroseismology is so far the only effective way to provide a precise calibration of mixing in the interior of stars. This has not yet been achieved for O stars, because only 14 of them have been monitored with uninterrupted high-precision space photometry, but none for more than a month. In our recent study, Buysschaert et al. (2015, MNRAS, 453, 89) provided a successful proof-of-concept of the method from K2 Campaign 0 data and have shown that future K2 monitoring during at least three months, accompanied by time-resolved highprecision high-resolution spectroscopy opens up the possibility of in-depth O-star seismology. This DDT proposal has the purpose to move from a proof-of-concept from Campaign 0 to an actual application by monitoring the 12 O stars in the field of Campaign 9.

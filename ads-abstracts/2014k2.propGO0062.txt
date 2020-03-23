@@ -1,0 +1,7 @@
+%R 2014k2.propGO0062
+%T Oscillating Red Giants In Clusters
+%A Basu, S. 
+%J Kepler/K2 Campaign 0 Guest Observer Proposal GO0062
+%D 02/2014
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO0062
+%B K2 Campaign 0 program.

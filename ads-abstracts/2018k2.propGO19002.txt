@@ -1,0 +1,7 @@
+%R 2018k2.propGO19002
+%T Dynamics in CV and Algol Systems
+%A Montgomery, Michele; Olenick, Richard 
+%J Kepler/K2 Campaign 19 Guest Observer Proposal GO19002
+%D 04/2018
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO19002
+%B For K2 Campaigns 17-19, we request 33 Algol-like/eclipsing binary (EB) and 12 Cataclysmic Variable (CV) systems to be observed in long cadence mode, with two also in short cadence. All have been checked to ensure they fall on active silicon. The science goals we aim to achieve from the K2 light curves (LCs) are to determine the disk physics of Cataclysmic Variable (CV) systems that are in transition such as a transition from retrograde to prograde precession (see Kepler LC in Figure 1); to find retrograde precession in Algol and CV intermediate polar (IP) systems; update the variability in a CV polar system; determine system parameters from Stage A of CV systems in superoutburst; and find system parameters of Eclipsing Binaries (EBs).

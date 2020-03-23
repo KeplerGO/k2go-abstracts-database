@@ -1,0 +1,7 @@
+%R 2014k2.propGO4077
+%T Accretion disc variability in Cataclysmic Variables
+%A Breedt, Elme; Marsh, Tom; Steeghs, Daniel; Gaensicke, Boris Teddy 
+%J Kepler/K2 Campaign 4 Guest Observer Proposal GO4077
+%D 09/2014
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO4077
+%B We propose to continue our monitoring programme of the accreting compact binaries in the K2 fields. In fields 4 and 5, a total of 10 accreting white dwarfs (cataclysmic variables, CVs) fall on active silicon. These targets clearly illustrate the range of variability timescales present in the lightcurves of accreting compact objects, e.g. accretion disc flickering (seconds), white dwarf spin (seconds), eclipses (minutes), the orbital period (hours) and disc precession (days). K2 is uniquely suited to provide the long baseline, uninterrupted, high precision, high cadence photometric coverage that is needed to study accretion and accretion variability. The resulting library of high quality lightcurves from K2 will provide a diverse, representative observational sample from which to investigate disc-based phenomena.

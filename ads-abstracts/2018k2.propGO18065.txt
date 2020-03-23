@@ -1,0 +1,11 @@
+%R 2018k2.propGO18065
+%T Characterizing Small K2 Planets With The HARPS-N Spectrograph
+%A Dressing, Courtney; Charbonneau, David; Haywood, Raphaelle; Latham, David; Lopez-Morales, Mercedes; Sasselov, Dimitar; Vanderburg, Andrew 
+%J Kepler/K2 Campaign 18 Guest Observer Proposal GO18065
+%D 04/2018
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO18065
+%B Follow-up studies of the small planets detected by Kepler have revealed a remarkable diversity of planet densities, indicating that predicting planetary properties from a radius measurement alone could lead to significant errors in our estimate of the frequency of rocky (and possibly habitable) worlds. We propose to study the relationship between the masses, radii, insolation, and metallicities of small planets by targeting moderately bright stars with K2, conducting reconnaissance spectroscopy, and ultimately gathering high-precision radial velocity (RV) measurements with HARPS-N. Our goal is to obtain a mass precision of 15%, the minimum value required to distinguish between compositional models.
+
+This project requires new K2 data for two reasons. First, most transiting small planets detected by Kepler and K2 orbit stars too faint for RV observations, and some of the bright host stars are not amenable to RV observations because of the variability of the host star or the presence of nearby stars. Second, the anticipated number of small planets orbiting quiet, bright stars detected in K2 campaigns to date is small, and the properties of the systems to date do not adequately sample the desired range of planetary and stellar properties.
+
+We propose a ranked list of 12,481 FGKM dwarf stars that are bright enough for RV follow-up and faint enough that they will not require unreasonably large K2 target apertures. We generated this list by first searching for all moderately bright stars that will be on silicon during Campaigns 17, 18, and 19, and then using the available photometry to remove likely giants and constrain the properties of the remaining dwarfs. We also propose to obtain short cadence observations of four planet hosts stars identified in previous K2 campaigns.

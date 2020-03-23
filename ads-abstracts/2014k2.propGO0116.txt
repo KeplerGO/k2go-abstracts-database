@@ -1,0 +1,7 @@
+%R 2014k2.propGO0116
+%T High Priority HATNet Transiting Planet Candidates and Eclipsing Binaries in the K2 Campaign 0 Field
+%A Bakos, Gaspar 
+%J Kepler/K2 Campaign 0 Guest Observer Proposal GO0116
+%D 02/2014
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO0116
+%B K2 Campaign 0 program.

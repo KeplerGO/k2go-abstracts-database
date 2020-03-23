@@ -1,0 +1,14 @@
+%R 2016k2.propGO16101
+%T Short-Cadence Observations of Previously Identified K2 Planet Candidates
+%A Winn, Joshua N.; Dai, Fei 
+%J Kepler/K2 Campaign 16 Guest Observer Proposal GO16101
+%D 12/2016
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO16101
+%B Upcoming K2 fields will overlap to some degree with previously
+observed fields.  We propose short-cadence observations of a
+collection of transiting planet candidates that we have identified in
+the earlier K2 data.  The better time sampling will allow for improved
+characterization of the transit signals, and better discrimination
+between true planets and imposters. In some cases the finer time
+sampling may also allow the stellar obliquity to be determined through
+the analysis of starspot-crossing anomalies.

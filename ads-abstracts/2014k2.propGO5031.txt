@@ -1,0 +1,15 @@
+%R 2014k2.propGO5031
+%T A Comprehensive Stellar Astrophysical Study of the Old Open Cluster M67 with Kepler
+%A Mathieu, Robert D; Silva Aguirre, Victor; Geller, Aaron M; Meibom, Soren; Leiner, Emily; Chatterjee, Sourav; Valenti, Jeff A; bianco, federica b.; Soderblom, David R; Gilliland, Ronald L; Sandquist, Eric; Latham, David W.; Basu, Sarbani; Stello, Dennis; Mazeh, Tsevi Moshe; Aigrain, Suzanne; Jenkins, Jon Michael; Pinsonneault, Marc Howard; Brown, Timothy M 
+%J Kepler/K2 Campaign 5 Guest Observer Proposal GO5031
+%D 09/2014
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO5031
+%B M67 is perhaps the best studied of all star clusters, either open or globular. Being at an age and metallicity very near solar, at an accessible distance of 850 pc with low reddening, and rich in content (over 1000 members including main-sequence dwarfs, a well populated subgiant branch and red giant branch, white dwarfs, blue stragglers, sub-subgiants, X-ray sources and CVs), M67 is a cornerstone of stellar astrophysics.
+
+We comprise a strong and diverse research team that will use the proposed Campaign 5 long-cadence data for M67 to yield forefront findings across a wide array of domains of stellar astrophysics. These will include: "	Searches for exoplanet signatures; "	Red giant asteroseismology; "	Stellar evolution, including non-standard evolutionary paths (e.g., blue stragglers); "	Stellar rotation and angular momentum evolution; "	Stellar activity; "	Eclipsing binaries and beaming.
+
+The ability to observe M67 was a significant driver in motivating the K2 mission to the astronomical community and NASA. Indeed, M67 might be viewed as K2_x005F_x005Fs _x005F_x005FGoldilocks_x005F_x005F cluster; the number of stars per unit area is perfectly matched to the 4 arcsec pixels, and yet not too crowded to allow good results on very faint members. A large superaperture augmented by targeted stars outside the cluster core will comprehensively and efficiently capture some 1400 likely cluster members. Targets of interest span Kp ~ 8 to 20, the bright end being defined by evolved red giants for asteroseismology and the faint end being M dwarfs for which Hot Jupiters will still be easily detectable.
+
+The team has strong expertise with time-series photometry and Kepler in particular. We will provide state-of-the-art time series to the community for  more than 2,000 stars in the M67 field. Extractions using both simple aperture photometry and difference image analysis (the non-perfect guiding of K2 may provide data well- conditioned for the latter) will be performed, in addition to careful detrending of systematics in the time series.  This team also has assured access to a wide range of ground-based facilities, capabilities and data to follow-up K2 discoveries. The team leaders have extensive and successful experience with large international collaborations and major scientific projects.
+
+We will make the best possible use that K2 observations of this key cluster can provide, both with targeting decisions, time series production for community use, and our own science results.

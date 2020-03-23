@@ -1,0 +1,7 @@
+%R 2015k2.propGO9922
+%T Exploring Pulsations of Wolf-­Rayet Stars
+%A Cao, Yi 
+%J Kepler/K2 Campaign 9 Guest Observer Proposal GO9922
+%D 07/2015
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO9922
+%B Wolf-Rayet (WR) stars, a class of evolved stars with initial mass ranging between ~25 and ~75 solar masses and which have lost a large fraction of their original massive envelopes due to radiation driven stellar winds, are the last evolutionary stage of massive stars before they explode as supernovae. Recent observations evidently suggest that WR stars are probable progenitors of stripped envelope supernovae (Type Ib/c and IIb). However, the fundamental parameters of WR stars, such as masses and radii, are extremely hard to determine through traditional photometric and spectroscopic methods, because of their high level of activity in terms of strong stellar winds and due to the complex surface phenomena. The fast temporal sampling and unprecedented photometric precision of K2 provide a unique opportunity for asteroseismology of WR stars, which opens a new window to their fundamental parameters. Here we propose to obtain K2 light curves of 17 WR stars in its Campaign 9. In order to maximize the scientific gain of this program, we will arrange photometric and spectroscopic follow-up observations on the ground for WR stars with pulsations detected by K2.

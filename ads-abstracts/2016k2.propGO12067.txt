@@ -1,0 +1,7 @@
+%R 2016k2.propGO12067
+%T Continuous Monitoring of Cataclysmic Variables in the K2 Fields
+%A Garnavich, Peter M.; Kennedy, Mark; Szkody, Paula 
+%J Kepler/K2 Campaign 12 Guest Observer Proposal GO12067
+%D 03/2016
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO12067
+%B The original Kepler field contained 27 previously known and/or subsequently discovered cataclysmic variables (CVs) which are close binaries with mass transfer from a late main-sequence star to a white dwarf. Kepler monitored 15 of these systems. The detailed coverage enabled unique studies of quiescent orbital and sporadic variability as well as the changes in the disk and stream impact area during short and long dwarf nova outbursts. We propose to monitor a set of CVs in the K2 fields of Campaigns 11, 12 and 13. The Cycle 4 fields represent the extremes of stellar densities with the directions toward the pole and Galactic center. We have matched the K2 fields with several CV databases and a total of 17 targets are requested in this cycle. These data will extend the range of CV types studied with Kepler's unprecedented continuous, fast-candence observations.

@@ -1,0 +1,7 @@
+%R 2016k2.propGO12901
+%T Faint, Close White Dwarf Binaries in K2 Field 12
+%A Hermes, J J 
+%J Kepler/K2 Campaign 12 Guest Observer Proposal GO12901
+%D 03/2016
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO12901
+%B K2 DDT Program.

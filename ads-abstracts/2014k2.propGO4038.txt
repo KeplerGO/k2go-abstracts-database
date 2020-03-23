@@ -1,0 +1,7 @@
+%R 2014k2.propGO4038
+%T AGN Variability Studies with Kepler K2 Campaigns 4 and 5
+%A Edelson, Rick; Horne, Keith; Vaughan, Simon; Massaro, Francesco; Malkan, Matthew A 
+%J Kepler/K2 Campaign 4 Guest Observer Proposal GO4038
+%D 09/2014
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO4038
+%B Kepler is revolutionizing the study of optical variability in AGN, with light curves having unprecedented precision, sampling and duty cycle.  This led to the first observation of a break in the optical PSD of a Seyfert 1 galaxy and clarification of the nature of microvariability in blazars.  We propose continued Kepler LC monitoring of 127 AGN and AGN candidates in Campaigns 4 and 5 as part of our program to observe hundreds of AGN throughout the K2 mission.  This will vastly improve the statistical leverage for characterizing optical variability and assure Kepler's legacy for AGN studies.  The most important AGN on Kepler silicon in this round is the bright, rapidly-variable blazar OJ 287.  We request SC monitoring of this source in order to assure adequate temporal sampling for this unique observing opportunity.

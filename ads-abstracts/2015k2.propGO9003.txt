@@ -1,0 +1,7 @@
+%R 2015k2.propGO9003
+%T Dark clouds for noise model inference
+%A Microlensing Science Team, K2 
+%J Kepler/K2 Campaign 9 Guest Observer Proposal GO9003
+%D 07/2015
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO9003
+%B K2 Campaign 9 Microlensing Survey: Dark clouds for noise model inference

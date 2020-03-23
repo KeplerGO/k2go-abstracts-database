@@ -1,0 +1,7 @@
+%R 2014k2.propGO4110
+%T Rotational Periods of Kuiper belt Objects with K2
+%A Schwamb, Megan E; Benecchi, Susan 
+%J Kepler/K2 Campaign 4 Guest Observer Proposal GO4110
+%D 09/2014
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO4110
+%B Kuiper belt objects (KBOs) are the small icy remnants of planet formation orbiting beyond Neptune. The distribution of rotation rates and shapes of these bodies are emplaced early on during the Solar System's formation and as such they allow us to probe both the angular momentum distribution and collisional evolution of the early planetesimal disk that today_x005F_x005Fs Kuiper belt originated from. The K2 mission offers a rare chance to study the Kuiper belt. Observing even a few objects with K2 would be a significant addition to the known sample and help better understand the biases in the current sample of rotations measured from the ground. We propose to observe two KBOs, 2002 KY14 (20.2 V mag) in Field 4 and 2001 YH140 (21.3 V mag) in Field 5, to obtain an unbiased sample of rotational periods.

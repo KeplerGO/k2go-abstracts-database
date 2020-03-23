@@ -1,0 +1,7 @@
+%R 2014k2.propGO1031
+%T MASSIVE: Massive stAr aSteroSeIsmology, Variability, and Evolution with K2: single B-type stars in Field 1
+%A Papics, Peter 
+%J Kepler/K2 Campaign 1 Guest Observer Proposal GO1031
+%D 03/2014
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO1031
+%B K2 Campaign 1 program.

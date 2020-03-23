@@ -1,0 +1,9 @@
+%R 2016k2.propGO13090
+%T Search for Exoplanets Around Low-Mass Stars in Open Clusters
+%A Glaser, Joseph Paul; McMillan, Stephen L. W; Geller, Aaron M 
+%J Kepler/K2 Campaign 13 Guest Observer Proposal GO13090
+%D 03/2016
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO13090
+%B Recent surveys exploring nearby open clusters have netted little to no exoplanet detections. This is surprising, as it is widely accepted that a majority of stars form within clustered environments before dispersing throughout the galaxy. The cause of this deficit in the planetary population is not well understood. Though the dynamical effects of star-star scattering had been used to explain this discrepancy in the past, previous surveys' observational statistics and detection biases can also be used to argue that the open cluster planet population is indistinguishable from the field planet population. 
+
+We purpose to utilize the unique set of tools provided by the Kepler spacecraft to study a set of open clusters that reside within the Campaign 13 field. Specifically, our target list is primarily focused on cool, low-mass stellar candidates whose planetary companions remain difficult to detect with ground-based observations. These stars are of great interest as their cool temperatures and lower probability of hot Jupiter companions theoretically increase the possibility of dynamically stable Super Earths developing within the habitable zone. Any resulting detections will allow us to study the architectures of planetary systems in and, by comparison, out of clusters in search of various signatures of dynamical interactions, thereby improving our understanding of the currently diverse detected planet population. In addition, these observations will provide key physical constraints on multi-scale simulation work currently underway by our group to study planetary dynamics within clustered environments.

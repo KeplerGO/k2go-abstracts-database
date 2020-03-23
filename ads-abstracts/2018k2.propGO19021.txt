@@ -1,0 +1,7 @@
+%R 2018k2.propGO19021
+%T Dynamical Masses and Additional Companions in the TRAPPIST-1 System, Part II
+%A Demory, Brice-Olivier; Sestovic, M.; Grimm, S.; Gillon, M.; Agol, E.; Jehin, E.; Van Grootel, V.; Burgasser, A.; Lederer, S.; Turbet, M.; Luger, R.; Ingalls, J.; de Wit, J. ; Kruse, E.; Holdsworth, D. 
+%J Kepler/K2 Campaign 19 Guest Observer Proposal GO19021
+%D 04/2018
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO19021
+%B TRAPPIST-1 (Gillon et al. 2017) hosts some of the most favourable Earth-size exoplanets amenable to a detailed characterisation of their atmospheres with current and future facilities such as JWST. This proposal is a continuation of our efforts to characterise the dynamics of TRAPPIST-1’s seven-planet resonant chain. We will improve current masses and densities of all planets thanks to the extended time-baseline of the proposed K2 Campaign 19 observations. The new transit timings will help to lift existing degeneracies and tighten our knowledge of the bulk interiors of the seven planets. The proposal will also explore the presence of additional companions through dynamical interactions with the known planets. Our proposal fits in a multidisciplinary effort to characterise the formation and evolution of the TRAPPIST-1 system and to prepare the transition to JWST.

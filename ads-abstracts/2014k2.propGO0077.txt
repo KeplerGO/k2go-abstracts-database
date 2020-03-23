@@ -1,0 +1,7 @@
+%R 2014k2.propGO0077
+%T Variability Of Planetary Nebula Nuclei: Pulsation, Rotation, Winds And Binarity
+%A Handler, Gerald 
+%J Kepler/K2 Campaign 0 Guest Observer Proposal GO0077
+%D 02/2014
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO0077
+%B K2 Campaign 0 program.

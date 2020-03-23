@@ -1,0 +1,7 @@
+%R 2014k2.propGO4030
+%T Monitoring the atmospheres of brown dwarfs
+%A Patience, Jennifer; Rajan, Abhijith; De Rosa, Robert John; Ward-Duong, Kimberly Dolan 
+%J Kepler/K2 Campaign 4 Guest Observer Proposal GO4030
+%D 09/2014
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO4030
+%B With the exceptional monitoring capabilities of the K2 mission, we propose to obtain long-cadence measurements of a set of brown dwarfs within campaigns 4 and 5. The targets span a large range of spectral types, enabling an investigation into atmospheres with temperatures overlapping with transiting and imaged exoplanets. The proposed data will provide a unique resource for the investigation of the atmospheres of substellar objects, with observations spanning more than one hundred rotation periods. The proposed data will be used to investigate the periodicity and persistence of variability linked to atmospheric processes or activity, along with the identification of potentially rare events such as flares. The proposed K2 data would be augmented with ground-based multi-wavelength infrared observations and form a key component of a student thesis.

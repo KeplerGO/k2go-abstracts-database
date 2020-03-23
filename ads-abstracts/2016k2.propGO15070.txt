@@ -1,0 +1,7 @@
+%R 2016k2.propGO15070
+%T Detection of Transiting Exoplanet Candidates from the KELT Survey
+%A Pepper, Joshua; Colon, Knicole D; Labadie-Bartz, Jonathan Michael; James, David J 
+%J Kepler/K2 Campaign 15 Guest Observer Proposal GO15070
+%D 12/2016
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO15070
+%B We propose a small program for K2 campaign 15 of the K2 mission to search for transiting planets around a set of stars pre-selected by the KELT ground-based transit survey.  These stars were observed by KELT over several years to search for Hot Jupiters and Saturns, and have initial indications of transit signatures.  These stars have not yet been further observed for confirmation, but we are deploying efforts to do so.  It is likely that most of these targets are false alarms, as is common for ground-based transit surveys, but given the initial data from KELT, each of them are more likely to be transit hosts than randomly selected bright dwarf stars in the K2 fields.  The transit signatures in the light curves for these targets should be easily measurable by K2.

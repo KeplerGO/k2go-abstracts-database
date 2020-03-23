@@ -1,0 +1,7 @@
+%R 2018k2.propGO19060
+%T The KEGS Nearby Galaxy Survey: The Final Campaigns
+%A Garnavich, Peter; Tucker, Brad; Rest, Armin; Shaya, Ed 
+%J Kepler/K2 Campaign 19 Guest Observer Proposal GO19060
+%D 04/2018
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO19060
+%B We propose a K2 Program to monitor large, nearby (z < 0.01) galaxies in Campaign 17, 18 and 19. Monitoring of these galaxies will allow us to look for fast (∆t < 10 days) and faint (M > −14) stellar transients. The K2 science mission with its long baseline, high-cadence, power to obtain high precision photometry, and the ability to monitor several targets simultaneously provides a unique opportunity to examine such a broad range of variables and transients.

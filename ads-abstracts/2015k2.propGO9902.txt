@@ -1,0 +1,9 @@
+%R 2015k2.propGO9902
+%T Symbiotic Stars in the Campaign 9 field
+%A Ramsay, Gavin 
+%J Kepler/K2 Campaign 9 Guest Observer Proposal GO9902
+%D 07/2015
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO9902
+%B We have identified ten symbiotic binaries in the SIMBAD database which are 'on-silicon' in the K2 Campaign 9 field (Table 1). They are bright (KepMag∼8–14) and half have known (or approximate) orbital periods. Given the sharp drop in the K2 response at ∼4200 A, we do not expect to detect evidence of flickering or short periods since this is only visible at U and B bands. We therefore bid for long cadence observations of our ten targets. 
+
+What do we expect to obtain from these observations? Detecting evidence for the pulsation period of the red giant star in symbiotics is notoriously difficult. With a base line of ∼70 days with K2 we will search for a approximately week or month long variability in the light curves which could provide evidence for a pulsation period in the red giant star. Outbursts have also been seen in a number symbiotics (eg Z And, Sokoloski et al 2006 ApJ 636 1002 and Figure 2, AG Dra Munari et al 2009 PASP 121 1070) as have eclipses (eg BF Cyg Skopal et al 1997 MNRAS 292 703) which would give excellent means to determine the binary parameters. Although the likelihood of detecting either an outburst or an eclipse is fairly small, K2 observations of either event in the ten targets would provide an excellent opportunity to explore outbursts in symbiotic stars and accreting binary systems in general.

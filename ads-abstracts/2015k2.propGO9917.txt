@@ -1,0 +1,7 @@
+%R 2015k2.propGO9917
+%T K2 short-cadence characterization of the unusually slow nova V5558 Sgr
+%A Gänsicke, Boris 
+%J Kepler/K2 Campaign 9 Guest Observer Proposal GO9917
+%D 07/2015
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO9917
+%B We propose to obtain the first short-cadence K2 observations a classical nova: V5558 Sgr erupted in 2007 and is a very rare example of a thermonuclear runaway on a low-mass white dwarf. The K2 observations will be used to determine its orbital period, to constrain the binary parameter, and to probe the re-start of mass transfer following the nova eruption.

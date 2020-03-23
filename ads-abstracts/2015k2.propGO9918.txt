@@ -1,0 +1,9 @@
+%R 2015k2.propGO9918
+%T Wind clumping in O stars
+%A Kalari, Venu 
+%J Kepler/K2 Campaign 9 Guest Observer Proposal GO9918
+%D 07/2015
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO9918
+%B We plan long cadence monitoring of 20 O stars in K2 falling on silicon in K2 campaign field 9. These are O stars located in the W33, and M8 regions, whose spectral types have been classified previously. They span a range from O3–O9 spectral types, and include both dwarf and giant stars. The extinction and distance to these stars means that they fall within the K2 saturation limit of KP>11mag, and therefore do not require additional pixels and larger apertures to observe.
+
+We aim to combine the K2 frequency spectra of the 20 O stars, with high-resolution contemporaneous spectra taken using guaranteed time at the SALT telescope. This will ensure precise spectral classification, measurement of wind terminal velocity, clumping and mass loss rates for the O stars (Bouret et al. 2015). Using the frequency spectra, the data can be used to probe their interior structures (Aerts & Rogers 2015) and understand the clumping mechanisms and test whether a subsurface convective zone really causes clumping and hotspots in O stars.

@@ -1,0 +1,7 @@
+%R 2014k2.propGO0055
+%T Long Cadence RR Lyrae Targets - K2 Mission / C0 Campaign
+%A Szabo, R. 
+%J Kepler/K2 Campaign 0 Guest Observer Proposal GO0055
+%D 02/2014
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO0055
+%B K2 Campaign 0 program.

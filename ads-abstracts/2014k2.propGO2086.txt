@@ -1,0 +1,7 @@
+%R 2014k2.propGO2086
+%T K2 observations of SuperWASP eclipsing binaries
+%A Southworth, J. 
+%J Kepler/K2 Campaign 2 Guest Observer Proposal GO2086
+%D 05/2014
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO2086
+%B K2 Campaign 2 program.

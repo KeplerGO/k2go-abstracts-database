@@ -1,0 +1,7 @@
+%R 2014k2.propGO4011
+%T A K2 Search for Planets Transiting Bright M Dwarf Stars
+%A Beichman, Charles A.; Howell, Steve B; Stauffer, John R.; Kirkpatrick, Joseph Davy; Vasisht, Gautam; Cochran, William D.; Christiansen, Jessie L; Ciardi, David R; hillenbrand, lynne a; Cody, Ann Marie; Plavchan, Peter P; Endl, Michael; Marcy, Geoffrey William; Lin, Douglas Nelson Chao 
+%J Kepler/K2 Campaign 4 Guest Observer Proposal GO4011
+%D 09/2014
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO4011
+%B This program continues an ongoing  effort (Campaigns 0-3) to survey a large sample of M stars to identify new transiting systems, emphasizing small planets (1-4 REarth) near the Habitable Zones of nearby M stars. By observing ~1800  sources per field in Campaigns 4 and 5 we anticipate being able to find ~45 planets orbiting stars with  spectral types from M0-M6. An emphasis is placed on rapid follow-up to ensure timely validation and characterization to support early observations with JWST.

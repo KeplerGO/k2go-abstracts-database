@@ -1,0 +1,7 @@
+%R 2014k2.propGO0051
+%T Long Cadence Cepheid Targets – K2 Campaign 0
+%A Molnar, L. 
+%J Kepler/K2 Campaign 0 Guest Observer Proposal GO0051
+%D 02/2014
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO0051
+%B K2 Campaign 0 program.

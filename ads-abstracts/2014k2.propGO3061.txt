@@ -1,0 +1,7 @@
+%R 2014k2.propGO3061
+%T Optical Identification And Short Time Scale Variability Of Blazars
+%A Hegedus, Tibor 
+%J Kepler/K2 Campaign 3 Guest Observer Proposal GO3061
+%D 05/2014
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO3061
+%B K2 Campaign 3 program.

@@ -1,0 +1,7 @@
+%R 2014k2.propGO1051
+%T Transiting planets around M dwarfs in field 1: The hunt for small planets!
+%A Rojas-Ayala, Barbara 
+%J Kepler/K2 Campaign 1 Guest Observer Proposal GO1051
+%D 03/2014
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO1051
+%B K2 Campaign 1 program.

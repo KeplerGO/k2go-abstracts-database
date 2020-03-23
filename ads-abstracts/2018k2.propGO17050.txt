@@ -1,0 +1,7 @@
+%R 2018k2.propGO17050
+%T Giants Orbiting Giants: Characterizing Giant Planets Around Evolved Stars With K2
+%A Huber, Daniel; Gaidos, Eric; Howard, Andrew; Lopez, Eric 
+%J Kepler/K2 Campaign 17 Guest Observer Proposal GO17050
+%D 04/2018
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO17050
+%B Most current exoplanet transit surveys target cool dwarfs, leaving planets orbiting evolved stars largely unexplored. Studies of low-luminosity red-giant branch (LLRGB) stars can combine asteroseismology and transit observations to precisely characterize both host stars and planets. We exploit this to investigate how stellar incident flux can inflate close-in gas-giant planets (“hot Jupiters”), a major outstanding question in exoplanet science. We have found evidence that direct deposition of stellar energy may be responsible for the inflation of two giant planets discovered in our K2 survey of LLRGB stars (Grunblatt et al. 2016, 2017), but more systems are required to confirm this intriguing result. We propose to continue our survey in C17-C19 to detect additional planets and collect more data on planets and candidates discovered in earlier campaigns.

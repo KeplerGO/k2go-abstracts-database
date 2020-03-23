@@ -1,0 +1,7 @@
+%R 2014k2.propGO0004
+%T RoAp Candidates in Field 0 of K2
+%A Kurtz, D. 
+%J Kepler/K2 Campaign 0 Guest Observer Proposal GO0004
+%D 02/2014
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO0004
+%B K2 Campaign 0 program.

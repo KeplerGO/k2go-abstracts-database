@@ -1,0 +1,7 @@
+%R 2014k2.propGO5097
+%T Characterizing the Cooler KOIs: Studying the Planet Population around Mid-M Dwarfs
+%A Johnson, John Asher; West, Andrew A; Montet, Benjamin T; Ghezzi, Luan; Vanderburg, Andrew; Muirhead, Philip Steven 
+%J Kepler/K2 Campaign 5 Guest Observer Proposal GO5097
+%D 09/2014
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO5097
+%B The Kepler science team has identified M dwarfs as a vital set of targets for the K2 mission. While Kepler and K2 have combined to observe nearly 10,000 M dwarfs to date, nearly 85% of these have been M0 and M1 dwarfs. Here, we propose observations of 3,548 mid-M dwarfs, enabling us to extend our knowledge of planet occurrence rates to the most abundant stars in the universe, a class almost entirely unstudied during the primary Kepler mission.

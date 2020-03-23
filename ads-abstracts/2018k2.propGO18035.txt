@@ -1,0 +1,7 @@
+%R 2018k2.propGO18035
+%T K2 Light Curve Of The Tumbling And Potentially Hazardous Asteroid Apophis
+%A Muller, Thomas; Kiss, Cs.; Pal, A.; Szakats, R.; Molnar, L.; Scheirich, P.; Pravec, P.; Aĺı-Lagoa, V. 
+%J Kepler/K2 Campaign 18 Guest Observer Proposal GO18035
+%D 04/2018
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO18035
+%B The near-Earth asteroid (99942) Apophis is a potentially hazardous asteroid with regular very close encounters with Earth every ≈8 years. The Kepler K2 observations at the end of campaign 18 will bridge the large gap between the last apparition in 2012/13 and the next one in 2020/21. Continuous multi-day lightcurve measurements (impossible from ground) will be critical to settle the spin model for this tumbling object, which is crucial to study the Yarkovsky and YORP effect, for the interpretation of the radar and thermal measurements, and for making long-term orbit predictions and impact risk assessments.

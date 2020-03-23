@@ -1,0 +1,11 @@
+%R 2014k2.propGO5020
+%T Galactic Archaeology on a grand scale - Campaigns 4-5
+%A Stello, Dennis 
+%J Kepler/K2 Campaign 5 Guest Observer Proposal GO5020
+%D 09/2014
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO5020
+%B MOTIVATION: Unraveling the evolutionary history of the Milky Way has been a long-standing problem in contemporary astrophysics, and understanding this history will have significant ramifications for our insight into how other galaxies form and evolve. Success will depend on understanding the stars within our Galaxy: their role as its building blocks and the source of its chemical evolution. This demands precise measurements of the fundamental properties of stars, something we currently have achieved mainly for the solar neighborhood. Initial investigations in this new field of near-field cosmology - better known as Galactic Archaeology - has used Kepler and CoRoT data and shown that asteroseismic-determined radii, masses and ages of red giants have tremendous potential for expanding our view into how the Galaxy formed and evolved.
+
+AIM: The proposal aims to observe a sizable number (about 5,000 per campaign) of colour-magnitude selected red giants to probe the Galaxy far beyond the solar neighborhood. This is a continuing program initiated during Campaign-0, and it is our intention to make similar proposals for all future K2 fields in order to probe Galactic directions not probed before, taking advantage of K2's 360-degree view along the ecliptic. With this data we aim to build a comprehensive picture of the Galaxy's structure and evolution from its stellar populations.
+
+METHOLOGY: The K2 data will be used to determine radius, mass, and age of each star using asteroseismology, complemented by ground-based spectroscopy and photometry from large surveys targeting both hemispheres (APOGEE, GALAH, Gaia-ESO, RAVE, and SAGA). We will use our seismic inferred stellar properties to stress-test state-of-the-art Galaxy models (Galaxia, TRILEGAL).

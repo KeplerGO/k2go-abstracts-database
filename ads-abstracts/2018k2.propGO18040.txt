@@ -1,0 +1,7 @@
+%R 2018k2.propGO18040
+%T Searching For Exoplanets In Transit Visibility Zones Of The Solar System
+%A Wells, Robert; Poppenhaeger, Katja; Watson, Christopher A.; Heller, Rene 
+%J Kepler/K2 Campaign 18 Guest Observer Proposal GO18040
+%D 04/2018
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO18040
+%B We propose to observe stars located in the transit visibility zones of the solar system planets as long-cadence targets in order to detect exoplanets. Transit visibility zones are locations in the sky from where the transits of at least one solar system planet are observable. Exoplanetary systems in such regions are potential targets for future extraterrestrial communication attempts. In our requested sample of 732 stars, we expect to find roughly 4 transiting exoplanets located in the stellar habitable zone. This estimate is based on an occurrence rate of 0.5 planets per star (Dressing, Charbonneau, 2015; Petigura et al., 2013) and an average geometric transit probability of 1% for a planet orbiting in the centre of the habitable zone. The total number of planet candidates from this sample will be much greater.

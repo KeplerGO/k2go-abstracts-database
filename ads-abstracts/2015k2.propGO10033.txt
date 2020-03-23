@@ -1,0 +1,14 @@
+%R 2015k2.propGO10033
+%T K2 Exoplanet Ecliptic Survey - KEES
+%A Burke, Christopher J; Mullally, Fergal; Huber, Daniel 
+%J Kepler/K2 Campaign 10 Guest Observer Proposal GO10033
+%D 07/2015
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO10033
+%B Science Goals:
+For billions of years the Earth's shadow against the Sun has swept a path through space revealing our existence to the stellar neighbors that have passed within 0.26 degrees of the ecliptic.  We propose to survey all GKM dwarf stars within 1.0 degree of the ecliptic using the K2 spacecraft in order to identify transiting planetary systems that can mutually discover Earth via transit observations performed by another civilization in the last ~100,000 yrs.  This survey will significantly expand the number of ecliptic aligned planets known from the two Jupiter-class planets with 0.26 degrees of the current ecliptic (the hot-Jupiter, WASP-47b and the direct imaging, 5 Myr old 1RXS-J160929b) into the regime of Super-Earth size planets.
+
+Methodology:
+We will employ our extensive background in the analysis of Kepler data in order to search and provide a catalog of planet candidates from the K2 data within the ecliptic using tools and techniques developed for Kepler.  The primary goal is to generate a catalog of planet candidates for prioritization of SETI searches.  Secondary goals are to provide a well vetted sample of planet candidates to the community to follow up for asteroseismic or spectroscopic stellar characterization and radial velocity confirmation.
+
+Relevance:
+This study is proposing science targets for the K2 Campaign 8 and 10 fields.  Detection and characterization for transiting planets on the ecliptic cannot be accomplished with existing Kepler data as Kepler did not observe the ecliptic.  We estimate that ~1100 targets combining Campaign 8 and 10 targets will be proposed placing this proposal in the large proposal category.

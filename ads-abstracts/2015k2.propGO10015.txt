@@ -1,0 +1,21 @@
+%R 2015k2.propGO10015
+%T How Constant are Standard Stars?
+%A Schaefer, Bradley E.; Xue, Zhichao; Landolt, Arlo U; Clem, James L 
+%J Kepler/K2 Campaign 10 Guest Observer Proposal GO10015
+%D 07/2015
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO10015
+%B How constant are standard stars?  Of the original 104 standard stars for Johnson's UBV system, 80% are known or suspected variables (Landolt 2013).  The Landolt standards have typical single-measurement errors of 1.4% in the V, and with averages of 15 individual observations on 8 nights (Landolt 1992), so many types of variability will be missed.  Similarly, the Sloan u'g'r'i'z' standard stars have accurately-measured average-magnitudes, but the variability for individual stars could be as large as 1%-3%.  According to R. Bohlin, the three primary standard stars for the Hubble Space Telescope (HST) could easily be variable at the 1% level.
+
+If the variability of standard stars is at the 1%-3% level, it would become critical for several large-scale enterprises in astrophysics.  For example, the massive efforts to use supernovae for cosmology now have the calibration error for the standard stars as the largest uncertainty in the error budget (e.g., Amanullah et al. 2010), so the only way to advance in our knowledge of Dark Energy is to get better standard stars.  The supernova community has set the ambitious goal of calibration to the 1% level, so standards are needed to much better than the 1% level.  All these efforts and goals are denied if the standard stars themselves vary at the 1% level, or if even some substantial fraction vary at the 0.5% or 0.3% level.
+
+Ground-based and HST space-based observations have proven ineffective at testing standard stars for variability at smaller than the 1%-3% level.  But Kepler is perfect for testing standard stars for variability down to the millimag level over a very wide range of timescales.  But to make any such test, the standards must be in the Kepler field of view.  Most standards are either along the equator or far from the ecliptic.  For all of the K2 fields 0-13, it turns out that standard stars are only visible in K2 Fields 8 and 10.  So K2 Cycle 3 is the only opportunity to measure the real variability of standard stars.
+
+We have identified 25 Landolt standards in Field 8, 11 Landolt standards in Field 10, and 7 Sloan standards in Field 10.  These standards are from 11th to 16th mag, right in Kepler's sweet-spot, so we will get better than millimag accuracy for all our targets.  We propose to use K2 to get long-cadence light curves to test all 41 stars for their levels of variability.  Our analysis will consist of performing Fourier transforms seeking periodic variations, the calculation of the RMS variability on long and short timescales (with correction for Poisson noise), a flare search, and the peak-to-peak variations on timescales long enough so that Poisson noise does not dominate.  Our product will be the full characterization of the variability of all 70 standard stars, resulting in fractions of stars of various types that are variable at greater than several levels.
+
+The results of our K2 Cycle 3 program will have far reaching effects.  If we find that some substantial fraction of standards have variability at the 0.5% level or more, then the many communities will have to work hard to solve the problem.  Our results might point to some type of standards as having the lowest variability.  Our results can quantify how many standard star observations are needed to beat down the variability each night.  Or if we find variability to be common and large enough, then this would point to a path involving NIST-calibrated light sources flown in the upper atmosphere.
+
+RELEVANCE:  NASA-funded experiments need calibration to the 1% level, so standard stars need be constant to much better than 1%, yet current measures of standards have not gotten tests below the 1%-3% level.  Only the K2 mission can measure the real low-amplitude variability of standard stars, and these are only visible during Cycle 3 (i.e., Fields 8 and 10).
+	
+Amanullah, R. et al. 2010, ApJ, 716, 712
+Landolt, A. U. 1992, AJ, 104, 340
+Landolt, A. U. 2013, JAAVSO, 41, 159

@@ -1,0 +1,11 @@
+%R 2016k2.propGO12048
+%T Giants Orbiting Giants: A Search for Transiting Planets around Oscillating Evolved Stars with K2
+%A Huber, Daniel; Fortney, Jonathan J; Pinsonneault, Marc Howard; Grunblatt, Samuel K; Mann, Andrew Withycombe; Johnson, John Asher; Chaplin, William J; Howard, Andrew William; Gaidos, Eric; Lopez, Eric David 
+%J Kepler/K2 Campaign 12 Guest Observer Proposal GO12048
+%D 03/2016
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO12048
+%B While most exoplanet transit surveys are focused on cool dwarfs, transiting planets orbiting evolved stars are largely unexplored. Due to their diversity in fundamental properties (masses, luminosities, chemical compositions), low-luminosity red-giant branch (LLRGB) stars are ideal targets to tackle two key unsolved questions in exoplanet science: the occurrence rate of gas-giant planets as a function of host star mass, and the role of stellar incident flux on the radius inflation of gas-giant planets. An initial analysis of LLRGB stars observed for our C4-C5 program has already yielded the discovery of the first potentially re-inflated warm Jupiter around an oscillating evolved star, and we propose to continue our survey by observing ~5400 targets in C11-C13 to build up a statistically significant planet sample. 
+
+We have selected targets using spectroscopic surveys such as APOGEE, RAVE and LAMOST, as well as colors and reduced proper motions. Planet candidates will be detected with K2 long-cadence data using a Box-Fitting Least Squares (BLS) algorithm coupled with a correlated noise model to account for stellar granulation. Since LLRGB stars oscillate with periods accessible with long-cadence data, we will use asteroseismology to precisely characterize both the host stars and the detected planet candidates. Follow-up ground-based radial velocity observations will be used to confirm the planets.
+
+The proposal addresses two main K2 science goals: exoplanet detection and stellar astrophysics. Due to the low number of K2 short-cadence slots, our survey is the only K2 program allowing a systematic combination of asteroseismology and transits to characterize exoplanets. Kepler was not optimized towards observing LLRGB stars, and hence new K2 observations are required to address the key science questions of this project.

@@ -1,0 +1,7 @@
+%R 2016k2.propGO11049
+%T Discovery and Vetting of K2 Exoplanets
+%A Quintana, Elisa Victoria; Mullally, Fergal; Barentsen, Geert; Colon, Knicole D; Thompson, Susan E; Coughlin, Jeffrey Langer 
+%J Kepler/K2 Campaign 11 Guest Observer Proposal GO11049
+%D 03/2016
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO11049
+%B This investigation will create a catalog of well-vetted exoplanets discovered using data from the K2 mission, suitable for follow-up by JWST and other facilities. We propose the observation of approximately 9,000 bright, dwarf stars, over campaigns 11, 12 and 13, which is expected to yield more than 120 transiting exoplanets. We will thoroughly vet these planets to eliminate many different types of false positives, utilizing our group's extensive experience in vetting exoplanets discovered during the Kepler mission. We will create a public catalog of all planet candidates for use in exoplanet occurrence rate and other studies which will be hosted at the MAST. This proposal utilizes the unique capabilities of the K2 mission, including its extreme photometric precision and continuous 75-day observing range. This proposal directly contributes towards NASA's Astrophysics Divisions science goal to "Discover and study planets around other stars, and explore whether they could harbor life. It also contributes to the K2 solicitation goal of addressing compelling scientific questions in the field of stellar astrophysics.

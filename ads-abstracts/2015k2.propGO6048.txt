@@ -1,0 +1,8 @@
+%R 2015k2.propGO6048
+%T K2 observations of cataclysmic variables and related objects
+%A Ramsay, Gavin; Wood, Matthew A; Cannizzo, John Kendall; Smale, Alan P 
+%J Kepler/K2 Campaign 6 Guest Observer Proposal GO6048
+%D 02/2015
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO6048
+%B Cataclysmic variables (CVs) provide the cleanest available natural laboratories to investigate the physics of accretion. The timing capabilities and sensitivity of K2 are well matched to the timescales and amplitude of accretion variability in these sources. The combination provides an superb opportunity to test and refine the
+paradigms of stellar accretion with high-precision, uniform data over the more than two month time interval. We propose a continuation of our multifaceted observational and modeling program that puts our current understanding of accretion to the test and has the potential to measure the spatial structure of modeldependent disc parameters. K2 observations of CVs and related objects are profoundly impacting our understanding of accretion dynamics and the nature of viscosity in the wider astrophysical context, and these data will provide an outstanding astrophysical legacy for the K2 mission archive.

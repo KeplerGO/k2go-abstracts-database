@@ -1,0 +1,7 @@
+%R 2014k2.propGO2046
+%T NASA CIOC K2 Campaign Comet Siding Spring Custom Aperture Proposa
+%A Lisse, C. 
+%J Kepler/K2 Campaign 2 Guest Observer Proposal GO2046
+%D 05/2014
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO2046
+%B K2 Campaign 2 program.

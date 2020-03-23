@@ -1,0 +1,7 @@
+%R 2018k2.propGO19068
+%T Galactic archaeology on a grand scale - C17-19
+%A Stello, Dennis; Pinsonneault, Marc; Buzasi, Derek; Freeman, Ken; Miglio, Andrea; Sharma, Sanjib 
+%J Kepler/K2 Campaign 19 Guest Observer Proposal GO19068
+%D 04/2018
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO19068
+%B The project will dramatically advance our knowledge about the Milky Way. With major ramifications for the evolution theory of all spiral galaxies, the research will provide a self-consistent picture of the stellar age distribution for tens of thousands of stars in the Milky Way, revealing the first precise timeline for how the Galaxy formed and evolved. The proposal aims to achieve this by observing a sizable number of colour-magnitude selected oscillating red giants to probe the Galaxy using the fossil imprint in its stars far beyond the solar neighborhood. This is a continuing program running since Campaign-0 probing Galactic directions not probed before, taking full advantage of K2’s ‘360-degree view’ along the ecliptic. The high precision and 30-min sampling rate of K2 data are crucial for the project. No other current mission can provide data that will allow us to detect oscillations in large numbers of distant red giants.

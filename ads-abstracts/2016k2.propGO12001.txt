@@ -1,0 +1,7 @@
+%R 2016k2.propGO12001
+%T AGN Variability Studies with K2 Campaigns 11-13
+%A Edelson, Rick; Starkey, David A; Vaughan, Simon; Malkan, Matthew A; Vanderburg, Andrew; Stern, Daniel K; Horne, Keith 
+%J Kepler/K2 Campaign 12 Guest Observer Proposal GO12001
+%D 03/2016
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO12001
+%B Abstract: Kepler's unprecedented precision, sampling, and duty cycle is revolutionizing the study of AGN optical variability, providing the first observation of a break in the optical PSD of a Type 1 AGN and clarification of the nature of microvariability in blazars.  We propose LC monitoring of 189 AGN and robust AGN candidates as part of our program to observe hundreds of AGN throughout the K2 mission, improving the statistical leverage for characterizing AGN optical variability.  We will also undertake simultaneous multiwavelength monitoring of the brightest and most promising Type 1 AGN in order to further constrain the physical conditions in the innermost regions responsible for their huge energy output.

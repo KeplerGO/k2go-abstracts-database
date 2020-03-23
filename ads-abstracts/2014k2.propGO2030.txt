@@ -1,0 +1,7 @@
+%R 2014k2.propGO2030
+%T Rotation Period of the Mars Flyby Comet C/2013 A1 (Siding Spring)
+%A Kelley, M. 
+%J Kepler/K2 Campaign 2 Guest Observer Proposal GO2030
+%D 05/2014
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO2030
+%B K2 Campaign 2 program.

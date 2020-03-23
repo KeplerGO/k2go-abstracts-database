@@ -1,0 +1,7 @@
+%R 2014k2.propGO3065
+%T Using solar twins to study the past and future of the Sun
+%A Melendez, Jorge 
+%J Kepler/K2 Campaign 3 Guest Observer Proposal GO3065
+%D 05/2014
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO3065
+%B K2 Campaign 3 program.

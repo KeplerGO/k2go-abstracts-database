@@ -1,0 +1,7 @@
+%R 2018k2.propGO19010
+%T Does the Character of Optical Emission from OJ287 and Other Gamma-Ray Blazars Change on Year-Long Timescales?
+%A Wehrle, Ann; Carini, Michael; Wiita, Paul 
+%J Kepler/K2 Campaign 19 Guest Observer Proposal GO19010
+%D 04/2018
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO19010
+%B We propose to determine if the character of optical variability in the binary black hole candidate OJ 287 and 7 more gamma-ray blazars changes on year-long timescales, between our earlier observations and 2018. Just after our first K2 observations of OJ 287, a strong optical outburst occurred which was predicted by modelling of the secondary black hole passing through the accretion disk around the primary black hole. The passage may have changed the variability characteristics of the optical emission from the relativistic jet. Our K2 observations show that blazars can have powerful individual flares that could be caused by a strong individual component in the jet, superimposed on emission that shows fractal variability on all timescales. The slopes of the power spectral densities of their light curves are consistent with relativistic jet turbulence. We also propose to observe five gamma-ray blazars not yet observed by K2.

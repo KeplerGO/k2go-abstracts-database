@@ -1,0 +1,7 @@
+%R 2014k2.propGO0111
+%T Detection Of Earth-size Planets Using K2
+%A Sanchis Ojeda, Roberto 
+%J Kepler/K2 Campaign 0 Guest Observer Proposal GO0111
+%D 02/2014
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO0111
+%B K2 Campaign 0 program.

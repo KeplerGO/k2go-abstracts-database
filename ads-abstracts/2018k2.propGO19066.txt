@@ -1,0 +1,7 @@
+%R 2018k2.propGO19066
+%T Asteroseismology Of Nearby Unevolved Binaries
+%A van Saders, Jennifer; Metcalfe, Travis 
+%J Kepler/K2 Campaign 19 Guest Observer Proposal GO19066
+%D 04/2018
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO19066
+%B We propose to observe several well-studied, nearby, main sequence binary systems as fundamental astrophysical calibrators. We specifically target either: 1) systems where oscillations should be detectable in the primary star and the secondary star is of M spectral type, and 2) binaries where both primary and secondary stars should be detectable in solar-like oscillations. These systems are fundamental anchors where binary analysis, astrometry, asteroseismology, and rotation-based stellar characterization methods—particularly for age inference— can be tested, unified, and placed on internally consistent grounds.

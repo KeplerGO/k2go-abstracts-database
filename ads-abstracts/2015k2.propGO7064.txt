@@ -1,0 +1,11 @@
+%R 2015k2.propGO7064
+%T A Search For Transiting Planets in K2 Campaign 7 on Stars Pre-selected by HATSouth
+%A Bakos, Gaspar Aron; Hartman, Joel D; Bhatti, Waqas A; Jordan, Andres; Mancini, Luigi 
+%J Kepler/K2 Campaign 7 Guest Observer Proposal GO7064
+%D 02/2015
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO7064
+%B We propose a large program for campaign 7 of the K2 mission to carry out a survey for transiting planets around a sample of ~3000 stars pre-selected based on observations from the HATSouth ground-based transit survey indicating that they may have transits. All stars in this survey have HATSouth light curves with periodic box-shaped transit signals that have been marginally detected with 5.5 < S/N < 10.0, and with shapes, durations, and other properties consistent with being planetary transits. The signals were considered too marginal for the targets to be selected as HATSouth planet candidates, as each candidate has a high chance of being a false alarm, but the probability that any given star in this sample has a short period transiting planet is significantly higher than for stars chosen at random from the field. The transit signals found in the light curves for these stars have orbital periods ranging from 0.5 to 20 days, transit depths between 1.5 mmag and 68 mmag (around K and M dwarf stars), and Sloan r magnitudes between 8.2 and 16.0. The transit signals, if present, would easily be confirmed by K2.
+
+We are requesting long-cadence K2 observations for all of these stars, which we will reduce to trend-filtered light curves using our existing pipeline and serve to the public through our HATSouth light curve server. We will combine these light curves with the existing HATSouth data and search the combined data for transit signals. Lists of candidate planets will also be made public. New candidates identified based on the K2 data will be entered into our HATSouth follow-up program to confirm planets and determine their properties.
+
+This proposal is relevant to the NASA goal of finding and characterizing exoplanetary systems.

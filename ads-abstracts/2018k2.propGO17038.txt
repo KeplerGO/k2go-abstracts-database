@@ -1,0 +1,7 @@
+%R 2018k2.propGO17038
+%T Monitoring Targets Within 100 Parsecs
+%A Redfield, Seth; Cauley, P. Wilson; Niraula, Prajwal 
+%J Kepler/K2 Campaign 17 Guest Observer Proposal GO17038
+%D 04/2018
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO17038
+%B Temporal monitoring of stars within 100 parsecs provides an opportunity to search for close planetary systems that are optimal for follow-up studies, as well as evaluate the stellar properties that are critical to the evolution of planetary atmospheres. We are moving into an era in which our sample of terrestrial exoplanets will continue to grow with dedicated ground and space-based surveys (e.g., K2 and the Transiting Exoplanet Survey Satellite [TESS]). A major scientific endeavor related to this population of planets will be the evaluation of habitability and a search for biosignatures. It is precisely these nearest systems that our measurements of their atmospheres will be the most sensitive and the question of habitability will be examined in greatest detail in the decades to come. An excellent example is the recent discovery of a three super-Earth system around a bright (V = 10.1 mag) star, GJ9827 (see Fig. 1). This star was in our target list for this program in Campaign 12. Our team reported the discovery in Niraula et al. (2017) and it was independently reported in Rodriguez et al. (2017). This planetary system is the nearest system ever discovered by Kepler or K2. It, and other nearby planetary systems, will be intensively studied in the years to come.

@@ -1,0 +1,7 @@
+%R 2014k2.propGO1011
+%T Determining the Rotational Properties of the T5.5 field dwarf 2MASS J11101001+0116130
+%A Golden, A. 
+%J Kepler/K2 Campaign 1 Guest Observer Proposal GO1011
+%D 03/2014
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO1011
+%B K2 Campaign 1 program.

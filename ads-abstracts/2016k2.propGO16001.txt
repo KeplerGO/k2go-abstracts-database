@@ -1,0 +1,11 @@
+%R 2016k2.propGO16001
+%T Gyrochronology and Magnetic Activity in Wide Binaries with K2
+%A Davenport, James Robert Arthur; Otani, Tomomi; Buzasi, Derek L; Oswalt, Terry D 
+%J Kepler/K2 Campaign 16 Guest Observer Proposal GO16001
+%D 12/2016
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO16001
+%B We propose to observe approximately 660 wide binary star systems with K2 to simultaneously constrain their rotation periods and flare rates. These systems will allow us to improve calibrations of the age-rotation-activity relationship for field stars across a wide range in age. Flare rates and rotation periods will be measured using previously developed toolkits, and this sample will add to the ongoing analysis of Kepler and K2 wide binary systems.
+
+Stars lose angular momentum as they age, causing their rotation periods to decline at a predictable rate. This "gyrochronology" method provides us with a means to determine stellar ages to within ~10% for Sun-like stars (Barnes 2010 ApJ 722 222). Wide binary systems help to extend the usable mass and age range for gyrochronology, and will be able to test new models of weakened magnetic braking in old field stars (e.g. van Saders et al. 2016 Nature, 529, 181).  A subset of the proposed sample contains white dwarf components whose cooling ages provide a benchmark against which their main sequence companions rotation ages may be compared.
+
+Because slower rotation weakens the internal magnetic dynamo, flare rates are predicted to decline over time. As a result, older stars like the Sun exhibit very few "super flares". The detailed evolution of flare rates for main sequence stars of spectral types G, K, and M is poorly constrained, however, due to the small number of flare stars with known ages. Any wide binary component with a measurable flare rate and rotation age is extremely valuable for such calibrations. These systems will also become important benchmarks for other facets of magnetic activity, such as tracking the evolution of activity cycles and starspot filling factors.

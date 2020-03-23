@@ -1,0 +1,7 @@
+%R 2014k2.propGO1020
+%T Optical Time Variability of Fermi Blazars, Part 2: K2 Field 1
+%A Wehrle, Ann 
+%J Kepler/K2 Campaign 1 Guest Observer Proposal GO1020
+%D 03/2014
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO1020
+%B K2 Campaign 1 program.

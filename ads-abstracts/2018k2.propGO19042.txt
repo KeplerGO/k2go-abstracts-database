@@ -1,0 +1,7 @@
+%R 2018k2.propGO19042
+%T K2’s Final Look Beyond Neptune
+%A Pal, Andras; Molnar, Laszlo; Kiss, Csaba; Hanyecz, Otto; Muller, Thomas 
+%J Kepler/K2 Campaign 19 Guest Observer Proposal GO19042
+%D 04/2018
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO19042
+%B Here we propose to observe 10 + 7 + 14 trans-Neptunian objects (TNOs) and centaurs in order to recover their basic physical properties such as rotational periods, brightness variation amplitudes and the phase angle dependence of the observed flux.

@@ -1,0 +1,7 @@
+%R 2014k2.propGO0094
+%T A K2 Planet Search Around Apache M Dwarf Targets In The Era Of Gaia
+%A Sozzetti, A. 
+%J Kepler/K2 Campaign 0 Guest Observer Proposal GO0094
+%D 02/2014
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO0094
+%B K2 Campaign 0 program.

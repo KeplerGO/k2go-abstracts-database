@@ -1,0 +1,7 @@
+%R 2014k2.propGO4001
+%T A Search for Habitable Planets Around White Dwarfs in Fields 4 and 5
+%A Kilic, Mukremin; Mazeh, Tsevi Moshe; Loeb, Abraham; Mullally, Fergal; Maoz, Dan; Debes, John Henry; Brown, Warren R; Agol, Eric 
+%J Kepler/K2 Campaign 4 Guest Observer Proposal GO4001
+%D 09/2014
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO4001
+%B A large fraction of white dwarfs (WDs) may hot planets in their habitable zones. These planets may provide our best chance to detect bio-markers on a transiting exoplanet, thanks to the diminished contrast ratio between the Earth-sized WD and its Earth-sized planets. The James Webb Space Telescope is capable of obtaining the first spectroscopic measurements of such planets, yet there are no known planets around WDs. Here we propose to take advantage of the unique capability of the K2 mission to perform a transit survey that is capable of detecting the first planet in the habitable zone of a white dwarf. There are nearly 400 WDs known in Fields 4 and 5. Thanks to the large field of view of Kepler, for the first time in history, a large number of WDs can be observed at the same time, which is essential for discovering transits. This survey will maintain Kepler's spirit of searching for habitable Earths, but near new hosts.

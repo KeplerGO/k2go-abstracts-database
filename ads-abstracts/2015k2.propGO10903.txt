@@ -1,0 +1,7 @@
+%R 2015k2.propGO10903
+%T K2 Rotation and Asteroseismology for an F-type star with 37 years of Activity Records
+%A Egeland, Ricky 
+%J Kepler/K2 Campaign 10 Guest Observer Proposal GO10903
+%D 07/2015
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO10903
+%B The F9V star HD 106516 has 37 years of MWO observations, providing an excellent record of the dynamo output via the S-index. New Kepler K2 observations of this star would provide significantly improved characterization of its dynamo inputs – rotation, mass, radius, and age – making this target a useful benchmark for dynamo studies.

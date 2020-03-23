@@ -1,0 +1,7 @@
+%R 2014k2.propGO3037
+%T Searching for distant rings of Neptune with K2 - a C3 proposal
+%A Szabo, R. 
+%J Kepler/K2 Campaign 3 Guest Observer Proposal GO3037
+%D 05/2014
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO3037
+%B K2 Campaign 3 program.

@@ -1,0 +1,7 @@
+%R 2014k2.propGO2107
+%T Small Planets around Small Stars: Proper Motion and Spectroscopic Selection
+%A Crossfield, I. 
+%J Kepler/K2 Campaign 2 Guest Observer Proposal GO2107
+%D 05/2014
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO2107
+%B K2 Campaign 2 program.

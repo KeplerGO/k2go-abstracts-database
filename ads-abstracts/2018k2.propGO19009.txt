@@ -1,0 +1,7 @@
+%R 2018k2.propGO19009
+%T Multi-Wavelength Characterization of Neptune’s Rotational Brightness Variability
+%A Garcıa-Munoz, Antonio; Demory, B.-O.; Lendl, M.; Hueso, R.; Sanchez-Lavega, A. 
+%J Kepler/K2 Campaign 19 Guest Observer Proposal GO19009
+%D 04/2018
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO19009
+%B Observing Neptune with K2 over >60 days will offer insight into the planet brightness variability associated with its rotational motion. This knowledge is crucial to understanding various atmospheric phenomena in this ice giant, and provides context for interpreting exoplanet and brown dwarf variability. Ideally, the K2 observations will be accompanied with a simultaneous monitoring campaign from the ground at longer wavelengths. Multi-wavelength data will help constrain the optical properties, horizontal extent and altitude location of the clouds that are ultimately responsible for the brightness variability, thereby fully exploiting the potential of the proposed observations.

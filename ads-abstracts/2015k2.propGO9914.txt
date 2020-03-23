@@ -1,0 +1,11 @@
+%R 2015k2.propGO9914
+%T K2 Asteroseismology of hot magnetic stars
+%A Buysschaert, Bram 
+%J Kepler/K2 Campaign 9 Guest Observer Proposal GO9914
+%D 07/2015
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO9914
+%B About ten percent of all hot stars host a magnetic field at their stellar surface, detectable with current ground-based spectropolarimeters (Wade et al. 2014, IAUS, 302, 265). How these magnetic fields interact with certain layers deep inside the star and how they influence internal physical processes is poorly understood. They can for example alter the efficiency of the internal mixing of chemical species or play a crucial role in the transport of angular momentum. It is therefore assumed that these magnetic fields are important for the stellar structure and evolution of a large number of hot stars.
+
+As it is not possible to look inside a star and study its interior, we resort to asteroseismology to probe the stellar interior by studying their non-radial stellar pulsations. Tremendous progress in asteroseismology has been made over the last decade, since the space-based missions such as the nominal Kepler mission provided a vast amount of data and the asteroseismic techniques improved significantly. However, the number of hot magnetic pulsators studied in detail with high precision space-based photometry is very limited.
+
+With this work, we aim to better understand how the stellar magnetic field influences the non-standard mixing processes governing the interior of hot stars. Through this DDT proposal, we intend to reach this goal by monitoring a significant number of magnetic Ap/Bp stars during Campaign 9 of the K2 mission, pointed towards the Galactic Plane. Moreover, by combining this study with previous K2 monitoring campaigns, we reach a statistically significant number of hot magnetic stars.

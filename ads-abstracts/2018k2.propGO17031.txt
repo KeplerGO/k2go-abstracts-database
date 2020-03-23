@@ -1,0 +1,7 @@
+%R 2018k2.propGO17031
+%T Main Belt Asteroid Studies With Kepler
+%A Marciniak, Anna; Muller, Thomas; Kiss, Csaba; Pal, Andras; Szakats, Robert 
+%J Kepler/K2 Campaign 17 Guest Observer Proposal GO17031
+%D 04/2018
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO17031
+%B We propose to continue Kepler observations of main belt asteroids with long rotation periods and/or small amplitudes to decrease selection effects persistent in physical studies of asteroids, by taking advantage of Kepler possibility for continuous observations lasting for many days.

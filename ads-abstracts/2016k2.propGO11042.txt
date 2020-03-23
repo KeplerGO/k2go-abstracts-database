@@ -1,0 +1,13 @@
+%R 2016k2.propGO11042
+%T Ultracool Dwarfs: Clouds, Flares, and Exoplanets: Campaigns 11,12,13
+%A Gizis, John E.; Schmidt, Sarah Jane; Paudel, Rishi R; Williams, Peter K G; Burgasser, Adam J 
+%J Kepler/K2 Campaign 11 Guest Observer Proposal GO11042
+%D 03/2016
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO11042
+%B We propose to observe nearby ultracool dwarfs using the Kepler K2 mission to characterize their cloud/weather properties, measure
+their flare rates, and detect their planetary companions. Like gas giant planets, very-low-mass stars and brown dwarfs form
+condensate clouds in their atmospheres. K2 can uniquely characterize variability due to these clouds, both rotation modulation on a
+timescale of hours and weather evolution of the clouds on timescales from days to months. Magnetic activity changes dramatically
+at the stellar/substellar hydrogen-burning limits, but some ultracool dwarfs are known to flare. We will measure the white light
+flare rate in well-defined statistical samples as a function of effective temperature, rotation rate, and age. Flares are tied to magnetic reconnection rates and the energy budget. We also aim to detect transiting exoplanets by continuing to monitor each available
+ultracool dwarf in K2 campaigns; brown dwarfs, gas giants, and even large rocky planets are detectable. The K2 targets include nearby field late-M and L dwarfs.

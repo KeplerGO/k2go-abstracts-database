@@ -1,0 +1,7 @@
+%R 2014k2.propGO3045
+%T Late-M and L Dwarfs in Kepler K2 Campaigns Two and Three
+%A Gizis, John 
+%J Kepler/K2 Campaign 3 Guest Observer Proposal GO3045
+%D 05/2014
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO3045
+%B K2 Campaign 3 program.

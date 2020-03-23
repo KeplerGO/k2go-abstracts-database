@@ -1,0 +1,37 @@
+%R 2015k2.propGO8075
+%T Rotational properties of selected transneptunian objects in the Kepler K2 C8 & C10 campaigns
+%A Kiss, Csaba; Szabo, Gyula M; Molnar, Laszlo; Pal, Andras; Szabo, Robert 
+%J Kepler/K2 Campaign 8 Guest Observer Proposal GO8075
+%D 07/2015
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO8075
+%B The light curves of transneptunian objects (TNOs) hold information on the formation and evolution of the small bodies in the Solar System, as it is outlined in our White Paper, presented to the GO Office in the early phase of the K2 mission. Our recent study of the TNOs 2002 GV31 and 2007 JJ43 has shown (Pal et al., 2015) that the Kepler K2 mission can be very effectively used for TNO light curve observations. Here we propose to study light curves of a selected set of TNOs in the K2 C8 and C10 campaigns with an optimised observing strategy. 
+
+A part of our targets have available thermal infrared data from Herschel Space Observatory measurements (Müller et al., 2009), with accurate size and geometric albedo values. This is important in resolving the size and absolute albedo ambiguity of the light cur e inversion techniques (Kaasalainen et al. 2001). These methods are able to reconstruct the shape and/or the surface albedo variegations based on the observed visual range light curve, however, the same shape and/or relative albedo distribution can be produced by objects of different size and median albedo combinations. With the synergy of Herschel and Kepler K2 light curve observations we will be able to obtain a comprehensive picture of these objects. 
+
+The other set of objects in our proposed study are TNOs in mean motion resonance 
+with Neptune. Resonant objects are extremely valuable since these objects were likely captured into these resonances during the outward migration of Neptune. Physical characteristics of these objects can constrain evolutionary scenarios of the Solar System as different resonances swept up or captured objects from different initial locations. The rotational characteristics are one of these important constraints. 
+
+The first trans-Neptunian objects in the K2 mission have been observed with long, thin pixel mosaics covering the entire arc of the orbit around the stationary point. 
+While this method undoubtedly provides the largest amount of data from a single 
+target, it is not the most optimal in terms of pixel budget per target. Targets farther from the stationary points the exhibit quadratically increasing proper motions leading to excessive pixel requirements. About 7000 pixels were used in Campaign 2 to cover the path of 2007 JJ43, yet a small gap around the stationary point meant that 21 days of data were still lost. In contrast, 2002 GV31 was observable for 16 days during Campaign 1 with a single mask that contained only 500 pixels. We propose to maximize the scientific return of the K2 TNO program by allocating smaller masks (1500-1800 pixels) for multiple targets per campaign. The positive detection of 2002 GV31 indicates that 20-30 day-long observations around the stationary point may allow us to reliably determine the rotation periods and amplitudes of targets as faint as 23 magnitudes. Pixel masks can be further optimized if they are not centered on the stationary point which is the westernmost point of their proper motion during the observing run, but shifted slightly towards east (by 5-10 pixels).
+
+Proposed targets:
+
+Target name			  Brightness    Dynamical class	  K2 cycle	Herschel obs.
+---------------------------------------------------------------------
+ (35671) 1998 SN165		V=21.5	 	classical 			8		yes
+(135182) 2001 QT322		V=22.1	 	classical			8		yes
+(307616) 2003 QW90		V=22.0	 	classical,4:7		8		yes
+(308379) 2005 RS43		V=21.8	 	resonant, 1:2		8		yes
+----------------------------------------------------------------------           
+  (26375) 1999 DE9	                V=21.2	 	resonant, 2:5 		10		yes
+(127871) 2003 FC128		V=22.5		resonant, 4:5		10		no
+               2010 ET65	 	V=21.4		resonant, 1:3		10		no
+               2010 FC49		V=22.1		resonant, 2:3		10		no
+---------------------------------------------------------------------
+
+References: 
+
+Kaasalainen M., 2001, A&A, 376, 302 
+Müller T. G., et al., 2009, EM&P, 105, 209
+Pál A., et al., 2015, ApJ, 804, L45

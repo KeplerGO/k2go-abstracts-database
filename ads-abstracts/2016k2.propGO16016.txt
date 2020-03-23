@@ -1,0 +1,9 @@
+%R 2016k2.propGO16016
+%T K2 Observations of Variable White Dwarfs in Fields 14, 15 and 16
+%A Hermes, James J; Winget, D. E.; Dunlap, Bart H; Clemens, Chris; Gentile Fusillo, Nicola; Kawaler, Steven; Gaensicke, Boris Teddy; Dennihy, Erik; Bell, Keaton; Raddi, Roberto; Montgomery, Mike; Fuchs, Josh 
+%J Kepler/K2 Campaign 16 Guest Observer Proposal GO16016
+%D 12/2016
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO16016
+%B We propose observations of variable white dwarfs in Fields 14-16 of the K2 mission. We request short-cadence observations of known and high-probability pulsating white dwarfs, since the pulsation periods span 100-1400 s. These K2 pulsating white dwarfs will provide unprecedented insight into the interiors of evolved stellar remnants with a sample size large enough to measure the distribution of both hydrogen and helium-layer masses of these evolved objects, as well as directly constraining the efficiency of convection. Additionally, we propose long-cadence observations of hundreds of known and candidate white dwarfs, many of which are known to be magnetic, in close binaries, or harbor remnant planetary systems.
+
+Overall, our program will more than quadruple the number of rotation rates measured for white dwarfs, putting strong constraints on the evolution of angular momentum in the final stages of stellar evolution. We will also characterize the orbital periods of many new post-common-envelope binaries (close WD+dM), informing Type Ia supernova population synthesis models. The proposed observations will provide the capstone for our legacy dataset of white dwarf variability with K2, which will revolutionize our understanding of stellar remnants for the next decade.

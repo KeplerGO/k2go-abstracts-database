@@ -1,0 +1,55 @@
+%R 2016k2.propGO12018
+%T The K2 M Dwarf Project: Campaigns 11-13
+%A Crossfield, Ian JM; Ciardi, David R; Howard, Andrew William; Schlieder, Joshua E; Petigura, Erik; Dressing, Courtney D; Lepine, Sebastien; Christiansen, Jessie L 
+%J Kepler/K2 Campaign 12 Guest Observer Proposal GO12018
+%D 03/2016
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO12018
+%B The K2 M Dwarf Project: Campaigns 1113 Targets
+
+Low-mass M dwarfs provide the highest probability of detecting small (<0.5  4 R_E) transiting
+planets by virtue of the large transit depths seen for such small stars. These deep transits also
+increase the potential for subsequent atmospheric characterization. The extended Kepler K2 mission
+provides the opportunity to monitor tens-of-thousands of nearby, ecliptic M dwarfs with precise,
+long-cadence photometry and discover a new population of rocky and potentially habitable planets
+and larger sub-Neptunes that are amenable to transit spectroscopy. We propose to observe several
+thousand additional M dwarfs in the K2 campaigns 1113 fields (as verified by K2fov) to continue our
+successful K2 program that we call the K2 M Dwarf Project (K2-MDP). We estimate dozens to
+hundreds of small planets around late-type stars from the full K2-MDP program. This
+new population of planets will drastically increase the number of known M dwarf planetary systems,
+improve planet frequency statistics, inform theories of planet formation, evolution, interiors, and
+atmospheres, and provide new targets for follow-up with current and future observatories.
+
+Our M dwarf targets are selected from the SUPERBLINK proper-motion database on the basis of
+high proper-motion and photometric colors. This selection method captures the majority of M dwarfs
+within 100pc of the Sun from this deep (95% complete to V =19) catalog with little contamination.
+Our targets have median brightness Kp<16, most are M3-M4 dwarfs, and > 95% are in EPIC.
+We prioritize our targets using expected transit S/N, determined by comparing K2s photometric
+precision to predicted transit depth for a nominal, transiting super-Earth. We estimate transit
+depths by converting DSS, PanSTARRS 1, 2MASS, and WISE photometry to spectral type and
+then to radius and temperature. Our team exploits knowledge gained from analysis of Kepler light
+curves to search K2 pixel data for planet transit signals. Spectroscopic observations of candidate
+planet hosts will provide fundamental parameters such as temperature, metallicity, surface gravity,
+and age. Where feasible, new systems will be proposed as targets for radial velocity monitoring
+for full characterization. Our full program, from target selection, to planet discoveries, to host
+characterization, aims to provide the largest and most reliable sample of small, transiting M dwarf
+planets to date. The K2-MDP team has made steady progress toward these goals and
+draws on considerable experience from Kepler. We have so far had successful target
+proposals in all previous K2 fields, have been awarded large, multisemester programs
+at ESO (for spectroscopic follow-up), Keck (for Radial Velocity masses), and Gemini
+(for AO and speckle imaging).
+
+
+Relevance
+
+The proposed targets comprise a key portion of the K2-MDP program which aims
+to exploit the strengths of the K2 mission design to reveal hundreds of small planets
+around nearby M dwarfs. Discoveries of habitable zone, Earth-like planets and planets
+suitable for atmospheric characterization are primary science drivers for K2 and primary goals of NASA. Our program will provide both the small, rocky planets and key transit
+spectroscopy targets for early JWST Guaranteed Time Observations (GTO) leading up
+to the GTO proposal deadline in late 2016; well before the launch of TESS.
+
+Funded Team Membership
+
+The PI, Ian Crossfield, will use the bulk of any funding to support a graduate
+student. The funded Co-PIs will also receive smaller allocations to support travel for
+observing.

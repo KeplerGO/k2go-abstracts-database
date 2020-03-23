@@ -1,0 +1,7 @@
+%R 2016k2.propGO11901
+%T The Transitional Millisecond Pulsar PSR J1723-2837
+%A Antoniadis, John 
+%J Kepler/K2 Campaign 11 Guest Observer Proposal GO11901
+%D 03/2016
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO11901
+%B K2 DDT Program.

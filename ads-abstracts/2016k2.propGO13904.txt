@@ -1,0 +1,7 @@
+%R 2016k2.propGO13904
+%T Targets previously observed during C4
+%A GO Office, K2 
+%J Kepler/K2 Campaign 13 Guest Observer Proposal GO13904
+%D 03/2016
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO13904
+%B K2 DDT Program.

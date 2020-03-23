@@ -1,0 +1,7 @@
+%R 2018k2.propGO18015
+%T K2 Cycle 6 Observations of Flare Stars
+%A Ramsay, Gavin; Doyle, Lauren; Doyle, Gerry 
+%J Kepler/K2 Campaign 18 Guest Observer Proposal GO18015
+%D 04/2018
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO18015
+%B We propose to continue our highly successful and productive programme to study M dwarf flare stars using Kepler and K2. Our primary goal is to obtain a better understanding of the origin of flares from these low mass stars.

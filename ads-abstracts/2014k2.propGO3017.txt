@@ -1,0 +1,7 @@
+%R 2014k2.propGO3017
+%T Long cadence observations of cataclysmic variables with K2
+%A Scaringi, Simone 
+%J Kepler/K2 Campaign 3 Guest Observer Proposal GO3017
+%D 05/2014
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO3017
+%B K2 Campaign 3 program.

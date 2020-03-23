@@ -1,0 +1,7 @@
+%R 2018k2.propGO18057
+%T K2 Ultracool Dwarfs: The Final Survey
+%A Gizis, John; Paudel, Rishi; Mullan, Dermott; Burgasser, Adam; Schmidt, Sarah; Williams, Peter K. G.; Berger, Edo 
+%J Kepler/K2 Campaign 18 Guest Observer Proposal GO18057
+%D 04/2018
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO18057
+%B Kepler K2 has proven to be a powerful tool to learn about substellar atmospheres that are not irradiated by a hot primary. “Ultracool” dwarfs, with spectral types M7-M9, L, T and Y, show evidence of condensate cloud formation, a process also important in extrasolar planets. Almost all are rapid rotators and apparently generate fields of many kG (Reiners & Christensen, 2010; Berdyugina et al., 2017). These dwarfs, with T e↵ <⇠ 2700K, can be either very-low-mass hydrogen-burning stars (at types M to L4) or degenerate brown dwarfs. The broad Kepler filter allows a few “bright” ultracool dwarfs to be observed in each Kepler K2 field and numerous fainter dwarfs. Each K2 campaign field includes a random sampling of nearby field dwarfs, so that over the life of the mission, we built up a large sample. Our program is aimed at three main science areas: (1) Weather and rotation in substellar atmospheres, (2) Planetary transits, and (3) White light flares.

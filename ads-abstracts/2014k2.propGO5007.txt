@@ -1,0 +1,7 @@
+%R 2014k2.propGO5007
+%T K2 Planet-Search Targets from the Draft TESS Catalog
+%A Winn, Joshua N.; De Lee, Nathan Michael; Sanchis Ojeda, Roberto; Pepper, Joshua; Schlaufman, Kevin Charles; Stassun, Keivan Guadalupe; Paegert, Martin 
+%J Kepler/K2 Campaign 5 Guest Observer Proposal GO5007
+%D 09/2014
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO5007
+%B We propose to use the Kepler telescope to detect small transiting planets, particularly those orbiting stars amenable to radial velocity (RV) follow-up. To this end we provide a catalog of 32,300 stars in fields 4 and 5, selected by virtue of planet detectability.  Our catalog of late F, G and K dwarf stars with bright Kepler magnitudes is based on the draft TESS target catalog, and provides the best targets for both transit searching and follow-up observations.

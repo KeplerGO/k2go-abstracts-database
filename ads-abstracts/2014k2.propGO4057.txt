@@ -1,0 +1,7 @@
+%R 2014k2.propGO4057
+%T Eclipsing Binary Stars: Indispensable Astrophysical Laboratories for Studying Stellar Populations
+%A Prsa, Andrej; Quarles, Billy L; Pepper, Joshua; Conroy, Kyle 
+%J Kepler/K2 Campaign 4 Guest Observer Proposal GO4057
+%D 09/2014
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO4057
+%B Eclipsing Binary Stars are the cornerstone of stellar astrophysics. They provide fundamental stellar parameters (masses, radii, temperatures and luminosities) for objects across the H-R diagram. The K2 mission will probe fields along the ecliptic, thus allowing us to study inherently different stellar populations and their distributions as a function of galactic latitude. Campaigns 4 and 5 focus on some of the best studied clusters, namely the Pleiades, the Hyades, M67 and the Beehive. Because stars in clusters are coeval, share a common evolutionary path and feature the same chemical abundances, eclipsing binaries found in these clusters serve as distance calibrators and stellar population gauges. We collected all known eclipsing binary stars from available online catalogs (via Simbad and VizieR services), and performed a thorough search for binaries in the proprietary Kilodegree Extremely Little Telescope (KELT) and SuperWASP survey data to assemble a list of proposed targets for this solicitation. The reduction and analysis will be done by experienced members of the Kepler Eclipsing Binary Working Group.

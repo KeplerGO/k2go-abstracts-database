@@ -1,0 +1,7 @@
+%R 2018k2.propGO19047
+%T Second Time Around - Searching For The Second Signals Of Long-Period K2 Planets & Eclipsing Binaries
+%A Osborn, Hugh; Kristiansen, Martti Holst; Armstrong, David 
+%J Kepler/K2 Campaign 19 Guest Observer Proposal GO19047
+%D 04/2018
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO19047
+%B K2 has provided many well-characterised exoplanets & binary stars orbiting around bright stars with periods less than ∼50 days. However, the high-precision photometry of K2 also means that longer-period objects are detectable from a single transit or eclipse. We propose to reobserve 65 targets that were previously studied with K2 and which our search has detected evidence for a long-period planetary or binary companion. The reobservation of transits or eclipses will allow the period to be determined, enabling long-period transiting plants to be validated or confirmed with K2 for the first time. Such worlds, especially around the bright stellar sample that K2 provides, will improve constraints on the occurrence, structure and orbit of warm and cool exoplanets, which may even include habitable-zone terrestrial planets.

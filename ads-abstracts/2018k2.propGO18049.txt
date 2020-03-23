@@ -1,0 +1,7 @@
+%R 2018k2.propGO18049
+%T Small Planets and Their Occurrence in K2 Campaigns 17-19
+%A Howard, Andrew; Petigura, Erik; Christiansen, Jessie; Isaacson, Howard; Sinukoff, Evan; Crossfield, Ian; Schlieder, Josh; Benneke, Bjoern; Ciardi, David 
+%J Kepler/K2 Campaign 18 Guest Observer Proposal GO18049
+%D 04/2018
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO18049
+%B We propose large, magnitude-limited samples of FGKM dwarfs for long-cadence K2 observations. These samples will enable planet searches and complement our magnitude-limited samples in previous Campaigns. As with the previous fields, our team will construct robust catalogs of planets buttressed by detailed examinations of light curves, high-resolution spectroscopy, and adaptive optics imaging. We emphasize specifically in this proposal stars that were observed in previous K2 Campaigns that can be observed again in Campaigns 17–19. Second visits for these stars will increase our search sensitivity, particularly for longer-period planets, and enable comparisons of planet occurrence in different regions of the Milky Way.

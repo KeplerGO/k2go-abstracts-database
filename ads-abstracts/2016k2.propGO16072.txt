@@ -1,0 +1,7 @@
+%R 2016k2.propGO16072
+%T Measuring White Light Flare Rates of Fully Convective Stars
+%A Gizis, John E.; Paudel, Rishi R; Mullan, Dermott 
+%J Kepler/K2 Campaign 16 Guest Observer Proposal GO16072
+%D 12/2016
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO16072
+%B The precise photometry and intensive time coverage of Kepler/K2 photometry is ideal for detecting flares, with hundreds of thousands of stellar flares published to date. We propose a short-cadence study of key nearby mid-M dwarfs. These stars are fully convective yet generate powerful magnetic reconnection events. We will measure the white light flare rate as a function of rotation and luminosity and compare it the flare rate in hotter and cooler stars. Davenport et al. found a universal template describes nearly all Kepler white light flares in the M4 dwarf GJ1243. We, however, have found evidence that M7 and later dwarfs have systematically difference cooling rates in their light curves.  We also find complex flares and interpret them in terms of EIT waves and conditions in the coronae. By studying active flare stars between M4 and M7 we can map these changes as a function of stellar temperature.

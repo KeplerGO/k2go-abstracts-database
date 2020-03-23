@@ -1,0 +1,7 @@
+%R 2018k2.propGO18064
+%T Fast Rotation And Flares In The Local Population Of Young K And M Dwarfs
+%A Lepine, Sebastien 
+%J Kepler/K2 Campaign 18 Guest Observer Proposal GO18064
+%D 04/2018
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO18064
+%B Kepler K2 observations reveal that a significant fraction (>10%) of local M dwarfs with low reduced-proper-motion values are fast-rotators, with periods <4 days. These stars appear to constitute the long sought-after population of young, low-mass stars in the vicinity of the Sun: some are associated with nearby young moving groups (NYMGs). Most of them also show evidence of flaring activity in the long-cadence K2 light curves, and have significant UV excess. The low-cadence (30-minutes) of the K2 observations, however, does not allow the flaring behavior to be examined in detail; high cadence observations of these very active and flaring M dwarfs would reveal much more about the frequency of flaring events, and would allow one to correlate the flaring behavior with the observed changes in the spot patterns on those stars. Campaigns 17-18-19 overlap significantly with earlier campaigns. We find that 79 of the flaring, fast-rotators we discovered in previous campaigns will be available again: 20 M dwarf fast rotators in C17, 41 in C18, and 18 in C19. We propose that these 79 stars be observed in the high-cadence mode, to get a much more detailed look at their flaring behavior.

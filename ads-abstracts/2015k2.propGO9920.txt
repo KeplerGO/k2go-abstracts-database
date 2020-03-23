@@ -1,0 +1,7 @@
+%R 2015k2.propGO9920
+%T Pulsations and masses of R Coronae Borealis stars
+%A Clayton, Geoffrey 
+%J Kepler/K2 Campaign 9 Guest Observer Proposal GO9920
+%D 07/2015
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO9920
+%B K2 opens a new avenue for the detailed study of pulsations and their possible relationship to dust formation in R Coronae Borealis (RCB) stars (Clayton et al. 2012, JAAVSO, 40, 539). These observations are key to understanding the evolution of the RCB stars because their masses cannot be accurately estimated by other means. Only one RCB star, V1157 Sgr, has been observed during the Field 1-8 campaigns. It is being observed now in Campaign 7 so no data are yet available. Field 9 contains eight additional RCB stars. The ∼75 days of near continuous, high-precision observations will provide an opportunity to use Kepler to observe the brightness variations of RCB stars. These observations will be at least two orders of magnitude more precise than the existing ground-based photometry, typically with a cadence of once per night and uncertainties & 0.01 mag. These observations will provide the first detailed look at the pulsation mechanisms and modes in a sample of RCB stars. It is also likely that one or more of the stars will form dust during the campaign which would be of great interest because a correlation between pulsation phase and the timing of dust formation has been found in several RCB stars (Crause et al. 2007, MNRAS, 375, 301).

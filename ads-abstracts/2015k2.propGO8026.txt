@@ -1,0 +1,27 @@
+%R 2015k2.propGO8026
+%T Flaring Properties and Sunspots among Old Halo G and K Dwarfs
+%A Peterson, Ruth 
+%J Kepler/K2 Campaign 8 Guest Observer Proposal GO8026
+%D 07/2015
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO8026
+%B Goals
+
+This proposal is to characterize the flaring properties of old G and K dwarfs over the long term. The primary goal is to evaluate whether the Sun itself might undergo a powerful flare in the future. The secondary goal is to characterize the degree to which an old G or K dwarf flares as a function of its temperature, and to establish whether G and K dwarfs generally have sunspot cycles like that of the Sun. 
+
+To this end we request Kepler light curves for the ~1200 on-silicon stars with 17.0 < Kp < 18.6 likely to be remote G or K dwarfs in the subregion of the field of C8 that is contained in Stripe 82, a region observed many times with SDSS, both in photometry and spectroscopy. By itself this yields for each star an indication of its flaring activity over about a decade, but at a cadence ill-suited to determining the characteristics of each individual flare.
+
+Methods and results
+
+The proposed Kepler 2 light curves at long cadence will allow the true frequency and energy of individual superflares to be detected and determined for each star over a 75+ day interval. These will be compared to the historical SDSS record of flaring, established through photometric variations. We also show that the temperature of each G or K dwarf can be established to about 100K from its (g-r)o color alone, for a characterization of flaring as a function of stellar temperature.
+
+K2 light curves also will provide measurements of the rotation period for all stars with significant sunspots, through semi-periodic variations of the amplitude of one to a few percent over periods of one to several dozen days. This too will be correlated against flaring properties, both from K2 and from SDSS. 
+
+As our value-added community resource contribution, we will publish a complete flaring history for each star, combining our results from both the SDSS photometry and the K2 LC light curves. From this work we can determine, as a function of stellar temperature and mass, what fraction of old G and K dwarfs experience strong flaring, whether such stars undergo cycles of activity resembling the 11/22-year solar sunspot cycle, and to what extent flaring occurs as a function of sunspot activity. Since in these old stars the global dynamo has spun down, this will help to characterize the role of global versus local dynamos in strong flaring, and provide a better estimate of whether the Sun might undergo flaring in the future.
+
+
+
+Relevance to the K2 solicitation and need for new K2 observations
+
+Kepler 2 is the only means currently available that is capable of obtaining light curves of sufficient sensitivity, 1% or better, on large numbers of faint dwarfs. We target faint dwarfs in the halo field C8 because these are located at least 850pc above the Galactic plane, and therefore are old stars like the Sun. M dwarfs flare extensively, but the flaring mechanism may differ from that of the Sun due to their extremely deep convective envelopes. Flaring studies based on Kepler observations have detected energetic flares in G dwarfs, but due to the line of sight near the Galactic plane of the Kepler field, these Kp ~14.5 mag stars lie only 250pc above the plane, and may be young stars. Other halo K2 fields have very few faint dwarf observations. Equally important is the existence in C8 of dwarfs with Stripe 82 observations, providing an intermittent history over more than a decade of photometric and spectroscopic indications of flaring.
+
+For these reasons, that K2 is unique in its capability and that C8 Stripe 82 offers an unprecedented prior record of flaring, new K2 observations are required. Thus this proposed work is responsive to the K2 call for Campaign 8.

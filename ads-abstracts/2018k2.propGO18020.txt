@@ -1,0 +1,7 @@
+%R 2018k2.propGO18020
+%T Rapid Optical Variability in Infrared and Optically Bright blazars
+%A Carini, Michael 
+%J Kepler/K2 Campaign 18 Guest Observer Proposal GO18020
+%D 04/2018
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO18020
+%B Blazars are extreme examples of the Active Galactic Nuclei (AGN) phenomena. The scientific goals of this proposal are to use K2’s unique capabilities to determine flare timescales and frequency, which set limits to the size of the emitting region, and determine the shape of the power spectral density (PSD), which yields characteristic variability timescales, describes the underlying emission process, and constrains characteristic emitting region sizes in blazars. Unique to this cycle is the fact that the field of view for F16 and F6 overlap with 12 sources in common, F18 and F16 overlap with 8 sources in common (including the bright and highly variable source OJ 287) and F19 and F12 overlap with 6 sources in common This allows the experiment to be repeated for a total of 26 sources. Ground based contemporaneous monitoring of the sample sources will occur in order to validate the variability detected by K2 in these sources the importance of which has been shown by by Mushotzky et al. (2011), Carini & Ryle (2012) & Wherle, Carini & Wiita (2017)

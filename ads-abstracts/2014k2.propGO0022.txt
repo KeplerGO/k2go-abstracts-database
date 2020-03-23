@@ -1,0 +1,7 @@
+%R 2014k2.propGO0022
+%T Five Known Exoplanets, Maybe More..?
+%A Tognetti, Laurence 
+%J Kepler/K2 Campaign 0 Guest Observer Proposal GO0022
+%D 02/2014
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO0022
+%B K2 Campaign 0 program.

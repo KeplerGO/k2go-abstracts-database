@@ -1,0 +1,7 @@
+%R 2014k2.propGO0120
+%T Nearby, High Proper Motion M Dwarfs for the Kepler K2 Mission
+%A Lepine, S. 
+%J Kepler/K2 Campaign 0 Guest Observer Proposal GO0120
+%D 02/2014
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO0120
+%B K2 Campaign 0 program.

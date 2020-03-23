@@ -1,0 +1,7 @@
+%R 2014k2.propGO2031
+%T A K2 transiting planet search around bright M stars in the era of Gaia
+%A Sozzetti, A. 
+%J Kepler/K2 Campaign 2 Guest Observer Proposal GO2031
+%D 05/2014
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO2031
+%B K2 Campaign 2 program.

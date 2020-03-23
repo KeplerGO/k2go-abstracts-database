@@ -1,0 +1,11 @@
+%R 2015k2.propGO10036
+%T Giants Orbiting Giants: A Search for Transiting Planets around Oscillating Red-Giant Branch Stars with K2
+%A Huber, Daniel; Lopez, Eric David; Mann, Andrew Withycombe; Chaplin, William J; Fortney, Jonathan J; Gaidos, Eric; Pinsonneault, Marc Howard; Johnson, John Asher 
+%J Kepler/K2 Campaign 10 Guest Observer Proposal GO10036
+%D 07/2015
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO10036
+%B While exoplanet transit surveys are increasingly focused on cool dwarfs, transiting planets orbiting red-giant branch (RGB) stars are largely unexplored. Due to their diversity in fundamental properties (masses, luminosities, chemical compositions), RGB stars are ideal targets to tackle two key unsolved questions in exoplanet science: the occurrence rate of gas-giant planets as a function of host star mass, and the role of stellar incident flux on the radius inflation of gas-giant planets. We propose to continue our survey of low-luminosity RGB stars (with radii between ~3.5-8 solar radii) to detect transiting gas-giant planets with K2 and address the above science questions by combining exoplanet transits and asteroseismology.
+
+We have selected ~1400 targets for long-cadence observations using colors, reduced proper motions, and publicly available spectroscopic surveys. Planet candidates will be detected using a Box-Fitting Least Squares (BLS) algorithm coupled with a correlated noise model to account for stellar granulation. Since RGB stars oscillate with periods accessible with long-cadence data, we will use asteroseismology to precisely characterize both the host stars and the detected planet candidates. Follow-up ground-based radial velocity observations will be used to confirm the planet candidates.
+
+The proposal addresses two main K2 science goals: exoplanet detection and stellar astrophysics. Due to the low number of K2 short-cadence slots, our survey is the only K2 program allowing a systematic combination of asteroseismology and transits to characterize exoplanets. Kepler was not optimized towards observing bright low-luminosity RGB stars, and hence new K2 observations are required to address the key science questions of this project.

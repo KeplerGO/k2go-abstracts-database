@@ -1,0 +1,11 @@
+%R 2014k2.propGO5082
+%T Searching for planets in the SuperWASP noise
+%A Brown, David J A; Gomez Maqueo Chew, Yilen; Osborn, Hugh P; Armstrong, David; McCormac, James J; Pollacco, Don L 
+%J Kepler/K2 Campaign 5 Guest Observer Proposal GO5082
+%D 09/2014
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO5082
+%B We propose that K2 observe a large sample of over 500 bright, solar-type stars using long cadence mode, in order to search for the telltale signatures of transits by small, potentially rocky planets. Our proposed targets have previously been observed by the ground-based SuperWASP project; no evidence was found for close-in gas giant planets orbiting any of the stars.
+
+Small companions to close-in gas giants are rare, and solar-type stars are known to host large numbers of small planets. Therefore a search around stars that have already been vetted for the presence of close-in gas giants has a high probability of detecting planets small, potentially rocky planets.
+
+The sensitivity of K2 is orders of magnitude better than that of SuperWASP. As such it will be able to find the signatures of small planets that are hiding in the noise on the SuperWASP measurements. Moreover WASP target stars are bright, and thus radial velocity follow-up to confirm the planets and measure their masses is feasible.

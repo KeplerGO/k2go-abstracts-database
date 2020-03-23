@@ -1,0 +1,7 @@
+%R 2014k2.propGO5062
+%T Cataclysmic Variables for K2's Campaign 4 and 5
+%A Schlegel, Eric M; Honeycutt, R. Kent 
+%J Kepler/K2 Campaign 5 Guest Observer Proposal GO5062
+%D 09/2014
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO5062
+%B Campaign 5 of the Kepler2 mission will cover the location of the bright, eclipsing nova-like cataclysmic variable AC Cnc.  The Kepler mission has studied only two eclipsing systems, both of the dwarf nova sub-class.  Eclipsing CVs are important because the observations define the system parameters and provide a probe of the accretion disk.  Nova-likes are important because they exhibit the properties of high-accretion rate systems.  AC Cnc will be the first eclipsing novalike to be observed.  A recent model for the flickering observed in high-accretion rate CVs can be directly tested with an eclipsing system.

@@ -1,0 +1,7 @@
+%R 2015k2.propGO9925
+%T Two targets for engineering use during checkout
+%A GO Office, K2 
+%J Kepler/K2 Campaign 9 Guest Observer Proposal GO9925
+%D 07/2015
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO9925
+%B The project needs needs to downlink three bright but unsaturated and isolated targets for downlink during the checkout phase at the start of the campaign. These targets are used to check the pointing is nominal. Only one proposed target was suitable in C9 so the project selected two additional targets: 226557170 and 225576868. These targets are assigned masks of 25x25 pixels.

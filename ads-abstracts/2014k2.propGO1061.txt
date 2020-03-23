@@ -1,0 +1,7 @@
+%R 2014k2.propGO1061
+%T A KEPLER-K2 search for exoplanets orbiting main-sequence stars of the local Galactic halo population
+%A Lepine, S. 
+%J Kepler/K2 Campaign 1 Guest Observer Proposal GO1061
+%D 03/2014
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO1061
+%B K2 Campaign 1 program.

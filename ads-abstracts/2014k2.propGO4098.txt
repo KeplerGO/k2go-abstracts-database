@@ -1,0 +1,7 @@
+%R 2014k2.propGO4098
+%T Monitoring the closest stars in K2 field 4 and 5
+%A Jao, Wei-Chun; Henry, Todd J. 
+%J Kepler/K2 Campaign 4 Guest Observer Proposal GO4098
+%D 09/2014
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO4098
+%B We propose to observe 12 closest stars in Kepler 2 field 4 and 5. These stars are F8 _x005F_x005F M3.5 dwarfs and a white dwarf, a sample that in microcosm mimics the population of the solar neighborhood. Although the odds of detecting a transit among only 12 targets is small, the variability data are valuable for astrophysical studies of the nearest stars and an investment in the future, should non-transiting planets eventually be discovered around these stars. We can also set-up a complementary long-term variability monitoring program in conjunction to Kepler_x005F_x005Fs short-term data and will gather a full picture of the stars_x005F_x005F variability and flaring events, which are important to habitability of planets.

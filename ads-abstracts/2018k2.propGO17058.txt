@@ -1,0 +1,7 @@
+%R 2018k2.propGO17058
+%T Planet Hunters: Continuing Kepler's Mission
+%A Omohundro, Mark; Boyajian, Tabetha; Fischer, Debra; Schwengeler, Hans Martin; Terentev, Ivan 
+%J Kepler/K2 Campaign 17 Guest Observer Proposal GO17058
+%D 04/2018
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO17058
+%B Not long after Kepler's first light, PlanetHunters.org volunteers were observing a number of interesting and unusual exoplanet candidates and more such as the now famous WTF star a.k.a. Tabby's star (KIC 8462852). We plan to continue to assist scientists until mission end, and in that long term spirit propose observation of a handful of both unusual stellar targets and longer-period crossover planet candidates whose stars might yield additional transits. Of special interest are a possible ringed or low mass binary system in EPIC 212684857 where we request short cadence, and several possible hierarchical systems including one with ETV (EPIC 212421319).

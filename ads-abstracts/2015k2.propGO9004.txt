@@ -1,0 +1,7 @@
+%R 2015k2.propGO9004
+%T Ongoing microlensing events selected for the first half of Campaign 9 (C9a)
+%A Microlensing Science Team, K2 
+%J Kepler/K2 Campaign 9 Guest Observer Proposal GO9004
+%D 07/2015
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO9004
+%B K2 Campaign 9 Microlensing Survey: Ongoing microlensing events selected for the first half of Campaign 9 (C9a)

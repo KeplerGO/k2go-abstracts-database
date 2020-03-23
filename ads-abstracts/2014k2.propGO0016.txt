@@ -1,0 +1,7 @@
+%R 2014k2.propGO0016
+%T MASSIVE:Massive stAr aSteroSeIsmology, Variability, and Evolution with K2: Binary stars in Field 0
+%A Tkachenko, Andrew 
+%J Kepler/K2 Campaign 0 Guest Observer Proposal GO0016
+%D 02/2014
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO0016
+%B K2 Campaign 0 program.

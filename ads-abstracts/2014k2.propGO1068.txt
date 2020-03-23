@@ -1,0 +1,7 @@
+%R 2014k2.propGO1068
+%T K2 field 1 target proposal: Eclipsing Binary Stars
+%A Prsa, Andrej 
+%J Kepler/K2 Campaign 1 Guest Observer Proposal GO1068
+%D 03/2014
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO1068
+%B K2 Campaign 1 program.

@@ -1,0 +1,11 @@
+%R 2016k2.propGO13121
+%T Determining the Properties of Young Stellar Binary Components
+%A Allen, Thomas S; Prato, Lisa; Cody, Ann Marie 
+%J Kepler/K2 Campaign 13 Guest Observer Proposal GO13121
+%D 03/2016
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO13121
+%B We propose to observe 25 young, visual binary systems in Taurus during campaign 13 of the K2 mission.  Binary stars are important simply on the basis of their predominance.  Furthermore, they have long been important laboratories for stellar astrophysics.  For example, mapping a binarys orbit, spatially and spectroscopically, yields precise component masses and mass ratios.  Properties of the stars as a function of mass may then be determined, providing key data for stellar models.    The study of young stellar multiples is also important because of the potential impact of the binary environment on planet formation.  We have an ongoing observing program to determine the orbital parameters and simultaneously identify the stellar and circumstellar properties of ~100 young binary systems.  Our in-hand data includes high-resolution, infrared spectra of each component in most of the pairs in our sample, including systems with separations on the order of the diffraction limit of 8$-$10 meter class telescopes.
+
+K2 time series photometry of these binary systems will provide crucial information for the study of component rotation periods, angular momentum evolution, and hence binary formation mechanisms.  We will determine component rotation periods through analysis of the multiple periodicities in the blended light curves for each star in the proposed 25 binary systems where possible.  For binaries of very unequal brightness, we will determine at least the rotation period of the primary star.  Combining estimates of stellar radii with vsini values, measured from our spectra, and K2 rotation periods, we will determine true rotational velocities and stellar inclinations.
+
+K2 time series photometry will also allow for uninterrupted monitoring of the accretion signatures and resulting variability of the young systems with protoplanetary disks.  Finally, we will use the proposed photometry to search for transits from any undetected stellar, brown dwarf, or planet components that these systems may contain.

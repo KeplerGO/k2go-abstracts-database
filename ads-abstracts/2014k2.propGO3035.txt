@@ -1,0 +1,7 @@
+%R 2014k2.propGO3035
+%T K2 Observations of Pulsating Subdwarf B Stars for Fields 2 and 3
+%A Reed, M. D. 
+%J Kepler/K2 Campaign 3 Guest Observer Proposal GO3035
+%D 05/2014
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO3035
+%B K2 Campaign 3 program.

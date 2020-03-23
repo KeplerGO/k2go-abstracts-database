@@ -1,0 +1,7 @@
+%R 2015k2.propGO9912
+%T Discovering the Orbital Period of the Recurrent Nova V2487 Oph
+%A Pagnotta, Ashley 
+%J Kepler/K2 Campaign 9 Guest Observer Proposal GO9912
+%D 07/2015
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO9912
+%B We propose V2487 Oph as a short-cadence target for K2 during Field 9. For 1-minute short-cadence integrations on the V=17.5 star in quiescence, the uncertainty will be ~0.02 mag. The reason for the short-cadence is that V2487 Oph is known to continually display variations of >0.1 mag on time scales of ten minutes, and because we expect variations from eclipses or white dwarf spins to be much faster than 30-minutes.

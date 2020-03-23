@@ -1,0 +1,7 @@
+%R 2014k2.propGO1064
+%T Proof-of-concept study to observe a trans-Neptunian object around the stationary point
+%A Szabo, R. 
+%J Kepler/K2 Campaign 1 Guest Observer Proposal GO1064
+%D 03/2014
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO1064
+%B K2 Campaign 1 program.

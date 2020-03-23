@@ -1,0 +1,7 @@
+%R 2018k2.propGO19034
+%T Stellar Pulsations in Eclipsing-Binary Systems
+%A Gaulme, Patrick; Jackiewicz, Jason; Guzik, Joyce 
+%J Kepler/K2 Campaign 19 Guest Observer Proposal GO19034
+%D 04/2018
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO19034
+%B We propose to test asteroseismic scaling relations and shed light on the unexplained main-sequence hybrid puslators, taking advantage of additional constraints from bright binaries including one or more pulsators.

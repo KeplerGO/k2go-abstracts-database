@@ -1,0 +1,7 @@
+%R 2014k2.propGO3014
+%T K2 Campaign 2 and 3 Proposal for Monitoring Cataclysmic Variables
+%A Szkody, Paula 
+%J Kepler/K2 Campaign 3 Guest Observer Proposal GO3014
+%D 05/2014
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO3014
+%B K2 Campaign 3 program.

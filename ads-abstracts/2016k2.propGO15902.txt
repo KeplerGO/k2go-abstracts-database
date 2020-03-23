@@ -1,0 +1,7 @@
+%R 2016k2.propGO15902
+%T Testing the DBV instability strip with K2 Campaign 15
+%A Hermes, J J 
+%J Kepler/K2 Campaign 15 Guest Observer Proposal GO15902
+%D 12/2016
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO15902
+%B We propose short-cadence observations in K2 Field 15 of three candidate pulsating helium-atmosphere white dwarfs (DBVs), with selection based on their photometric colors from the VST/ATLAS survey. These DDT observations supplement our successful GO proposal to continue observing pulsating white dwarfs with the K2 mission.

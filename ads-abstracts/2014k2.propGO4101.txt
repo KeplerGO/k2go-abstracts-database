@@ -1,0 +1,7 @@
+%R 2014k2.propGO4101
+%T Wide Stellar Binaries in Kepler: Calibrating Gyrochronology Models and Constraining Planetary Properties
+%A West, Andrew A 
+%J Kepler/K2 Campaign 4 Guest Observer Proposal GO4101
+%D 09/2014
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO4101
+%B The ability to estimate the age of a star is a crucial step in understanding the evolution of stellar, Galactic and planetary phenomena. One method of stellar age determination, gyrochronology, relies on the color and rotation period of a star; rotation rate offers direct insight into the evolution of stellar angular momentum and decreases with stellar age. Previous studies have found that wide binaries are an ideal sample for constraining gyrochronology models and are particularly useful for age-dating older and low-mass stars (i.e., where empirical methods of age determination are most needed). Using the Ecliptic Plane Input Catalog and the fourth U.S. Naval Observatory CCD Astrograph Catalog, we identified 9786 common proper motion binaries in K2 Fields 4 and 5 and will use long-cadence observations of a subset of these pairs to measure photometric rotation periods and recalibrate the age-rotation relationship. Additionally, given well-determined ages for a sample of binaries with attending planets, we can also extrapolate planetary ages and begin to constrain planet formation and evolution scenarios using an absolute timescale.

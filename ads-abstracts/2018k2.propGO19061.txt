@@ -1,0 +1,7 @@
+%R 2018k2.propGO19061
+%T Observations of Neptune’s haze during solar minimum
+%A Trafton, Laurence 
+%J Kepler/K2 Campaign 19 Guest Observer Proposal GO19061
+%D 04/2018
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO19061
+%B We propose to use K2 to probe whether the periodic response of Neptune’s atmospheric aerosols to solar FUV and galactic cosmic rays has indeed returned to normal as will be tested by the upcoming solar minimum due during Campaign 19. We will also characterize Neptune’s aerosol haze by the slope of its opposition effect using a 30 min cadence and observations near quadrature and again at minimum solar phase angle during this Campaign.

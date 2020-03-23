@@ -1,0 +1,7 @@
+%R 2018k2.propGO17005
+%T Eclipsing Binary Stars: Indispensable Astrophysical Labs
+%A Prsa, Andrej; Conroy, Kyle; Abdul-Masih, Michael; Kochoska, Angela 
+%J Kepler/K2 Campaign 17 Guest Observer Proposal GO17005
+%D 04/2018
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO17005
+%B We present the argument for a continued survey of eclipsing binary and multiple stars by K2 by identifying some of the hot topics that can be tackled by the K2 data. The proposal utilizes the standardized scheme our team used to select targets for all previous GO solicitations. Small program funding is requested to ingest the data into the live catalog hosted at http://keplerEBs.villanova.edu.

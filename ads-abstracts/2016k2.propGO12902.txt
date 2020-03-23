@@ -1,0 +1,7 @@
+%R 2016k2.propGO12902
+%T Reobserving Targets from the 2014 K2 Engineering Test in K2 C12
+%A Vanderburg, Andrew 
+%J Kepler/K2 Campaign 12 Guest Observer Proposal GO12902
+%D 03/2016
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO12902
+%B K2 DDT Program.

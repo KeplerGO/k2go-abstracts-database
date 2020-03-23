@@ -1,0 +1,7 @@
+%R 2015k2.propGO10906
+%T Monitoring Campaign 1 overlap targets during Campaign 10
+%A GO Office, K2 
+%J Kepler/K2 Campaign 10 Guest Observer Proposal GO10906
+%D 07/2015
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO10906
+%B Monitoring Campaign 1 overlap targets during Campaign 10

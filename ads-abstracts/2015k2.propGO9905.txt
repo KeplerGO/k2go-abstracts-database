@@ -1,0 +1,11 @@
+%R 2015k2.propGO9905
+%T Rotational properties of Quaoar using K2 Campaign 9 data
+%A Kiss, Csaba 
+%J Kepler/K2 Campaign 9 Guest Observer Proposal GO9905
+%D 07/2015
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO9905
+%B (50000) Quaoar is a large object in the classical Kuiper belt, one of the ancient and original populations in the trans-Neptunian region (Brown & Trujillo, 2004, Gladman et al., 2008, Lacerda et al., 2014). Due to its large size (∼1000 km) it is considered to be a very likely dwarf planet. It is a binary object, the orbital period of its moon Weywot is 12.438±0.005 d. Quaoar will be visible during the entire Campaign, at a brightness of V = 18.9 mag.
+
+Here we propose Campaign 9 observations of (50000) Quaoar to obtain a rotational light curve in the optical band. The new K2 light curve will unambiguously determine the rotation period, both clarifying the single-peak period (8.84 or 9.42 h) and reveal whether the observed light curve is single or double peaked, in the latter case with a ∼18 h period. Quaoar has moved ∼15◦ along its orbit since 2003 and the position angle of the spin axis with respect to the line of sight changed accordingly. The comparison of the previous and current light curve amplitudes will constrain the possible spin axis orientations, an important parameter for the thermal emission models. The spin axis orientation is also constrained by the shape observed in the occultation measurements.
+
+We are going to combine the new K2 light curve data with the unpublished Herschel thermal light curve observations and these together will clearly decide whether the light curve is caused by shape or by albedo variegations (see e.g. Lellouch et al., 2010, for a similar study on the dwarf planet Haumea). We will also be able to determine the main thermal characteristics of the surface (and also their rotational phase dependence) more precisely then from light curve average thermal data in Fornasier et al. (2013).

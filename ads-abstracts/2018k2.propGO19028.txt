@@ -1,0 +1,7 @@
+%R 2018k2.propGO19028
+%T K2’s Keys to the Solar System: Studying Potential Volatile Rich Objects
+%A Ryan, Erin 
+%J Kepler/K2 Campaign 19 Guest Observer Proposal GO19028
+%D 04/2018
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO19028
+%B Recent studies of Solar System dynamics, motivated in part by the discovery of hot Jupiter exoplanets, suggest that giant planet migration has shaped the dynamics of our Solar System. Key predictions resulting from these dynamical models include a common source for inner solar system Hilda group and Trojan asteroids and Scattered Kuiper Belt objects (KBOs) and comet nuclei. While the colors of bodies in these four populations are similar, definitively linking these objects to the same source reservoir is difficult given a lack of surface spectral features and the very different solar radiation environment in each region. To test models these objects share a common origin, physical characterization such as variability studies with Kepler are required to determining the binary fraction and densities for a large sample of comets, Hildas and Trojans.

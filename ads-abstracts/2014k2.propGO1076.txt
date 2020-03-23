@@ -1,0 +1,7 @@
+%R 2014k2.propGO1076
+%T Variability in cataclysmic variables with K2
+%A Scaringi, S. 
+%J Kepler/K2 Campaign 1 Guest Observer Proposal GO1076
+%D 03/2014
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO1076
+%B K2 Campaign 1 program.

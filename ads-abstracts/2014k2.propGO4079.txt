@@ -1,0 +1,7 @@
+%R 2014k2.propGO4079
+%T Internal Mixing Processes and Angular Momentum Transport in Pulsating B-type Stars on the Main Sequence
+%A Papics, Peter I 
+%J Kepler/K2 Campaign 4 Guest Observer Proposal GO4079
+%D 09/2014
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO4079
+%B Our goal is to perform in-depth asteroseismology of main sequence B-type stars across the classical Beta Cephei and SPB instability strips. Besides the classical pulsators, some of the proposed targets are magnetic B stars, or fast-rotator Be stars. While the nominal Kepler mission already implied a revolution in stellar physics of solar-like stars and red giants, similar achievements were not possible for massive OB stars as most of such targets were avoided in the FoV in order not to disturb the exoplanet hunting. Now we can fill this hole in mission capacity by focusing on the metal factories of the Universe, for which current theories of stellar structure and evolution are least adequate. We will put constraints on physical processes which are either missing from, or ill-constrained in theory via forward modelling based on the analysis of the proposed K2 photometry and of ground-based spectroscopic data, which will be assembled with the HERMES spectrograph (1.2m Mercator telescope on La Palma, Spain) and the spectro-polarimetric NARVAL instrument (2m BLT at the Pic du Midi, French Pyrenees), to which we have guaranteed access.

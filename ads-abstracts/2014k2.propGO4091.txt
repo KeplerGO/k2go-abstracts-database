@@ -1,0 +1,11 @@
+%R 2014k2.propGO4091
+%T Combining K2 and Ground-Based Data to Measure Starspot Temperature Contrast in Rotating Pleiads
+%A Brown, Timothy M; Korhonen, Heidi Helena; Brown, Alexander 
+%J Kepler/K2 Campaign 4 Guest Observer Proposal GO4091
+%D 09/2014
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO4091
+%B We propose to measure the temperature contrast between starspots on rotating members of the Pleiades cluster and the underlying photospheres.  Having measured these contrasts for dozens of stars as a function of stellar mass and rotation period, we will test the hypothesis that rapidly-rotating stars support magnetic dynamos that differ greatly in their spatial structure from those in slowly-rotating stars.
+
+The necessary measurements consist of (1) Kepler high-accuracy but broadband characterization of the periods, phases, amplitudes, and waveforms of each star's rotational modulation, correlated with (2) multi-epoch, multi-color ground-based photometry, and spectroscopy.  This combination will allow separate measurements of starspot area and effective temperature, by fitting spot models to observed variations in the stellar colors.
+
+This program will probe the dynamo processes whereby stars generate and maintain their surface magnetic fields.  In the process, it will increase understanding of magnetic processes in general, both within the solar system and elsewhere.

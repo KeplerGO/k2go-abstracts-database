@@ -1,0 +1,7 @@
+%R 2014k2.propGO2026
+%T Optical and Gamma-ray Correlations in Scorpius X-1
+%A Hynes, Robert 
+%J Kepler/K2 Campaign 2 Guest Observer Proposal GO2026
+%D 05/2014
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO2026
+%B K2 Campaign 2 program.

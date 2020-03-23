@@ -1,0 +1,7 @@
+%R 2018k2.propGO18046
+%T A continued search for exoplanets and close stellar/substellar companions in the local halo population for K2 campaigns 17-18-19
+%A Lepine, Sebastien 
+%J Kepler/K2 Campaign 18 Guest Observer Proposal GO18046
+%D 04/2018
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO18046
+%B The physical properties of low-mass, halo stars, which are both very old and very metal-poor, remains poorly characterized due to the paucity of eclipsing systems that have been identified in this population. In addition, few (if any) exoplanet transits have been confirmed in this population. These stars can however be identified as high as high-velocity objects, based on selection in a reduced proper motion diagram, and several thousands have been monitored in K2 so far, leading to the identification of at least 4 eclipsing systems (see below). A search of the SUPERBLINK proper motion catalog now identifies 2,441 additional high-velocity stars that are likely members of the Galactic halo, which will be visible in K2 campaigns C17-C18-C19, and which have also not been targeted in previous campaigns. We propose to target all those stars with K2 to continue our search for eclipsing systems, as well as for the potential identification of exoplanet transits. Based on previous success rates, we expect to find a few (1-3) additional eclipsing systems within this final subset of local galactic halo stars for K2.

@@ -1,0 +1,7 @@
+%R 2018k2.propGO18019
+%T K2 Campaign 18: Eclipsing Cataclysmic Variables
+%A Schlegel, Eric; Honeycutt, R. Kent 
+%J Kepler/K2 Campaign 18 Guest Observer Proposal GO18019
+%D 04/2018
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO18019
+%B We propose to observe two eclipsing cataclysmic variables (CVs) which will reveal differences in their eclipses that will illuminate connections between mass transfer, the stream impact, and accretion in the disk. These connections remain significant challenges to our understanding, but uninterrupted observations of eclipses of CVs directly probe those connections.

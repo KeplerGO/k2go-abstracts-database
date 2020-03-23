@@ -1,0 +1,7 @@
+%R 2016k2.propGO16904
+%T The need for monitoring a large sample of AGN with the forward-facing K2 Campaign 16
+%A Edelson, Rick 
+%J Kepler/K2 Campaign 16 Guest Observer Proposal GO16904
+%D 12/2016
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO16904
+%B We request C16 LC monitoring of 192 AGN. We will use simultaneous ground-based data to investigate, model and remove strong long-term systematics present in Kepler AGN light curves, allowing measurement of optical PSDs, interband lags, and QPO tests.

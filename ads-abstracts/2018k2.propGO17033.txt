@@ -1,0 +1,7 @@
+%R 2018k2.propGO17033
+%T The K2 RR Lyrae and Cepheid Survey
+%A Szabo, Robert; Plachy, Emese; Molnar, Laszlo; Juhasz, Aron L.; Kolenberg, Katrien 
+%J Kepler/K2 Campaign 17 Guest Observer Proposal GO17033
+%D 04/2018
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO17033
+%B Low amplitude variations induced by new dynamical phenomena were found in space photometric observations in classical pulsating stars (period doubling, non-radial modes in RRc and RRd stars, modulated RRd stars, multiple modulations in RR Lyrae stars, period jitter in Cepheids). In this proposal, we continue our K2 RR Lyrae and Cepheid survey which has a threefold aim: (1) to study the newly found dynamical phenomena, (2) to analyze their statistical properties, and (3) to create a reference catalog with textbook quality light curves. These goals can be accomplished only with high precision K2 observations. Our final list covering all the K2 fields will comprise over 4000 RR Lyrae stars and hundreds of Cepheids, a lasting legacy for decades to come.

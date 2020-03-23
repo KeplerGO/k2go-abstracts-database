@@ -1,0 +1,7 @@
+%R 2014k2.propGO2080
+%T Asteroseismology of (SP)B stars
+%A DeCat, Peter 
+%J Kepler/K2 Campaign 2 Guest Observer Proposal GO2080
+%D 05/2014
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO2080
+%B K2 Campaign 2 program.

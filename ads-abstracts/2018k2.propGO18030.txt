@@ -1,0 +1,7 @@
+%R 2018k2.propGO18030
+%T Probing The Planetary Population Of High-Mass Stars (K2-GO6)
+%A Johnson, Marshall; Gaudi, B. Scott; Cochran, William D.; Shporer, Avi; Grziwa, Sascha; Eigmueller, Philipp 
+%J Kepler/K2 Campaign 18 Guest Observer Proposal GO18030
+%D 04/2018
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO18030
+%B We propose to observe a sample of main sequence A and early F stars with K2 in order to search for planets, which we will confirm using Doppler tomography and analysis of the orbital phase curve. This will expand the number of known planets in this poorly-explored region of parameter space.

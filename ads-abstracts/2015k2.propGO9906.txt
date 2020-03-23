@@ -1,0 +1,9 @@
+%R 2015k2.propGO9906
+%T Understanding classical Be stars thanks to K2’s Field 9
+%A Neiner, Coralie 
+%J Kepler/K2 Campaign 9 Guest Observer Proposal GO9906
+%D 07/2015
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO9906
+%B Classical Be stars are rapidly-rotating pulsating massive stars that host a decretion circumstellar disk. This disk is created from matter ejected by the star through sporadic events. How these ejections occur is not understood yet, but they are most likely related to the very rapid rotation of these stars and to their pulsations. The correlation between pulsations and the ejections of matter was first proposed by Rivinius et al. (2001, A&A 369, 1058) and firmly established by Huat et al. (2009, A&A 506, 95) thanks to CoRoT observations.
+
+K2 Field 9 contains 26 confirmed classical Be stars with 8≤V≤11 that fall on silicon. We request K2 observations of all of them. Pulsations of Be stars are of the order of 1 day, therefore long cadence observations are sufficient for these targets. We have already developed tools to construct lightcurves from the provided pixel data and to correct for any remaining effects of the roll of the satellite (Buysschaert et al. 2015, MNRAS 453, 89).

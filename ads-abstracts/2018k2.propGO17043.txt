@@ -1,0 +1,7 @@
+%R 2018k2.propGO17043
+%T Developing Predictors Of Radial Velocity Jitter From K2 Light Curves
+%A Bastien, Fabienne; Luhn, Jacob K.; Wright, Jason T. 
+%J Kepler/K2 Campaign 17 Guest Observer Proposal GO17043
+%D 04/2018
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO17043
+%B We propose to use the high-precision light curves from the K2 mission with archival radial velocity (RV) jitter and activity measurements to (1) develop an empirical relation between RV jitter and light curve variations, following the methodology developed by Bastien et al. (2014) and (2) determine the dependency of the relation on age, spectral type, and magnetic activity. These relations will prove useful for RV follow-up of existing transiting exoplanet candidates. We will use them to identify targets that have low levels of RV jitter and use them to uncover the physical causes of RV jitter, which will help optimize the use of upcoming RV facilities like NASA’s NEID spectrograph.

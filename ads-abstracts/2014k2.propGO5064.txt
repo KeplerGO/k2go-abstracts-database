@@ -1,0 +1,9 @@
+%R 2014k2.propGO5064
+%T Searching For Planets In Binary Stars
+%A Wang, Ji; Fischer, Debra Ann; Huang, Xu 
+%J Kepler/K2 Campaign 5 Guest Observer Proposal GO5064
+%D 09/2014
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO5064
+%B Prior to the launch of the Kepler mission, we already knew that there are hundreds of binary stars in its field of view. For these binary stars, we find a striking deficiency of planets; none of these binary stars has a planet candidate. With K2 mission, we propose to observe more known binary stars to confirm the deficiency. We consider only S-type circumstellar planet system, in which a planet orbits one of the binary stars, NOT circumbinary planets (P-type).
+
+Our sample consists of 1100 binary stars, which represents the largest sample of binary stars for planet search. This sample will put a strong constraint on the planet occurrence rate in binary stars, which we denote as f. We calculate f for different number of planet detections. Non-detection will give a 3-sigma upper limit of f at 9.5%, which confirms the deficiency and the suppressive influence of a stellar companion on planet formation. One or two detections will confirm the deficiency at 2-3 sigma level. More than two detections are deemed as unlikely given the Kepler main mission result.  Targeting binary stars with no prior information of planet helps to unambiguously address the planet occurrence rate in binary stars. Increasing the sample size helps not only to confirm the deficiency of planets in binary stars but also study the influence of stellar companions on planets with different sizes and orbital separations. Future NASA mission in search of habitable worlds will inevitably encounter with this question: to select binary stars or not, which account for 33% of stars in the solar neighborhood. This proposal will pave the way to solve this question.

@@ -1,0 +1,7 @@
+%R 2018k2.propGO19051
+%T Asteroseismology Of The Brightest K2 Stars
+%A Huber, Daniel; White, Timothy; Pope, Ben; Aerts, Conny; Bedding, Tim; Boyajian, Tabetha; Creevey, Orlagh 
+%J Kepler/K2 Campaign 19 Guest Observer Proposal GO19051
+%D 04/2018
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO19051
+%B The most powerful tests of stellar structure and evolution come from the brightest stars in the night sky, for which complementary observational techniques can be combined. So far, stars brighter than Kp ∼ 8 mag were rarely observed with Kepler/K2 due to the large number of pixels required to capture the saturated pixel columns. Here, we propose K2 observations of the brightest stars in C17-C19 using a novel technique that uses a small number of unsaturated pixels for stars with V < 6 mag. Photometry of these targets will allow unprecedented tests of asteroseismic scaling relations, which will pave the way for the success of the K2 Galactic Archeology Program. It will also provide insights into poorly understood internal processes of intermediate-mass stars, such as convective core overshooting. Our observations will provide a legacy catalog of K2 light curves for the brightest and most valuable stars in the ecliptic plane.

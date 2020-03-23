@@ -1,0 +1,7 @@
+%R 2014k2.propGO2033
+%T Optical variability in Active Galactic Nuclei
+%A Kording, E. 
+%J Kepler/K2 Campaign 2 Guest Observer Proposal GO2033
+%D 05/2014
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO2033
+%B K2 Campaign 2 program.

@@ -1,0 +1,9 @@
+%R 2015k2.propGO10904
+%T Observing Rosetta's comet
+%A Snodgrass, Colin 
+%J Kepler/K2 Campaign 10 Guest Observer Proposal GO10904
+%D 07/2015
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO10904
+%B Comet 67P passes through the K2 campaign 10 field in September 2016, meaning that we can get remote observations just before the end of the Rosetta mission. Kepler photometry can provide the following key measurements at a time when no other platform can observe the comet:
+1. Total brightness of the comet. This relates directly to the amount of dust being released and therefore gives a critical ‘total’ activity measurement, which can be compared with the instantaneous (but local) measurements from various instruments on Rosetta.
+2. Variability of the comet. There are two sources of variability; changing amounts of dust in the coma, and the underlying light-curve of the nucleus (its non-spherical shape reflects more or less sunlight as it rotates).

@@ -1,0 +1,7 @@
+%R 2014k2.propGO2074
+%T Pulsed accretion in pre-main sequence spectroscopic binaries
+%A Kospal, A. 
+%J Kepler/K2 Campaign 2 Guest Observer Proposal GO2074
+%D 05/2014
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO2074
+%B K2 Campaign 2 program.

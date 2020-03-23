@@ -1,0 +1,7 @@
+%R 2016k2.propGO13902
+%T Reobserving Targets from K2 Campaign 4 in Campaign 13
+%A Vanderburg, Andrew 
+%J Kepler/K2 Campaign 13 Guest Observer Proposal GO13902
+%D 03/2016
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO13902
+%B K2 DDT Program.

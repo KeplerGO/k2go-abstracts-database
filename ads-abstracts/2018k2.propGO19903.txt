@@ -1,0 +1,7 @@
+%R 2018k2.propGO19903
+%T K2 follow-up of recent Gaia alerts in the C19 field
+%A Hedges, Christina Louise 
+%J Kepler/K2 Campaign 19 Guest Observer Proposal GO19903
+%D 04/2018
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO19903
+%B K2 DDT Program.

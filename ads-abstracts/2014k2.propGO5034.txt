@@ -1,0 +1,7 @@
+%R 2014k2.propGO5034
+%T Discerning BHB stars from Main-Sequence A Stars from Kepler Light Curves
+%A Peterson, Ruth 
+%J Kepler/K2 Campaign 5 Guest Observer Proposal GO5034
+%D 09/2014
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO5034
+%B We propose to identify 50 or more cool field BHB stars among targets with A-star colors in fields 4 and 5 by detecting their peak asteroseismological frequencies from K2 long-cadence light curves. Because BHB stars are evolved, they have a dense core and more tenuous envelope that do main-sequence stars. The cooler BHB stars should have detectable asteroseismological frequencies even at distances of 10kpc, while main-sequence stars will not. Our work will provide the first cool-BHB asteroseismological information, for detailed constraints on metal-poor stellar evolution. It will also yield a pure BHB sample in these fields, from which improved reddening and a better understanding of the distribution of BHB stars perpendicular to the plane of the Galaxy will be forthcoming, as well as better color diagnostics for reliable BHB discernment in other fields.

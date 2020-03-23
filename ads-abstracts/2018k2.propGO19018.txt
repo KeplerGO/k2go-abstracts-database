@@ -1,0 +1,7 @@
+%R 2018k2.propGO19018
+%T Towards Precise Ages for Metal Poor Stars
+%A Valentini, Marica; Cristina, Chiappini; Miglio, Andrea; Bossini, Diego; Davies, Guy; Anders, Friedrich; Mosser, Benoit 
+%J Kepler/K2 Campaign 19 Guest Observer Proposal GO19018
+%D 04/2018
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO19018
+%B Age and mass determinations for metal-poor halo stars are key information helping constraining the chemical enrichment of the early phases of the Galaxy assembly as well as the nature of the first stellar generations. To date, very few metal-poor stars have an age determination, but the situation is bound to change thanks to the availability of seismic constrains. Here we aim at measuring solar-like oscillations for 14 metal-poor giant stars, selected from RAVE survey and literature. Ages will be determined by combining seismic information with the atmospheric parameters and chemical abundances measured using spectroscopy.

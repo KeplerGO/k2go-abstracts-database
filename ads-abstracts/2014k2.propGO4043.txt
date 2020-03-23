@@ -1,0 +1,7 @@
+%R 2014k2.propGO4043
+%T K2 Observations of Variable White Dwarfs in Fields 4 and 5
+%A Hermes, James J; Bours, Madelon; Gentile Fusillo, Nicola; Greiss, Sandra; Marsh, Tom; Bell, Keaton; Parsons, Steven Gary; Gaensicke, Boris Teddy 
+%J Kepler/K2 Campaign 4 Guest Observer Proposal GO4043
+%D 09/2014
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO4043
+%B We propose observations of known and suspected variable white dwarfs in Fields 4 & 5 of the K2 mission. We propose short-cadence observations of pulsating WDs within the empirical ZZ Ceti instability strip, which will allow unprecedented insight into the interiors of these stellar remnants. We also propose short-cadence observations of several unique post-common-envelope binaries that are known to exhibit eclipses, including the brightest such system known, V471 Tau. Finally, we propose short- and long-cadence observations of known strongly magnetic white dwarfs to constrain magnetic activity and rotation rates in these stars.

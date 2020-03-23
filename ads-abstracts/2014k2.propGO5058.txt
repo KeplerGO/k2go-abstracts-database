@@ -1,0 +1,7 @@
+%R 2014k2.propGO5058
+%T Atmospheric Studies of K2 Exoplanets via Novel Light-Curve Processing
+%A Coughlin, Jeffrey Langer; Lopez-Morales, Mercedes 
+%J Kepler/K2 Campaign 5 Guest Observer Proposal GO5058
+%D 09/2014
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO5058
+%B We have developed a novel pixel-level light curve reduction technique for use with K2 data. We plan to apply this technique to observations of four non-transiting exoplanets, as well as any transiting exoplanets discovered via K2 campaigns 4 and 5. This technique removes systematics introduced by the spacecraft, while preserving astrophysical variability at all timescales. The resulting data will allow for the modeling of these exoplanets' phase curve variations, and secondary eclipses if present. This will yield valuable information regarding the climate and structure of these hot Jupiter's atmospheres. We plan to make the pixel-level reduction code publicly available, and produce calibrated light curves for all K2 campaign 4 and 5 targets. This proposal directly contributes towards NASA's Astrophysics Division_x005F_x005Fs science goal to "Discover and study planets around other stars, and explore whether they could harbor life."

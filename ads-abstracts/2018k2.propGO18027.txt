@@ -1,0 +1,7 @@
+%R 2018k2.propGO18027
+%T Re-observing   Known   Exoplanets   and   Candidates   from   Previous   K2   Campaigns
+%A Vanderburg, Andrew; Omohundro, Mark; Becker, Juliette; Kristiansen, Martti H.; Schmitt, Al; Schwengeler, Hans; Terentev, Ivan; Venner, Alexander 
+%J Kepler/K2 Campaign 18 Guest Observer Proposal GO18027
+%D 04/2018
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO18027
+%B We propose both long cadence (LC) and short cadence (SC) observations of 214 (84 in SC) previously identified planet candidate hosts and confirmed planet hosts from previous K2 fields in C17-19. All three fields overlap with previous K2 fields, providing a rare opportunity for K2 to obtain follow-up observations of many previously identified candidates with both LC and SC. This opens up new science opportunities and enhances existing ones. We will​ ​ leverage​ ​ longer​ ​ time​ ​ baselines​ ​ and​ ​ higher​ ​ cadence​ ​ to detect​ ​ planets​ ​ with​ ​ longer​ ​ periods​ ​ than​ ​ was​ ​ possible​ ​ in​ ​ 80​ ​ days​ ​ of​ ​ observations; improve​ ​ measurements​ ​ of​ ​ transit​ ​ parameters​​ and​ ​ transit​ ​ ephemerides; measure​ ​ planet​ ​ masses​ ​ and​ ​ probe​ ​ system​ ​ architectures​ ​ via​ ​ transit​ ​ timing​ ​ variations; measure​ ​ spin/orbit​ ​ alignment​ ​ with​ ​ starspot​ ​ crossing​ ​ events; characterize​ ​ host​ ​ stars​ ​ by​ ​ detecting​ ​ their​ ​ seismic​ ​ oscillations; determine​ ​ asteroseismic​ ​ properties​ ​ of​ ​ the​ ​ host​ ​ stars.

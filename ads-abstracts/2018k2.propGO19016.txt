@@ -1,0 +1,7 @@
+%R 2018k2.propGO19016
+%T K2 Observations of Variable White Dwarfs, Cycle 6
+%A Hermes, J.J.; Hermes, J. J. ; Gansicke, B. T.; Dunlap, B.; Raddi, R.; Gentile Fusillo, N.; Kawaler, S. D.; Clemens, J. C.; Dennihy, E.; Fuchs, J. T.; Bell, K. J.; Montgomery, M. H.; Winget, D. E. 
+%J Kepler/K2 Campaign 19 Guest Observer Proposal GO19016
+%D 04/2018
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO19016
+%B We propose to continue our impactful program of monitoring all visible white dwarf (WD) stars with K2 in Fields 17−19. We request short-cadence observations of known and high-probability pulsating WDs, since the pulsation periods span 100 − 1400 s. Our K2 data will provide unprecedented insight into the interiors of evolved stellar remnants. Additionally, we propose long-cadence observations of hundreds of known and high-probability WDs, many of which are known to be magnetic, in close binaries, or show metal pollution indicating they harbor remnant planetary systems. Overall, our program will more than quintuple the number of rotation rates measured for WDs, both via asteroseismology and spots, constraining the evolution of angular momentum in the final stages of isolated stars. Our observations will provide the capstone for our legacy dataset of WD variability with K2, with progress so far summarized at k2wd.org.

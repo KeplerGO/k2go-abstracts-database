@@ -1,0 +1,11 @@
+%R 2015k2.propGO9909
+%T Recurrent Nova V3890 Sgr
+%A Schaefer, Bradley E. 
+%J Kepler/K2 Campaign 9 Guest Observer Proposal GO9909
+%D 07/2015
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO9909
+%B Recurrent novae (RNe) are ordinary nova systems that have eruptions with a recurrence time scale of faster than a century. They are binary systems where a relatively-normal star orbits close around a white dwarf, spilling matter onto the white dwarf through an accretion disk, where the mass accumulates until a thermonuclear runaway on the surface explodes as the nova event. To get a recurrence time scale shorter than a century, the white dwarf must be near the Chandrasekhar mass, plus the accretion rate must be very high. These exact two conditions, taken simplistically, mean that the white dwarf will soon reach the Chandrasekhar mass and blow up as a Type Ia supernova (SNIa). Indeed, this is the reason why RNe are one of the most popular ideas for the SNIa progenitor.
+
+Only 10 RNe are known in our Milky Way (Schaefer 2010). One of the least known of these is V3890 Sgr. This RN erupted in 1962 and 1990, with an inter-eruption interval of 27.9 years. The eruption light curve peaks at V=8.1, fades by 3.0 mags from peak in 14 days (t3=14 days), displays a plateau, and thus is in class P14 (Schaefer 2010; Strope, Schaefer, & Henden 2010). V3890 Sgr has an M5 red giant companion star. In quiescence, it is at V=15.5, with B-V=0.9, and we discovered the orbital period of 519.7 days from eclipses with a 1.0 mag amplitude (Schaefer 2009). In addition to the orbital modulation, the system shows a low-amplitude 103.8 day red giant oscillation.
+
+We propose V3890 Sgr as a short-cadence target for K2 during Field 9. For 1-minute short-cadence integrations on the V=15.5 star in quiescence, the uncertainty will be ~0.005 mag. The reason for the short-cadence is that V3890 Sgr is known to continually display variations of 0.02 mag on time scales of ten minutes (see Figure 57 of Schaefer 2010), plus fast time resolution is needed to pick up the white dwarf rotation

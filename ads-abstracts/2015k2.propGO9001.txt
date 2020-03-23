@@ -1,0 +1,7 @@
+%R 2015k2.propGO9001
+%T Superaperture masks for microlensing
+%A Microlensing Science Team, K2 
+%J Kepler/K2 Campaign 9 Guest Observer Proposal GO9001
+%D 07/2015
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO9001
+%B K2 Campaign 9 Microlensing Survey: Superaperture masks for microlensing

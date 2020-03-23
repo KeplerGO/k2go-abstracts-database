@@ -1,0 +1,7 @@
+%R 2016k2.propGO13119
+%T Spot Evolution and Rotation on Young Stars: Understanding RV Noise in Planet Searches
+%A Johns-Krull, Christopher M; Prato, Lisa; Llama, Joe; Hartigan, Patrick M 
+%J Kepler/K2 Campaign 13 Guest Observer Proposal GO13119
+%D 03/2016
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO13119
+%B With the discovery of numerous extra-solar planets over the past 30 years, understanding the process of planet formation is even more important.  One of the best ways to understand when and how planets form is to look for planets around the youngest stars which are surrounded by protoplanetary disks and in the process of forming planets right now.  However, the large level of stellar and accretion related variability of these objects makes planet searches around these young stars very difficult.  The high accuracy and long term continuous cadence of K2 light curves of these young stars will greatly aid our understanding of the astrophysical signals that complicates planet searches around these new born stars.  We will also use the K2 light curves to enable additional science on jet launching and interacting magnetospheres in young stars.

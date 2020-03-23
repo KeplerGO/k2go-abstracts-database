@@ -1,0 +1,7 @@
+%R 2014k2.propGO5033
+%T The Masses and Prevalence of Small Planets with K2
+%A Howard, Andrew William; Petigura, Erik; Marcy, Geoffrey William; Stassun, Keivan Guadalupe; Sanchis Ojeda, Roberto; De Lee, Nathan Michael; Winn, Joshua N.; Pepper, Joshua; Sinukoff, Evan; Paegert, Martin 
+%J Kepler/K2 Campaign 5 Guest Observer Proposal GO5033
+%D 09/2014
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO5033
+%B We propose to discover transiting super-Earths and Neptune-size planets in photometry from Campaigns 4 and 5 of the K2 Kepler Extended Mission.  Our search for small planets orbiting main sequence FGK-type stars has two scientific goals.  First, we will measure variations in the occurrence rate of planets in widely varying sky positions to learn whether our prior detailed occurrence measurements from the primary Kepler Mission can be applied directly to the solar neighborhood.  Our new measurements will focus on close-in super-Earths and Neptune-size planets that are abundant and detectable in K2 photometry.  Second, we will measure the masses of many of these small planets using high-precision Doppler spectroscopy from Keck-HIRES.  Our discoveries will significantly expand the sample of well-characterized planets whose bulk densities offer clues to the diversity of compositions for planets between the size of Neptune and Earth.

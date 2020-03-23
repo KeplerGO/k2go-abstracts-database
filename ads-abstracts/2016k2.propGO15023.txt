@@ -1,0 +1,9 @@
+%R 2016k2.propGO15023
+%T Young Stars Associated with the ScoCen Region: Remnant Disks, Activity, and Possibly Planets
+%A Hillenbrand, Lynne A.; Riedel, Adric R; David, Trevor Justin; Cody, Ann Marie 
+%J Kepler/K2 Campaign 15 Guest Observer Proposal GO15023
+%D 12/2016
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO15023
+%B Many of the optically visible stars within rho Oph and across much of Upper Sco were studied in the K2/C2 campaign.  Our group was involved in a number of important results derived from K2 data on these approximately 5-10 Myr old young stars, including publication of: pre-main sequence double-line eclipsing binaries, the youngest known transiting planet (a super-Neptune at 0.05 AU), orbiting debris at the co-rotation radius, co-rotating material that appears to be entrained in the stellar magnetospheres, the first major study of stellar rotation in this cluster, and accretion-burst source characterization.
+
+Our interests in K2/C15 are motivated from two angles.  First is the re-observation of selected stars of interest from K2/C2 that are also available in K2/C15.   Second is the observation of both previously known and newly appreciated members of Upper Sco that are westward of the K2/C2 field, but covered by K2/C15.  The rationale for each group is described in the proposal.

@@ -1,0 +1,7 @@
+%R 2014k2.propGO1006
+%T Rotation of M dwarfs: spindown, activity, and gyrochronology
+%A Scholz, A. 
+%J Kepler/K2 Campaign 1 Guest Observer Proposal GO1006
+%D 03/2014
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO1006
+%B K2 Campaign 1 program.

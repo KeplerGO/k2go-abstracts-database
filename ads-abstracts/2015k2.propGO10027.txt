@@ -1,0 +1,23 @@
+%R 2015k2.propGO10027
+%T Identifying K Giants of the Remote Halo with K2 in C8 and C10
+%A Peterson, Ruth; Sharma, Sanjib; Stello, Dennis 
+%J Kepler/K2 Campaign 10 Guest Observer Proposal GO10027
+%D 07/2015
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO10027
+%B Goals
+
+The goal of this proposal is to identify a significant new sample of red giants in the halo of the Galaxy at large distances, 50 to 100 kpc and beyond. These are the best tracers of the remote halo, for at their high luminosities they remain visible to 100 kpc, and their presence in populations of all metallicities and ages ensures an unbiased sample of the stellar population.
+
+The primary difficulty in their identification is distinguishing them from foreground dwarfs, which form the overwhelming majority of stars at these magnitudes and colors. Roughly 300 giants at distances > 50 kpc spread over the sky have now been identified from SDSS SEGUE spectra, but with a bias towards low metallicities and hotter giants, introduced by the selection criteria for targeting stars for SEGUE spectral observations to increase the giant yield.
+
+Methods
+
+Here we propose to identify the redder, cooler, more luminous giants, where the u-g vs. g-r diagram provides some giant-dwarf discrimination. We propose K2 long-cadence light curves for six hundred potential luminous red giants with 0.9 <= (g-r)o <= 1.3, to identify such giants by detecting and measuring nu_max, the peak in the power spectrum due to solar-like (p-mode) oscillations. In these cool, luminous stars such peaks are detectable even at faint magnitudes using long-cadence data. In contrast, the power-spectrum peaks of the intervening dwarfs will not be detected at all, due to their higher frequencies and lower amplitudes. As standards we add sixty stars with 0.7 <= (g-r)o <= 1.2 already identified as giants.
+
+In addition to the (g-r)o limits, which restrict their temperatures to cooler than 4600K, our six hundred potential red giants on-silicon in the C8 and C10 fields meet several additional criteria. Chief among them is a cutoff in the SDSS u-g vs. g-r color-color diagram, where dwarfs and giants diverge. This promises a yield well above the 3% achieved by SEGUE, and has a reduced bias towards low metallicity. The targets meeting these criteria have 16.2 <= Kp < 18.5. Follow-up spectroscopy is feasible with multi-object spectrographs in both hemispheres, but is not needed to determine temperatures, nor for a first estimate of metallicity.
+
+By comparing the ugri colors of Castelli & Kurucz (2003) model atmospheres to the observed SDSS photometry of stars known to be giants, we have shown that the temperature of a red giant in a halo field of low reddening such as C8 and C10 is determined to 100K from its g-r color alone. Because nu_max is sensitive primarily to stellar surface gravity, its value as determined from K2 power spectra, coupled with Teff from g-r, sets the luminosity of the giant. Because giant luminosity at a given g-r is a function of stellar metallicity, this provides a reasonable estimate of [Fe/H] for each detected giant.
+
+Relevance to the K2 solicitation and need for new K2 observations
+
+Kepler 2 is the only means currently available that is capable of distinguishing red giants from dwarfs for hundreds of stars simultaneously over a wide field. The large field is necessary because cool red giants are very rare, as noted above. Although the Kepler field has produced many metal-poor giants, these are not in the remote halo because most are brighter than our magnitude limit and because the line of sight of the Kepler field skims the Galactic plane and does not reach far into the halo. Previous K2 halo fields include very few such faint stars with ugri photometry that indicates a potential cool giant. Consequently, this proposed work is responsive to the K2 solicitation for the halo fields C8 and C10.

@@ -1,0 +1,7 @@
+%R 2014k2.propGO0052
+%T Photometry Of Known Extrasolar Planets
+%A Kipping, D. 
+%J Kepler/K2 Campaign 0 Guest Observer Proposal GO0052
+%D 02/2014
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO0052
+%B K2 Campaign 0 program.

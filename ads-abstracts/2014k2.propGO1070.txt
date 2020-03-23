@@ -1,0 +1,7 @@
+%R 2014k2.propGO1070
+%T Monitoring of Targets Within 100 Light Years
+%A Redfield, Seth 
+%J Kepler/K2 Campaign 1 Guest Observer Proposal GO1070
+%D 03/2014
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO1070
+%B K2 Campaign 1 program.

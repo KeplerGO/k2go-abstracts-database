@@ -1,0 +1,7 @@
+%R 2018k2.propGO19063
+%T The K2 M Dwarf Project
+%A Dressing, Courtney; Crossfield, A.; Schlieder, Joshua; Hardegree-Ullman, Kevin; Christiansen, Jessie; Petigura, Erik 
+%J Kepler/K2 Campaign 19 Guest Observer Proposal GO19063
+%D 04/2018
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO19063
+%B The K2 mission provides the opportunity to search for transiting planets orbiting tens of thousands of nearby cool dwarfs. We propose to continue our successful K2 M Dwarf Project (K2-MDP) by acquiring long cadence observations of 8287 cool dwarfs in the campaign 17–19 fields. We anticipate that we will detect 100–200 small planets around late-type stars from the full K2-MDP. Many of these worlds will be smaller than 2R and some might even be habitable. Our observations will increase the number of known M dwarf planetary systems; improve estimates of planet occurrence rates; inform theories of planet formation, evolution, interiors, and atmospheres; and provide new targets for follow-up observations with current and future observatories.

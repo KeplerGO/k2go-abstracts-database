@@ -1,0 +1,7 @@
+%R 2014k2.propGO1012
+%T K2 Eclipsing White Dwarfs Survey Campaign 1
+%A Shporer, Avi 
+%J Kepler/K2 Campaign 1 Guest Observer Proposal GO1012
+%D 03/2014
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO1012
+%B K2 Campaign 1 program.

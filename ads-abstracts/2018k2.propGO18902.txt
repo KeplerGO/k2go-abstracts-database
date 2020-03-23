@@ -1,0 +1,7 @@
+%R 2018k2.propGO18902
+%T Investigating the Short Period Pulsational Variability in EPIC211910450 (HD73045)
+%A Joshi, Santosh 
+%J Kepler/K2 Campaign 18 Guest Observer Proposal GO18902
+%D 04/2018
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO18902
+%B The main aim of this proposal is to investigate the δ-Sct type pulsational variability in EPIC211910450/HD73045 belonging to an open star cluster Praesepe/Beehive/M44. A fraction of metallic line (Am) stars exhibit long and short-period variability explained in terms of rotation of spots (Balona et al, 2015) and κ-mechanism operating in the HeII ionization zone (Pamyatnykh, 2000), respectively. These multi-periodic Am stars are ideally suited to probe the interior structure, rotational, chemical and evolutionary properties to test the input physics and predictions of theoretical models.

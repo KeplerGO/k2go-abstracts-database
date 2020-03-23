@@ -1,0 +1,7 @@
+%R 2015k2.propGO6005
+%T A dedicated survey of late type dwarfs
+%A Ramsay, Gavin; Doyle, John Gerard 
+%J Kepler/K2 Campaign 6 Guest Observer Proposal GO6005
+%D 02/2015
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO6005
+%B Flares are seen on a wide range of stars including our Sun. However, flares from stars much less massive than the Sun are more common. At the start of K2 we initiated a project to observe late type stars with a range of spectral type to determine how the flare activity depended on physical properties such as mass and rotation period and hence gain a better understanding of the underlying physics of flares. Our work will also have implications for determining how flares can effect the habitability of any exoplanets orbiting their parent star. We will select up to a dozen targets in Fields 6 and in 7 and will cover M and early L spectral types. Since some flares can last only a few to tens of mins we will request short cadence mode data for some targets.

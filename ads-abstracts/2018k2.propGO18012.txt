@@ -1,0 +1,7 @@
+%R 2018k2.propGO18012
+%T Characterization of Be stars in Kepler K2 fields 17,18 and 19
+%A Emilio, Marcelo; Andrade, Laerte; Pacheco, Eduardo Janot 
+%J Kepler/K2 Campaign 18 Guest Observer Proposal GO18012
+%D 04/2018
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO18012
+%B We propose the photometric characterization of B/Be stars in K2 fields 17, 18 and 19. Classical Be stars are rapid rotators of spectral type B and luminosity class V-III which have an equatorially concentrated circumstellar disk. The disk is fed by discrete mass loss events called outbursts. Rapid rotation alone cannot explain the ejection episodes, and non-radial pulsations (NRP) have been proposed as an explanation. We propose to verify the correlation between the NRP regime and the feeding of the envelope by combining ground-based spectroscopy data with the identification of outbursts and the measurement of small changes in pulsation frequencies with K2 30-min cadence observations. Fourier analysis of photometric data will be performed using a methodology developed by our group for CoRoT and K2 Be stars (Andrade et al., 2017, Neiner et al. 2012, Emilio et al. 2010).

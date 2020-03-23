@@ -1,0 +1,7 @@
+%R 2018k2.propGO18044
+%T Quasar Variability As A Function Of Accretion Rate
+%A Richards, Gordon; Vogeley, Michael; Moreno, Jackie; Kasliwal, Vishal 
+%J Kepler/K2 Campaign 18 Guest Observer Proposal GO18044
+%D 04/2018
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO18044
+%B We seek to constrain models of quasar accretion disks by exploring differences in the variability properties of high and low accretion rate quasars. With K2 data we can distinguish between the two most common statistical models of quasar variability: a damped harmonic oscillator and a damped random walk. We will create a public legacy database of light curves and variability properties for up to 3268 luminous quasars with a broad range of redshifts and accretion rates. All of these objects have prior K2 epochs and SDSS photometry, providing a crucial legacy database for variability investigations of quasars. 784 are on SDSS “Stripe 82” region where long-term variability information is already available for up to 100 epochs over an 8 year period. Our results will help optimize the cadence of future observations by time domain surveys. This research team combines expertise in time series analysis, variability studies of AGN, statistical analysis of large surveys, multi-wavelength observations of quasars and has demonstrated experience working with both Kepler data (Kasliwal et al., 2015a,b) and quasar variability in general (Peters et al., 2015).

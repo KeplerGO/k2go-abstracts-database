@@ -1,0 +1,7 @@
+%R 2014k2.propGO5039
+%T A dedicated survey of M dwarfs
+%A Ramsay, Gavin; Doyle, John Gerard 
+%J Kepler/K2 Campaign 5 Guest Observer Proposal GO5039
+%D 09/2014
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO5039
+%B Flares are seen on a range of stars including our Sun. However, flares from much stars less massive are more common. At the start of K2 we initiated a project to observe a range of late type stars to determine how the flare activity depended on mass and hence a better understanding of the underlying physics of flares. Our work will also have implications for determining how flares can effect the habitability of any exoplanets in the stellar system. Our target selection for Fields 4 and 5 will cover the M (and early L) spectral types and include up to several dozen targets. Since some flares can last only a few to tens of mins some of our observations were configured in short cadence mode.

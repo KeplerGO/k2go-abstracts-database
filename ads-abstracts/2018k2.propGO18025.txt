@@ -1,0 +1,7 @@
+%R 2018k2.propGO18025
+%T Activity And Planets At The Bottom Of The Main Sequence
+%A Muirhead, Philip; Skinner, Julie N.; Sagear, Sheila 
+%J Kepler/K2 Campaign 18 Guest Observer Proposal GO18025
+%D 04/2018
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO18025
+%B We propose to continue our program using K2 to measure rotational periods, flare rates and rocky planet occurrence at the M/L transition by observing a total of 531 ultracool dwarfs with K2 in Cycle 6 in long-cadence mode. The M/L transition is at the very bottom of the main sequence, where stars and young brown dwarfs overlap on the HR diagram. Such ultracool dwarfs are numerous throughout the galaxy, yet many of their properties are unknown due to their intrinsic faintness. K2’s large aperture and photometric precision offer us the opportunity to study both stellar activity and planet occurrence around these interesting objects.

@@ -1,0 +1,7 @@
+%R 2018k2.propGO18901
+%T Single Transits and Eclipses Observed by K2
+%A LaCourse, Daryll 
+%J Kepler/K2 Campaign 18 Guest Observer Proposal GO18901
+%D 04/2018
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO18901
+%B We request Director's Discretionary Time to include quantity (24) EPIC targets previously observed in Campaign 5 for long cadence re-observation in upcoming Campaign 18.

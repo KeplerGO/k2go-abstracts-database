@@ -1,0 +1,7 @@
+%R 2018k2.propGO18056
+%T Dynamical Activity In Algol-Type Interacting Binary Systems
+%A Peters, Geraldine; Wilson, Robert E.; Vaccaro, Todd 
+%J Kepler/K2 Campaign 18 Guest Observer Proposal GO18056
+%D 04/2018
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO18056
+%B K2 observations of interacting binaries of the Algol type are proposed for Campaign 18 to study the dynamics of the mass transfer process. Models of each light curve, computed from the Wilson-Devinney program, will yield not only the stellar parameters but also parameters for accretion hot spots and magnetic spots on the secondary. Many of the targets were observed during K2 C5 and are on the observing list for K2 C16. Short cadence observations are requested of S Cnc, a totally-eclipsing system of extreme importance for studying Algol evolution. The primary in this system has clearly been spun up during its evolution, and the system is most assuredly in the latter stages of mass transfer. K2 photometry during totality will reveal activity on the mass losing secondary. S Cnc was observed at SC during K2 C5 and is on the SC target list for C16.

@@ -1,0 +1,9 @@
+%R 2014k2.propGO4035
+%T Steering Asteroseismology of delta Scuti Stars by Putting the Pleiades and Praesepe at the Helm
+%A Murphy, Simon James 
+%J Kepler/K2 Campaign 4 Guest Observer Proposal GO4035
+%D 09/2014
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO4035
+%B The delta Scuti stars are ordinary stars about twice as massive as the Sun. They undergo periodic changes in brightness (pulsations) on timescales of 1 hour. We can use these pulsations to "see" inside stars, in the same way that earthquakes are used to see inside the Earth.
+
+In order to learn more about the pulsations, we need to study them in specific environments. The Pleiades constellation is such an environment, where the ages and compositions of stars are known. We can then apply knowledge gained from pulsators in the Pleiades and Praesepe clusters to stars in different environments.

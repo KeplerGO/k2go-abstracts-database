@@ -1,0 +1,20 @@
+%R 2015k2.propGO7042
+%T A K2 Survey of Hot Massive Stars during Campaign C7
+%A Gies, Douglas Russell 
+%J Kepler/K2 Campaign 7 Guest Observer Proposal GO7042
+%D 02/2015
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO7042
+%B Introduction:
+The NASA Kepler mission was a huge success for exoplanet detection and stellar astronomy.  We obtained magnificent time series data that have led to remarkable new studies especially in the areas of asteroseismology, stellar rotational modulation, and binary and multiple stars.  However, the Kepler FOV was selected away from the Galactic plane to avoid problems with blending in the crowded star fields close to the plane.  Because the massive stars are generally young and form in the Galactic plane, the selection of a FOV away from the plane meant that very few massive stars were measured by Kepler (no O-type stars, for example).  Now with K2 we have the opportunity to remedy the situation and follow the light curves of a significant sample of massive stars.  First observations occurred during campaigns C0 and C4, and now in C7, the K2  FOV is again located close to the galactic plane, so that massive star targets are accessible.   This proposal describes the massive star sample and the kinds of scientific investigations that would be possible through such K2 photometric observations.
+
+Sample:
+I selected stars from the catalog Photometry and Spectroscopy for Luminous Stars (Reed 2005, AJ, 130, 1652) that is available from CDS Vizier.  A total of 21 targets were selected that are within the nominal boresight coordinates for C7 (RA (J2000) = 19h 11m 19s, Dec (J2000) = -23o 21' 36") and confirmed to fall on the CCD detectors using the K2fov program.  These stars have magnitudes in the range V = 6 to 12.  They comprise a diverse collection of young stars, mainly of spectral types O and B and spanning all luminosity classes.  The group includes a number of the rapidly rotating Be stars that eject gas into a circumstellar disk.   All these stars are ideal long cadence targets for continuous temporal coverage during the C7 campaign, and we plan to obtain contemporaneous spectroscopy of them.
+
+Eclipsing Binaries:
+Massive stars are rare, and consequently there are relatively few with well-established masses from combined spectroscopic and photometric analysis (Torres et al. 2010, A&ARv, 18, 67 note only four eclipsing systems containing O-type stars in their compendium of accurate eclipsing binary results).   Consequently, the identification of new eclipsing binaries would offer us important new targets for the determination of fundamental parameters.  In addition, massive stars are ofter found in multiple systems, and the survey would help determine the incidence of massive stars with eclipsing binary companions.   The duration of C7 would be ideal to discover most of the eclipsing binaries. 
+
+Magnetic Fields and Rotational Modulation:
+Massive stars generally have convective cores and radiative envelopes that are not usually associated with magnetic dynamos and field generation.  Nevertheless, sensitive polarimetric surveys like the MiMeS project have led to the detection of magnetic fields in about 10% of the OB-stars.  In these cases, the magnetic field can produce spots that introduce a rotational modulation in the light curve.  The K2 survey will help determine the frequency of such rotational modulations and will provide a sample large enough to study the kinds of stellar parameters that are associated with magnetic fields.
+
+Asteroseismology:
+The early-type pulsating stars include the beta Cep class (p-mode), slowly pulsating B stars (g-mode), and periodically variable B- and A-type supergiants.   These pulsations are important probes of stellar interiors.  The K2 sample will determine the incidence of pulsations and how multiple-mode beating may play a role in the gas ejection processes in Be stars.

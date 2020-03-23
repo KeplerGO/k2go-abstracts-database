@@ -1,0 +1,46 @@
+%R 2016k2.propGO15098
+%T Title: Trans-Neptunian objects: rotation, shape and signs of moons
+%A Pal, Andras; Molnar, Laszlo; Mueller, Thomas G; Hanyecz, Otto; Kiss, Csaba 
+%J Kepler/K2 Campaign 15 Guest Observer Proposal GO15098
+%D 12/2016
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO15098
+%B In the recent years, it has been shown that with the capabilities of the K2 mission, one can obtain high quality and continuous light curves of many families of small Solar System objects. These families include main belt asteroids (Szabo, R. et al., 2016), Trojans of Jupiter (Szabo, Gy. et al.), trans-Neptunian objects (Pal et al. 2015, 2016, AJ) as well as irregular satellites of giant planets (Kiss et al. 2016, Pal et al. 2016, DPS). The value and information extracted from these light curves can be incorporated as it is own in order to determine the rotation period and derive shape characteristics as well as these measurements can be combined with other types of data, mainly with the quantification of the thermal infrared emission (Muller et al. 2009). Beyond the determination these basic physical properties, we can have hints about the presence of a moon (Marton, Kiss & Muller, 2016), we can constrain the history and relation of natural satellites and trans-Neptunian objects (Pal et al. 2016, DPS) or can ask whether there is any object which spins faster than Haumea (Rabinowitz et al., 2006).
+
+Throughout the campaigns of 14, 15 and 16, 10+25+16 trans-Neptunian objects and Centaurs fall on silicon. One of these, 2001 YH140 has already been observed by K2 (during Campaign 5). We note that more than the half of these objects (8+13+8, in total) are recent discoveries by Pan-STARRS.
+
+Here we propose to observe 5+11+9 trans-Neptunian objects and a Quasi-Hilda comet candidate throughout K2 campaigns of 14, 15 and 16. From this set, two objects have thermal emission data. Similarly to our former proposals, we set up the target priorities according to the apparent brightness, the diversity of dynamical classes and the presence of far-infrared thermal measurements. This sample of ours include many recent Pan-STARRS discoveries for which further astrometric measurements are also valuable. Due to the large number of this total sample of relevant objects (including TNOs and Centaurs), we propose only the objects which are sufficiently bright (brighter than 22.5) and have a sufficiently long arch (i.e. longer than 30 days) on a single CCD output. However, we note that even fainter ones and objects which shorter arcs can well be measured using K2 long cadence data (see e.g. Pal et al. 2015).
+
+Proposed targets: Target name  Brightness  C   Pri   Thermal Remarks
+-------------------------------------------------------------------------------
+2000 OG44    20.6-21.9   14  1     no      Quasi-Hilda comet candidate
+2002 CY224   22.1-22.2   14  1     no
+2008 CS190   22.1-22.2   14  1     no
+2014 WJ510   22.1-22.3   14  2     no
+2014 WO509   22.3-22.4   14  2     no
+2015 FT345   22.4-22.5   14  2     no
+2014 EZ51    21.4        15  1     no
+2014 HF200   21.6-21.8   15  1     no
+2015 BZ518   21.7-21.8   15  1     no
+2002 GJ32    22.0-22.1   15  1     Spitzer
+2003 GH55    22.0-22.1   15  1     Herschel
+2015 HT171   21.7-22.1   15  2     no
+2011 JF31    21.8-21.9   15  2     no
+2003 FE128   22.1-22.2   15  2     no
+2014 JQ80    22.2-22.4   15  2     no
+2014 DJ143   22.3-22.4   15  2     no
+2014 GJ54    22.4-22.5   15  2     no
+2016 AE193   20.4-20.7   16  1     no      Neptune-crossing centaur
+2014 WS510   21.7-21.7   16  1     no
+2001 XD255   21.7-21.8   16  1     no
+2009 YD7     21.9-22.1   16  1     no      distant, comet-like
+2012 BX85    22.1-22.1   16  1     no
+2014 AM55    22.1-22.    16  2     no
+2013 AP183   22.3-22.4   16  2     no
+2014 YJ50    22.4-22.5   16  2     no
+2015 BC519   22.4-22.5   16  2     no References: Pal, A. et al., 2015, ApJ, 804, L45
+Pal, A. et al., 2016, AJ, 151, 117
+Pal, A. et al., 2016, DPS meeting #48, id.#519.09
+Kiss, Cs. et al., 2016, MNRAS, 457, 2908
+Marton, G, Kiss, Cs. & Muller, Th., 2016, DPS meeting #48, id.#120.22
+Muller, Th. et al. 2009, EM&P, 105, 209
+Rabinowitz, D. et al. 2006, ApJ, 639, 1238

@@ -1,0 +1,7 @@
+%R 2016k2.propGO11902
+%T Monitoring Campaign 2 and 9 overlap targets during Campaign 11
+%A GO Office, K2 
+%J Kepler/K2 Campaign 11 Guest Observer Proposal GO11902
+%D 03/2016
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO11902
+%B K2 DDT Program.

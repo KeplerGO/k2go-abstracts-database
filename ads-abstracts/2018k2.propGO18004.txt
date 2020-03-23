@@ -1,0 +1,7 @@
+%R 2018k2.propGO18004
+%T The Old Open Cluster M67 Revisited – A Comprehensive Stellar Astrophysical Study with Kepler
+%A Mathieu, Robert; Aigrain, Suzanne; Jenkins, Jon; Meibom, Soeren; Pinsonneault, Marc; Sandquist, Eric; Soderblom, David; Stello, Dennis; Vanderburg, Andrew 
+%J Kepler/K2 Campaign 18 Guest Observer Proposal GO18004
+%D 04/2018
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO18004
+%B Campaign 18 is a unique and final opportunity to obtain multi-epoch light curves for nearly 1500 members of the foundational open cluster M67, and to increase the discovery space in S/N and in frequency. With a third campaign, we will be able to increase our frequency resolution and thereby determine internal evolutionary states with asteroseismology; increase surface-gravity precision to test evolutionary models; securely measure rotation periods to test new models of angular momentum evolution and anchor gyrochronology; detect significant short-cadence (SC) oscillation power in subgiants and measure an independent cluster age; increase our chances of detecting super flares at solar age; and increase our discovery space for exoplanets in this solar-age cluster or tighten our limits on exoplanet frequency.

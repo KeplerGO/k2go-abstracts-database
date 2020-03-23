@@ -1,0 +1,7 @@
+%R 2014k2.propGO5075
+%T Testing asteroseismology with bright red giants using K2 timeseries and interferometry
+%A Boyajian, Tabetha Suzanne 
+%J Kepler/K2 Campaign 5 Guest Observer Proposal GO5075
+%D 09/2014
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO5075
+%B We propose to observe a small number of bright nearby red giant stars taken from the Hipparcos catalogue, for which we will obtain additional ground-based interferometric observations and high-resolution spectra to determine precise values of the angular diameter 0, T eff, log (g), and surface composition. These additional constraints, coupled with the oscillation spectrum derived from K2 observations and the available parallax information, will provide the most stringent tests possible of the asteroseismic techniques used to determine masses, radii and ages of stars, as well as the physical processes governing the evolution of red giants and the Galaxy.

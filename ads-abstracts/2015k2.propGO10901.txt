@@ -1,0 +1,7 @@
+%R 2015k2.propGO10901
+%T Searching For Planets In Binary Stars
+%A Wang, Ji 
+%J Kepler/K2 Campaign 10 Guest Observer Proposal GO10901
+%D 07/2015
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO10901
+%B We are searching for transiting planets in binary stars with the K2 mission. This planet survey takes advantage of the large field of view (FOV) and the exquisite photometric precision of the Kepler satellite, observing an unprecedentedly large sample of binary stars (~1100 systems in total, 73 in Campaign 9, 162 in Campaign 10). By the end of the K2 mission, we will directly measure the planet occurrence rate in binary stars with a precision of a few percent.

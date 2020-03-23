@@ -1,0 +1,21 @@
+%R 2016k2.propGO15061
+%T K2 light curve of the Hayabusa-2 target asteroid (162173) Ryugu
+%A Kiss, Csaba; Durech, Josef; Pal, Andras; Ishiguro, Masateru; Mueller, Thomas G 
+%J Kepler/K2 Campaign 15 Guest Observer Proposal GO15061
+%D 12/2016
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO15061
+%B 162173 Ryugu is a primitive C-type near-Earth asteroid (Pinilla-Alonso et al. 2013) and the target of the Hayabusa2 mission. The spacecraft was launched on December 3, 2014, it will arrive to the asteroid in 2018, perform a survey, land and obtain surface material, then depart in December 2019, and return to the Earth in December 2020.
+
+Many support observations were taken during the last years to characterise Ryugu, in preparation for the mission: The object was found to have a 7.6h (0.317d) rotation period (Abe et al. 2008; Moskovitz et al. 2013; Kim et al. 2013) and an absolute magnitude of about 19.2, however, the low amplitude of the lightcurve and the poor quality of the available photometry made it difficult to determine rotation period and spin-axis orientation and the object's shape. Pinilla-Alonso et al. (2013) obtained a low-resolution near-IR spectrum and confirmed the primitive nature of this Cg-type object. Two independent studies (Lazzaro et al. 2013; Moskovitz et al. 2013) found featureless spectra with very little variation, indicating a nearly homogeneous surface. Ishiguro et al. (2014) derived H-G from V-band observations covering a very wide phase angle range. There are many thermal infrared observations available (AKARI-IRC, Subaru-COMICS, Spitzer-IRS, Herschel-PACS, Spitzer-IRAC with a sequence of point-and-shoot measurements and also 2-band lightcurves at two different epochs), and radiometric studies have been performed by different groups (Hasegawa et al. 2008; Campins et al. 2009; Mueller et al. 2011; Yu et al. 2014), with different sizes, thermal properties, object shape and spin properties obtained. As the object is almost spherical, the determination of its spin pole is very difficult and the derived physical and thermal properties depend strongly on assumptions of the spin axis orientation. Recently, Mueller et al. (2016) combined all thermal data with all available visual lightcurves to solve for shape, rotational properties, size, albedo, and thermal properties, by applying different techniques, but despite the large set of observations, there are still different spin-axis orientations for Ryugu possible and each of these solutions is coming with a different set of physical and thermal properties.  In order to settle the ambiguities for Ryugu, we propose to take high-quality lightcurve observations with Kepler K2 in Field 15 in Sep/Oct 2017. Ryugu will have an apparent visual magnitude between 20.7 and 21.2 (similar to some Trojans presented in Szabo et al. 2016) and it will be available in that field for more than 15 days. 
+The K2 observations will cover more than 40 full rotation periods and provide lightcurve information with unprecedented accuracy. In combination with available lightcurves, photometric measurements, and the wealth of thermal data, the K2 data will allow us: (i) to determine the object's rotation period with high accuracy; (ii) to narrow down the range for Ryugu's spin-axis orientation; (iii) to improve the object's shape solution; (iv) to re-analyse all thermal measurements with the best shape/spin solution to determine the object's size, albedo, and thermal properties with unprecedented accuracy. The full rotational, physical, thermal and surface characterisation will then be used as baseline for mission operations in 2018/2019 during the encounter phase. Ryugu is also considered as a benchmark target for the validation of radiometric and light curve inversion techniques, applicable to many near-Earth objects.
+
+References: - Abe, M., et al., 2008, COSPAR, B04-0061-08
+- Campins, H., et al. 2009, A&A 503, L17
+- Hasegawa, S., et al., 2008, PASJ 60, 399
+- Ishiguro, M., et al., 2014, ApJ 792, 74
+- Lazzaro, D., et al., 2013, A&A 549, L2
+- Moskovitz, N.A., et al., 2013, Icarus 224, 24
+- Muller, T.G., et al. 2011, A&A, 525, 145
+- Pinilla-Alonso, N., et al. 2013, A&A 552, A79
+- Szabo, G., et al. 2016, A&A, accepted
+- Yu, L.-L., et al. 2014, Chinese A&A 38, 317

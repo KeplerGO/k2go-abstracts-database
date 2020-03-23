@@ -1,0 +1,22 @@
+%R 2016k2.propGO12111
+%T The grand K2 RR Lyrae survey
+%A Molnar, Laszlo; Kollmeier, Juna A; Plachy, Emese; Szabo, Robert; Netzel, Henryka; Magnier, Eugene A; Smolec, Radoslaw; Pal, Andras; Flewelling, Heather A; Kolenberg, Katrien 
+%J Kepler/K2 Campaign 12 Guest Observer Proposal GO12111
+%D 03/2016
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO12111
+%B RR Lyrae stars play a crucial role in astrophysics as standard candles, tracers of galactic history, and touchstones for modeling stellar pulsations. Space data of these crucial objects have led to a giant leap forward in our understanding of their structure and evolution through the discovery of new dynamical phenomena. Moreover, insight into these stars dynamics is of crucial importance to advance our knowledge of galaxy formation and evolution in the Local Group of galaxies and beyond.
+Throughout the K2 Mission we have been building up a unique database of high precision RR Lyrae light curves from field to field, covering different parts of our Galaxy, and beyond. Our strategy assures that galactic structure studies and statistical analysis of pulsation properties (double-mode pulsation, Blazhko modulation, period doubling, low-dimensional chaos, non-radial modes) based on K2 data will be possible. Besides the ensemble studies, the boutique analysis of individual stars will be equally interesting and important. 
+
+Targets
+---------
+Field 11 covers parts of the bulge where tens of thousands of RR Lyrae stars reside. For this proposal we selected about 1200 stars based on the OGLE-IV survey and an additional 400 stars from other sources covering the rest of the field of view. The OGLE survey discovered many stars with peculiar pulsation and modulation properties. Low-amplitude additional modes have been observed in all RR Lyrae subtypes, but their origins and occurrence rates are still largely unknown. We also included modulated RRc stars in the list. While the Blazhko effect in fundamental-mode stars has been studied extensively from space, the sample of modulated RRc stars is still scarce.  
+
+In Field 12 we selected about 200 stars. 8 RR Lyrae stars were previously observed during the K2-E2 Engineering Test run, including a fundamental-mode star where we tentatively identified a frequency component as a g-mode signal. Re-observation of these targets present a unique opportunity to reassess our earlier findings that were based on only 9 days of data. It will also show us how did the accuracy of Kepler evolve since the early tests.  
+For a number of RR Lyrae stars extensive multicolor photometry is available from the Pan-STARRS Medium Deep Field survey. The detailed color information will be a valuable addition to the K2 light curves. Beside the RR Lyrae stars, we also found an additional 30 variables belonging to various classes that we also include in this proposal.   
+
+Field 13, towards the Galactic anticenter direction, contains 103 known RR Lyrae stars. One priority target here is BR Tau that has a short modulation period of only ~19 days. 
+
+Methods and planned community resources
+---------------------------------------------------
+Standard time-frequency analysis (by e.g. Period04) and study of time-dependent features are envisaged. Metallicities will be derived from empirical relations calibrated with high-resolution spectra. State-of-the-art numerical hydrocodes (Florida-Budapest, Warsaw) will be used to interpret the results. Synthetic galactic models (TRILEGAL) will be used to compare the galactic location and number of the observed sample with simulations.
+Photometry of large-amplitude pulsators require special treatment, and general-purpose pipelines may provide RR Lyrae light curves with sub-optimal quality. We already released tailor-made photometry from some Kepler data sets. We intend to create custom light curves for the stars listed in this proposal too, and plan to employ special methods like differential-image photometry for the bulge field. As a value-added community resource we envisage a searchable database containing the light curves, frequency solutions and other parameters (Blazhko periods, additional modes, etc.) of the RR Lyrae stars observed by K2.

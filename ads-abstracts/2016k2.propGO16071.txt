@@ -1,0 +1,32 @@
+%R 2016k2.propGO16071
+%T X-ray Sources in K2: Rigorously Probing Active Galaxy Accretion and Stellar Variability
+%A Boyd, Patricia T.; Mushotzky, Richard; Howell, Steve B; Smith, Krista Lynne 
+%J Kepler/K2 Campaign 16 Guest Observer Proposal GO16071
+%D 12/2016
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO16071
+%B Scientific Justification 
+We request K2 monitoring of unidentified and known X-ray sources in Campaigns 14 through 16, compiled from a variety of sources
+ including the Chandra Source Catalog and the Million Quasar Catalog, to probe accretion onto compact objects at a variety of mass
+ and time scales. Our KSwAGS survey found 93 bright X-ray sources in the original Kepler FOV (Smith et al., 2015). Approximately
+ half were active galaxies while the remainder were active stars of various types (pulsating stars, rapid rotators, close binaries, flaring
+ M-stars). A Kepler GO survey (PI: Still) of Chandra point sources resulted in a similar distribution of stars to active galaxies. High
+ precision optical follow-up is scientifically useful for all sources; the AGN allow for a study of variability characteristics as a function
+ of SMBH mass (Smith et al., 2015) and the stars allow for the study of a variety of rapid rotators and chromospheric activity (Howell
+ et al., 2016). We received time for K2 to monitor KSwAGS sources in Fields 4,8 and 11-13. This proposal has identical scientific
+ goals and will continue the K2 optical monitoring of X-ray sources, but with target selection criteria that relies on archival X-ray
+ observations only and not on new Swift pointings. 
+Previous AGN in the original Kepler field were selected using near-infrared photometric methods (e.g., Edelson & Malkan 2012).
+ These methods preferentially select AGN with high black hole masses (MBH e 10^8 MSUN), since the method fails if the continuum
+ is dominated by starlight rather than AGN light (e.g., Lacy et al. 2004, Stern et al. 2012). Fortunately, X-ray selection uncovers low-
+MBH, low luminosity, and low accretion-rate AGN. These types of AGN have predicted variability timescales short enough to be
+ constrained by a ~80-day K2 campaign. Indeed, narrow-line Sy 1 objects (NLS1) are expected to vary on timescales of days to weeks.
+ This science is complimentary to what we are conducting in the original field with high-MBH objects, since the accretion physics is
+ expected to differ between these types of objects (i.e., low-accretion rate objects may have advection dominated accretion flows or
+ other scenarios instead of the canonical optically-thick, geometrically-thin accretion disk). This further monitoring will critically
+ enhance the sample numbers of K2-monitored AGN discovered using a relatively unbiased selection method. We expect on the order of
+ 50-100 targets in each Field depending on galactic latitude.  Methodology and Relevance to NASA Astrophysics Science Goals 
+We aim to use K2s impressive photometric precision to detect characteristic variability timescales using Fourier analysis. These
+ timescales are the only possible direct observables of AGN accretion physics, which remains an important astrophysical mystery and
+ directly addresses NASA Astrophysics goal to "[d]iscover how the universe works, explore how it began and evolved, and search
+ for life on planets around other stars.".  Additionally, these X-ray selected targets will fill in the phase-space of black hole mass and
+ accretion rate, complementing our work in the original Kepler field.

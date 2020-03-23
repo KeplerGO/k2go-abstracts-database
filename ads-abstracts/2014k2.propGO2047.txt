@@ -1,0 +1,7 @@
+%R 2014k2.propGO2047
+%T Rotational Properties And Evolution Of Young Stars In Upper Sco: K2-field02
+%A Brown, A. 
+%J Kepler/K2 Campaign 2 Guest Observer Proposal GO2047
+%D 05/2014
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO2047
+%B K2 Campaign 2 program.

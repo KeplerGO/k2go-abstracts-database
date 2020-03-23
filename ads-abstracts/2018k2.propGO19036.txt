@@ -1,0 +1,7 @@
+%R 2018k2.propGO19036
+%T Asteroseismology Of Solar-Type Stars With K2
+%A Lund, Mikkel; Basu, Sarbani; Chaplin, William J.; White, Timothy R.; Huber, Daniel; Aguirre, Victor Silva; Davies, Guy R.; Latham, David W.; Casagrande, Luca; Grundahl, Frank 
+%J Kepler/K2 Campaign 19 Guest Observer Proposal GO19036
+%D 04/2018
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO19036
+%B The aim of this proposal is to perform an asteroseismic study of bright solar-type stars, including cool main-sequence (MS) dwarfs and sub-giants, residing in the solar neighbourhood. This will be achieved using short-cadence (SC) data collected during K2 Campaigns 17, 18, and 19 (C17-19). In addition to field stars we propose observations of members of the clusters M44 and M67, as well as several confirmed and candidate exoplanet host stars, of which some have K2 observations from earlier campaigns.

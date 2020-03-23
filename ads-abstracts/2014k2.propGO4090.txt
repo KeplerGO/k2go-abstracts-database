@@ -1,0 +1,7 @@
+%R 2014k2.propGO4090
+%T Variability and Dynamics of Young Stars
+%A Caldwell, Douglas A.; Chiar, Jean; Smith, Jeffrey Claiborne; Batalha, Natalie Marie; Carey, Sean Joseph; Morris, Robert L; Seader, Shawn Eugene 
+%J Kepler/K2 Campaign 4 Guest Observer Proposal GO4090
+%D 09/2014
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO4090
+%B We seek to understand the conditions and dynamics of the earliest stages of planetary system formation through a study of the variability of young stars in the K2 Campaign-4 field of view. We propose to observe at long cadence ~50 young stellar objects, T-Tauri stars, pre-main sequence stars, and flare stars selected from the literature and associated with the Pleiades and Hyades star clusters. The objects range in age from tens to hundreds of million years and in spectral type from late-F through mid-M. We will analyze the variability of these objects on timescales ranging from hours to months in order to model the accretion onto the star, detect disk density variations, measure rotation rates, and search for eclipsing/transiting companions. The results of our analysis will lead to a better understanding of the range of conditions under which planetary systems form.  The proposed work uses the unique capabilities of K2 to collect data with the precision, duration, and duty cycle needed for such a study.

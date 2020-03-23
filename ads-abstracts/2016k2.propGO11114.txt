@@ -1,0 +1,27 @@
+%R 2016k2.propGO11114
+%T K2 photometry of a large sample of trans-Neptunian objects
+%A Pal, Andras; Szabo, Robert; Mueller, Thomas G; Kiss, Laszlo; Kiss, Csaba 
+%J Kepler/K2 Campaign 11 Guest Observer Proposal GO11114
+%D 03/2016
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO11114
+%B Our recent studies (Pal et al. 2015, 2016, Kiss et al 2016) have demonstrated that the K2 mission is an excellent opportunity to obtain rotational properties of trans-Neptunian objects (TNOs). Using long-cadence Kepler photometry focusing on the stationary points of the apparent tracks of these objects, light curves with excellent quality can be obtained, from which one can constrain the rotation period, surface inhomogeneities, the shape of the object and decide, whether the true rotation period corresponds to a single-peaked or double-peaked solution.
+
+We propose to observe 13+9+9 Centaurs and trans-Neptunian objects throughout the Campaigns 11, 12 and 13, respectively, of the K2 programme. From our list of proposed targets, 8 also have been observed in the framework of the ``TNOs are Cool!'' open-time key programme of the Herschel Space Observatory (Muller et al. 2009), therefore an unambiguous rotational characteristics can be combined with an unambiguous diameter and surface albedo for these objects. This sample of ours covers various dynamical types of the population of objects outside the main asteroid belt, including 5 Centaurs, 13 classical objects, 4 scattered disk objects and 9 resonant objects. One of the resonant objects has 1:1 mean-motion resonance with Neptune (namely 2012 VU85, a Trojan of Neptune) as well as there are four Plutinos, i.e. objects in 2:3 mean-motion resonance with Neptune.
+
+None of targets having Herschel/PACS thermal photometry have a currently known accurate rotation period (note: 2005 TB190 has ground-based observations confirming variability but with several aliases, see also Thirouin et al. 2012). Hence, the K2 time series also aids the proper interpretation of thermal emission measurements. All of the targets having Herschel photometry fall on silicon for quite long time (60+ days) with the exception of Borasisi. This object is a binary system with a period of 46.3 days (Noll et al. 2004). Hence, the total time of 13+10 days when K2 is capable to perform photometry would not cover the binary period, however, even this shorter track could confirm or constrain whether the objects have a synchronous rotation or not.
+
+Due to the number of these targets and the comparatively large pixel cost w.r.t the stellar sources, we prioritize our targets according to their brightness (i.e. the effective S/N ratio of the rotational light curve) as well as the existence of thermal infrared data. Our top priority objects include all of the objects having Herschel/PACS photometry. We also indicated 2012 VU85 with priority 1. Priority 2 objects are either bright or have interesting dynamical properties. We note that even the faintest (priority 3) objects have comparable brightness to that of 2002 GV31. This object was also successfully observed by K2, yielding a folded light curve with good signal-to-noise ratio and an unambiguous rotation period (Pal et al. 2015). We also note that the first minor body discovered in the outer Solar System, (2060) Chiron fell on silicon during Campaign 12. Due to the different nature of K2 data acquisition, the science case of (2060) Chiron is described in a separate proposal.
+
+Proposed targets:
+
+References: 
+ - Campaign 11: Ixion (H), 2002 KX14 (H), 2001 KA77 (H), 2002 GP32 (H), 2010 GX34, 2010 JJ124, 2005 LB54, 2001 KN77, 2002 GV32, 2003 LA7, 2005 LA54, 2005 LC54, 2001 KP76.
+ - Campaign 12: Borasisi (H), 2005 TB190 (H), 2000 OK67 (H), 2001 QJ298, 2013 PH44, 2010 PL66, 2001 QX297, 2003 QA92, 2001 QB298.
+ - Campaign 13: 2002 VU130 (H), 2012 VU85, 2009 YG19, 2004 TV357, 2004 TF282, 2004 XR190, 2010 VR11, 2002 VT130, 2002 VS130.
+
+Pal, A. et al., 2015, ApJ, 804, L45
+Pal, A. et al., 2016, AJ, submitted
+Kiss, Cs. et al., 2016, MNRAS, accepted (arXiv:1601.02395)
+Muller, Th. et al. 2009, EM&P, 105, 209
+Noll, K. S. et al. 2004, Icarus, 172, 402
+Thirouin, A. et al. 2012, MNRAS, 424, 3156

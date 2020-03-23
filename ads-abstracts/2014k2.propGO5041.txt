@@ -1,0 +1,9 @@
+%R 2014k2.propGO5041
+%T Eclipses, transits and variability of white dwarf stars with the K2 Mission
+%A Burleigh, Matt R.; Braker, Ian Peter; Goad, Michael R; Holberg, Jay B; Barstow, Martin Adrian; Casewell, Sarah L 
+%J Kepler/K2 Campaign 5 Guest Observer Proposal GO5041
+%D 09/2014
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO5041
+%B This proposal is to obtain high precision photometry of White Dwarfs within the two proposed fields of K2 Cycle 1 to search for planets, brown dwarfs and stellar variability.
+
+Such a survey (combined with the other K2 fields) would allow for the monitoring of statistically significant numbers of White Dwarfs to be able to put constraints on the existence planets in short period orbits around White Dwarfs. Any transiting objects that are detected could be prime targets for follow up observations by the JWST (Loeb & Maoz 2013). Such a survey would also be able to detect brown dwarfs around White Dwarfs allowing further constraints on the smallest object that can survive common envelope evolution. In addition any unexpected variability would also be detected such as the Kepler mission found in BOKS 53856 (Holberg and Howell 2011).

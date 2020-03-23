@@ -1,0 +1,7 @@
+%R 2014k2.propGO2039
+%T Pulsating variables in the globular clusters Messier 4 and 80
+%A Molnar, L. 
+%J Kepler/K2 Campaign 2 Guest Observer Proposal GO2039
+%D 05/2014
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO2039
+%B K2 Campaign 2 program.

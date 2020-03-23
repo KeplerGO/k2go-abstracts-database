@@ -1,0 +1,7 @@
+%R 2014k2.propGO0019
+%T MASSIVE:Massive stAr aSteroSeIsmology, Variability, and Evolution with K2: Magnetic massive stars in Field 0
+%A Briquet, Maryline 
+%J Kepler/K2 Campaign 0 Guest Observer Proposal GO0019
+%D 02/2014
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO0019
+%B K2 Campaign 0 program.

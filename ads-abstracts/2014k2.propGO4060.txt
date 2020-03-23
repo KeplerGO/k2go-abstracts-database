@@ -1,0 +1,7 @@
+%R 2014k2.propGO4060
+%T Discovery and Vetting of K2 Exoplanets
+%A Coughlin, Jeffrey Langer; Caldwell, Douglas A.; Thompson, Susan E; Bryson, Stephen T; Huber, Daniel; Jenkins, Jon Michael; Quintana, Elisa Victoria; Rowe, Jason Frank; Batalha, Natalie Marie 
+%J Kepler/K2 Campaign 4 Guest Observer Proposal GO4060
+%D 09/2014
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO4060
+%B We seek to create a catalog of well-vetted exoplanets discovered by the K2 mission, suitable for follow-up by JWST and other facilities. We propose the observation of 10,000 bright stars, over campaigns 4 and 5, which is expected to yield at least 100 transiting exoplanets. We will thoroughly vet these planets to eliminate many different types of false positives, utilizing our group's vast experience in vetting exoplanets discovered by the main Kepler mission. We will create a publicly available catalog of all planet candidates for use in exoplanet occurrence rate and other studies. This proposal utilizes the unique capabilities of the K2 mission, including its extreme photometric precision and continuous 75-day observing range. This proposal directly contributes towards NASA's Astrophysics Division_x005F_x005Fs science goal to "Discover and study planets around other stars, and explore whether they could harbor life."

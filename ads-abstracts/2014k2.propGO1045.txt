@@ -1,0 +1,7 @@
+%R 2014k2.propGO1045
+%T Short timescale variations in Cataclysmic Variables
+%A Breedt, Elme 
+%J Kepler/K2 Campaign 1 Guest Observer Proposal GO1045
+%D 03/2014
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO1045
+%B K2 Campaign 1 program.

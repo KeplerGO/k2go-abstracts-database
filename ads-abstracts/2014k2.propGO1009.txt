@@ -1,0 +1,7 @@
+%R 2014k2.propGO1009
+%T The Cataclysmic Variable RZ Leo
+%A Ramsay, Gavin 
+%J Kepler/K2 Campaign 1 Guest Observer Proposal GO1009
+%D 03/2014
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO1009
+%B K2 Campaign 1 program.

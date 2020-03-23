@@ -1,0 +1,11 @@
+%R 2016k2.propGO11100
+%T Monitoring Solar System Ocean Worlds: Activity on Titan and Enceladus
+%A Parker, Alex Harrison; Howett, Carly Jacqueline; Horst, Sarah M; Ryan, Erin Lee 
+%J Kepler/K2 Campaign 11 Guest Observer Proposal GO11100
+%D 03/2016
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO11100
+%B Saturn's moons Titan and Enceladus are two of the solar system's most intriguing bodies. Titan's thick atmosphere and complex hydrologic and climatic cycles are rivaled only by Earth's, while Enceladus' vast water plumes are a geophysical enigma and an astrobiological opportunity rolled into one. Both are examples of the solar system's "ocean worlds" and stand as potential targets for future New Frontiers-class missions due to their relevance to understanding the diversity of habitable environments within the solar system and the potential emergence of life beyond Earth.
+
+We propose to target both Titan and Enceladus for photometric monitoring with K2. They are on silicon for over 5 days during K2 Campaign 11. Observations from K2 will allow us to probe global atmospheric activity across Titan on short timescales continuously over the period of observability. This will provide unique temporal sampling and may highlight as-yet unseen physics in Titan's utterly unique atmosphere. Similarly, observations from K2 will allow us to search for photometric indications of Enceladus' plumes in backscattered light, and monitor them for variability on timescales much shorter than those probed by Cassini. These observations will constrain the size distribution of particles in Enceladus' plumes and may provide hints toward the sources of energy powering the plumes.
+
+Both observations can serve as unique proofs of concept for space-based photometric monitoring of these outer solar system worlds, and will support the development of future missions to characterize them.

@@ -1,0 +1,7 @@
+%R 2016k2.propGO14008
+%T AGN variability studies with K2 Campaigns 14-16
+%A Edelson, Rick; Vanderburg, Andrew; Stern, Daniel K; Vaughan, Simon; Starkey, David A; Horne, Keith; Malkan, Matthew A; Graham, Matthew J; Tsan, Tran Que 
+%J Kepler/K2 Campaign 14 Guest Observer Proposal GO14008
+%D 12/2016
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO14008
+%B Kepler's unprecedented precision, sampling, and duty cycle is revolutionizing Active Galactic Nuclei (AGN) optical variability studies, leading to the first observation of a break in the optical power spectrum of a Type 1 AGN and quantification of microvariability in blazars.  We propose monitoring 540 AGN and robust AGN candidates in Campaigns 14-16 (C14-16).  Our highest priority is the forward-facing C16 that will repeat monitoring of 41 C5 AGN.  These data will be used to test the stationarity of AGN variability.  We also plan to obtain full ~60 day simultaneous multicolor monitoring with other telescopes to measure interband lags and perform accretion disk reverberation mapping.  By the end of this Cycle well over 1000 AGN will have been monitored by K2, providing an invaluable legacy to characterize AGN optical variability.  Among the many uses of these data, we will perform the first large survey of AGN optical power spectra and an unparalleled quantitative search for quasi-periodic oscillation, as has been seen in X-ray binaries.  This could elucidate the link between AGN and these possible low-mass counterparts.

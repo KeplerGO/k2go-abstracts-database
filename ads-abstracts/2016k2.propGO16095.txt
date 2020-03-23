@@ -1,0 +1,11 @@
+%R 2016k2.propGO16095
+%T Classifying Kepler transients with the Zwicky Transient Facility
+%A Nordin, Jakob; Bellm, Eric C; Cenko, Stephen Bradley; Goobar, Ariel M; Kasliwal, Mansi M; Cook, David Owen 
+%J Kepler/K2 Campaign 16 Guest Observer Proposal GO16095
+%D 12/2016
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO16095
+%B The Zwicky Transient Facility (ZTF) will be fully operational during the Kepler C16 campaign, and provides an ideal partner to Kepler for finding and classification nearby transients. We propose for ZTF to make dedicated observations of the C16 fields, and ensure that all nearby objects are spectroscopically typed.
+
+ZTF adds a new 47 sq. deg. Field-of-View camera with fast read-out electronics to the updated Samuel Oschin 48-inch Schmidt telescope at Palomar Observatory. ZTF is designed to find young and rare optical transients, and will be capable of scanning more than 3750 sq. degrees each hour. ZTF is on track for commissioning next spring and summer. Fall 2017 is focused on building references and training the machine-learning algorithms in rejecting false candidates.
+
+The combination of a depth similar to Kepler (21st mag), an IPAC search pipeline which builds on the successful PTF and iPTF surveys and dedicated spectroscopic resources for classification allows ZTF to find transients in the Kepler fields early enough to trigger the extensive additional observations that are needed to fully utilize Kepler lightcurves. Necessary additional steps to realize this includes: Prioritizing Kepler fields in reference building and scheduling, guaranteeing sufficient scanning and spectroscopic resources and providing classified candidates to the community.

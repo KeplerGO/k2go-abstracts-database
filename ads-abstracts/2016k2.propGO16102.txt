@@ -1,0 +1,15 @@
+%R 2016k2.propGO16102
+%T Multi-Observatory Monitoring of K2 Supernovae
+%A Foley, Ryan J; Shappee, Benjamin J; Piro, Anthony L; Kilpatrick, Charles D; Rest, Armin; Scolnic, Dan; Jha, Saurabh W; Drout, Maria R; Riess, Adam; Fox, Ori D; Coulter, David Allen 
+%J Kepler/K2 Campaign 16 Guest Observer Proposal GO16102
+%D 12/2016
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO16102
+%B To take full advantage of the K2 Supernova Cosmology Experiment, we plan to follow all supernova candidates from four telescopes, the 1.8-m Pan-STARRS telescope on Haleakala, 1.5-m RATIR telescope at San Pedro Matir, the 1-m Nickel telescope at Lick Observatory, and the 1-m Swope telescope at Las Camapanas Observatory.  In combination, we will follow every K2 supernova in 13 bands (uBVgrRiIzyYJH).  The different sites allow for both improved cadence (being at different longitudes) and mitigates against poor weather at a single site.  Moreover, the Pan-STARRS and Swope telescopes are particularly well-calibrated.  The Pan-STARRS telescope was used to discover and monitor ~5000 high-z supernovae and is currently used for the low-z Foundation survey.  The Swope telescope was used for the Carnegie Supernova Project, which has also observed hundreds of supernovae.  Observations on these well-calibrated systems will directly link the K2 supernovae to a thousands of other supernovae observed on these systems.
+
+Our program has three main goals.  First, we will provide the best distances to Type Ia supernovae.  This will allow us to improve Kepler measurements of important physical parameters such as radii of the progenitor stars.  It will also allow us to look for subtle correlations between the K2 light curves and Hubble residuals.
+
+Second, we will use the K2 Type Ia supernovae as a "Rosetta" sample, anchored to the Pan-STARRS system.  As the K2 supernovae will undoubtedly be observed by many telescopes, it is a rare opportunity to cross-calibrate all telescopes using supernovae themselves.  The Pan-STARRS telescope has already observed the entire Campaign 16 footprint and has been ubercalibrated across the entire sky, making it the ideal system to be the anchor.
+
+Finally, we will monitor all newly discovered supernovae at high cadence in multiple bands.  Because of our different sites, we will be able to monitor the supernovae for a particularly long continuous period.  Our filtered observations at these early times will provide important color information to complement the Kepler light curves.
+
+In addition to our photometric resources, we will spectroscopically observe these supernovae with telescopes from Lick, Keck, Las Campanas, Apache Point, Cerro Tololo, and Kitt Peak observatories.

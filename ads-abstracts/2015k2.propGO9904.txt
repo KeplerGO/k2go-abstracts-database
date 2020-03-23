@@ -1,0 +1,9 @@
+%R 2015k2.propGO9904
+%T Testing the role of a strong magnetic field in the production of flares from low mass stars
+%A Ramsay, Gavin 
+%J Kepler/K2 Campaign 9 Guest Observer Proposal GO9904
+%D 07/2015
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO9904
+%B Flares are seen on a range of stars including our Sun. However, flares from stars with a much lower mass than our Sun are more common. At the start of K2 we initiated a project to observe a range of late type stars to determine how the flare activity depended on mass and hence a better understanding of the underlying physics of flares. Our work will also have implications for determining how flares can effect the habitability of any exoplanets in the stellar system.
+
+Our target for Field 9 is GJ 1224 and is classified in SIMBAD as a known flare star (M4.5V). This together with its brightness (Kepmag=12.0) make it very suitable for short cadence mode data (short duration flares are likely to be missed in long cadence mode). Unlike other flare stars observed with Kepler or K2, there is a body of ground based optical data on this source which suggest it has a low vsini (<3 km/s) (indicating a slow rotation speed or low inclination) but also has evidence for a significant magnetic field (2.7 kG) (Reiners & Basri 2007 ApJ 656 1121). Morin et al (2010 MNRAS 407 2269) obtained spectra which also indicated a significant magnetic field and they inferred a strong dipole field. Our target is also a known X-ray source and has a high LX /Lbol ratio (Delfosse et al 1998 A&A 331 581). Given that none of the M4V stars observed previously using Kepler and K2 have known magnetic fields, GJ 1224 is therefore an excellent target to examine the role that a strong magnetic field has on the rate and energy of stellar flares on low mass stars.

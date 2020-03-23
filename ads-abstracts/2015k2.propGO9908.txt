@@ -1,0 +1,7 @@
+%R 2015k2.propGO9908
+%T K2 Observations of 3 Candidate Pulsating WDs in Field 9
+%A Hermes, J.J. 
+%J Kepler/K2 Campaign 9 Guest Observer Proposal GO9908
+%D 07/2015
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO9908
+%B We propose short-cadence observations in Field 9 of the K2 mission of three candidate pulsating white dwarfs, as identified from the VST Photometric Hα Survey of the Southern Galactic Plane and Bulge (VPHAS+).

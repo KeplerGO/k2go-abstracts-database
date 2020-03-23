@@ -1,0 +1,7 @@
+%R 2014k2.propGO2006
+%T K2 Campaign 2 and 3 proposal: Searching For Hot Jupiters In Binary Stars
+%A Wang, Ji 
+%J Kepler/K2 Campaign 2 Guest Observer Proposal GO2006
+%D 05/2014
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO2006
+%B K2 Campaign 2 program.

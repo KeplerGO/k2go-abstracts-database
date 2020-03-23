@@ -1,0 +1,7 @@
+%R 2014k2.propGO2021
+%T Pulsating Pre-Main-Sequence stars in the Upper Scorpius Association
+%A Ripepi, V. 
+%J Kepler/K2 Campaign 2 Guest Observer Proposal GO2021
+%D 05/2014
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO2021
+%B K2 Campaign 2 program.

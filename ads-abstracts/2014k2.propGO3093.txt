@@ -1,0 +1,7 @@
+%R 2014k2.propGO3093
+%T Asteroseismology of bright Red Giants
+%A Silva Aguirre, V. 
+%J Kepler/K2 Campaign 3 Guest Observer Proposal GO3093
+%D 05/2014
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO3093
+%B K2 Campaign 3 program.

@@ -1,0 +1,7 @@
+%R 2018k2.propGO19006
+%T Hunting for Starspots and TTVs in Known Transiting Exoplanetary Systems
+%A Mocnik, Teo; Hellier, Coel; Southworth, John 
+%J Kepler/K2 Campaign 19 Guest Observer Proposal GO19006
+%D 04/2018
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO19006
+%B We propose to observe a set of known transiting exoplanet systems during observing Campaigns 17, 18 and 19 in the short-cadence observing mode. The primary goal is to detect starspot occultation events and search for transit-timing variations (TTVs). Secondary goals are to refine system parameters, search for rotational and phase-curve modulations and to search for any potential additional transiting planets. Targets of particular importance are multiplanetary systems HIP 41378 (Vanderburg et al. 2016, C18) and GJ 9827 (Niraula et al. 2017, C19), which are excellent candidates to exhibit measurable TTVs. We also propose to observe an exoplanet candidate 1SWASP J081636.70+162333.1 (EPIC211734699) during C18, whose planetary status may get confirmed with the aid of K2 observations.

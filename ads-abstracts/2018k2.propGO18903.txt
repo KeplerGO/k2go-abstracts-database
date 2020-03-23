@@ -1,0 +1,7 @@
+%R 2018k2.propGO18903
+%T Observations of ongoing transient events
+%A Rest, Armin 
+%J Kepler/K2 Campaign 18 Guest Observer Proposal GO18903
+%D 04/2018
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO18903
+%B K2 DDT Program.

@@ -1,0 +1,7 @@
+%R 2014k2.propGO1001
+%T Characterizing the Variability of the Nearby Late-Type Dwarf Stars
+%A Giampapa, Mark 
+%J Kepler/K2 Campaign 1 Guest Observer Proposal GO1001
+%D 03/2014
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO1001
+%B K2 Campaign 1 program.

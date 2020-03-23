@@ -1,0 +1,7 @@
+%R 2018k2.propGO18001
+%T Rotation of M dwarfs: Spindown, activity, and gyrochronology
+%A Scholz, Aleks; Stelzer, B.; Ratz, S.; Damasso, M.; Matt, Sean 
+%J Kepler/K2 Campaign 18 Guest Observer Proposal GO18001
+%D 04/2018
+%I DATA: https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id=GO18001
+%B We propose to continue our K2 project to measure rotation periods and activity diagnostics for bright, nearby M dwarfs from a recent proper motion survey. These data are an essential part of our aim to determine the rotation/activity relation of M dwarfs, which is the key to understanding the fully convective dynamo transition and angular momentum evolution at the low-mass end of the stellar sequence, and to characterize the high-energy environments of habitable zones around M dwarfs.
