@@ -2,8 +2,8 @@
 
 This repository contains:
 
-* `k2go-abstracts-database.csv`: a CSV file detailing the abstracts of all observed K2 Guest Observer science
-  programs.
+* `k2go-abstracts-database.csv`: a CSV file detailing the titles, abstracts, and team of K2 Guest Observer science
+  programs for which at least one target was observed.
 * `create-ads-abstracts.py`: a Python script which converts the CSV file into ADS records.
 
 ### Notes
